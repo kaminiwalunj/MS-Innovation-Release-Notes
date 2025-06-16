@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-06-14</summary>
+
+### Release Date: 2025-05-26
+
+- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power platform portal.
+  
+- **Testing Date**: 2025-06-14
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+
+## Screenshot Updates
+
+- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power platform portal.
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, enhanced the labguide with new latest screenshots.
+
+
+---
+</details>
+
+
+<details>
   <summary>2025-05-26</summary>
 
 ### Release Date: 2025-05-26
