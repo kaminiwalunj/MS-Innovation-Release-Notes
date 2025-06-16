@@ -13,25 +13,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-<details>
-  <summary>23rd May 2025</summary>
+## Release Notes
+
+ <details>
+  <summary>2025-06-13</summary>
 
 ## Infrastructure Changes
 
-- NA
-
+  N/A
 
 ## Content Changes
 
-  - NA
+ N/A
 
 ## Screenshot Updates
 
-- Everything is aligned with recent UI changes. No changes needed
+- **Change**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Additional Notes**: Included notes for closing pop-ups and other relevant prompts where necessary.
+    - **Instruction Refinements**: Revised certain instructions for consistency with the updated visuals, and corrected numbering and rendering issues.
 
 ## Testing Notes
 
+- **Testing Date**: 2025-06-13
+
+---
+</details>
+
+<details>
+  <summary>2025-05-23</summary>
+    
+## Testing Notes
+
 - **Testing Date**: 2025-05-23
+
 
 ---
 </details>
