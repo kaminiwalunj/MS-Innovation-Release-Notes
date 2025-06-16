@@ -28,7 +28,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Screenshot Updates
 
-- **Change**: 
+- **Minor updates**: 
 
     - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
     - **Additional Notes**: Included notes for closing pop-ups and other relevant prompts where necessary.
