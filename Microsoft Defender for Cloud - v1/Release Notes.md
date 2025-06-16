@@ -46,3 +46,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 ---
 </details>
 
+<details>
+  <summary>2025-06-16</summary>
+
+### Release Date: 2025-06-16
+  
+- **Testing Date**: 2025-06-16
+
+## Infrastructure Changes
+
+  NA
+  
+## Content Changes
+
+  NA
+
+## Screenshot Updates
+
+- **Change**: Updated some screenshots for the whole lab to reflect the latest UI changes in the Azure Portal.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, and reorganized exercises for better alignment with the overall lab flow.
+
+---
+</details>
+
