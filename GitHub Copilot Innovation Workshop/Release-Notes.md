@@ -53,7 +53,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>8th May 2025</summary>
+  <summary>2025-05-08</summary>
 
 - Major Updates
 
@@ -63,7 +63,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>31st December 2024</summary>
+  <summary>2024-12-31</summary>
 
 - Major Updates
 
