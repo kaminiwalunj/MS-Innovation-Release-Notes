@@ -16,6 +16,32 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>16 June 2025</summary>
+
+### Release Date: 2025-06-16
+  
+  - N/A  
+
+## Infrastructure Changes
+
+  - N/A
+
+## Content Changes
+
+  - N/A
+
+## Screenshot Updates
+
+  - N/A
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-16
+
+---
+</details>
+
+<details>
   <summary>27 May 2025</summary>
 
 ### Release Date: 2025-05-27

@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-06-11</summary>
+
+### Release Date: 2025-06-11
+
+- **Change**: Made changes to powershell script present in Exercise 3 - Task 1.1
+- **Testing Date**: 2025-06-11
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+ 
+- Updated the powershell script present in Exercise 3 - Task 1.1 which will install IIS service, remove default html page and add new updated html page, and start the IIS server.
+- Updated lab guide steps with latest UI present in azure portal.
+- Getting started page has been updated as per the new UI changes in the CloudLabs.
+
+## Screenshot Updates
+
+- Screenshots have been updated as per new UI changes and updated instructions.
+- Updated lab guide with more screenshots wherever required and with latest UI present in azure portal.
+- Getting started page has been updated as per the new UI changes in the CloudLabs.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-11
+- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
+- **Issues Found**: Powershell script present in Exercise 3 - Task 1.1 was failing.
+- **Resolved Issues**: Updated with working Powershell script.
+---
+</details>
+
+<details>
   <summary>2025-05-27</summary>
 
 ### Release Date: 2025-05-27
