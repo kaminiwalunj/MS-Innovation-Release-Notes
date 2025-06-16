@@ -34,6 +34,7 @@ NA
 - **Change**: 
 
     1. Screenshots have been updated to reflect the introduction of Copilot in Fabric, and all images have been revised accordingly.
+    2. Getting started page has been Updated as per new Ui updates in cloudlabs portal
 
 ## Testing Notes
 
