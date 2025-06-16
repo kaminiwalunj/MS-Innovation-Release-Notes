@@ -20,7 +20,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-05-26
 
-- **Change**: NA
+- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power platform portal.
   
 - **Testing Date**: 2025-06-14
 
