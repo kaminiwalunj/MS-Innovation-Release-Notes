@@ -49,3 +49,38 @@ NA
 
 ---
 </details>
+
+
+<details>
+   <summary>2025-06-16</summary>
+
+### Release Date: 2025-06-16
+
+- **Change**: Updated to the new GPT-4o model version and revised the guide to reflect the latest UI changes.
+- **Testing Date**: 2025-06-16
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    1. Updated to the new GPT-4o model version and validated its feasibility.
+    2. Enhanced the lab guide to reflect the latest changes.
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots and instructions have been updated to reflect the latest UI changes.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-16
+- **Tested Features**: Inline validations, the latest UI changes, and the lab’s functionality.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+
+---
+</details>
