@@ -65,4 +65,3 @@ https://github.com/MS-learning/mslearn-knowledge-mining.git
 
 - **Testing Date**: 2025-06-19
   
-</details>
