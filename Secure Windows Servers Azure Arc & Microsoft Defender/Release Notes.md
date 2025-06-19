@@ -21,6 +21,44 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 # Release Notes
+
+<details>
+  <summary>2025-06-09</summary>
+
+### [Release Date: 2025-06-20]
+
+- **Change**: Minor UI updates to enhance user experience).
+- **Testing Date**: 2025-06-20
+- **Notes**: NA
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+
+
+## Screenshot Updates
+
+- **Minor Updates**:
+
+  - Updated screenshots reflecting minor UI changes.  
+  - Added necessary notes to prevent confusion and corrected alignment issues.
+ 
+## Testing Notes
+
+- **Testing Date**: 2025-06-20
+- **Issues Found**: NA
+- 
+---
+
+For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
+
+---
+</details>
+
 <details>
   <summary>2025-06-09</summary>
 
