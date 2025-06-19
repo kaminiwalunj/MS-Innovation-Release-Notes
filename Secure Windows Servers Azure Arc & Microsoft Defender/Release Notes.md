@@ -23,7 +23,7 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
-  <summary>2025-06-09</summary>
+  <summary>2025-06-20</summary>
 
 ### [Release Date: 2025-06-20]
 
@@ -60,7 +60,7 @@ For any further details or inquiries, feel free to reach out to the MS-Innovatio
 </details>
 
 <details>
-  <summary>2025-06-20</summary>
+  <summary>2025-06-09</summary>
 
 ### [Release Date: 2025-06-09]
 
