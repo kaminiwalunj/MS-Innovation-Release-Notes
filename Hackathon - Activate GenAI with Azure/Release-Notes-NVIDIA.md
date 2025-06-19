@@ -36,7 +36,7 @@ NA
 -  **Challenge 3**:
     -  Updated images for all the content changes that have been accomodated
 - **Challenge 4**: Images have been updated as per the new Llama model in the chat playground
-
+</details>
 <details>
   <summary>19th June 2025</summary>
 
@@ -65,3 +65,4 @@ https://github.com/MS-learning/mslearn-knowledge-mining.git
 
 - **Testing Date**: 2025-06-19
   
+</details>
