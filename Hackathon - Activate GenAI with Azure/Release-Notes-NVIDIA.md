@@ -36,3 +36,33 @@ NA
 -  **Challenge 3**:
     -  Updated images for all the content changes that have been accomodated
 - **Challenge 4**: Images have been updated as per the new Llama model in the chat playground
+
+<details>
+  <summary>19th June 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates 
+
+[Solution Guide]
+- **Challenge 1**: Updated screenshots to reflect the new UI in the Azure portal while creating the Azure OpenAI service. Included updated visuals and steps for deploying the gpt-35-turbo and text-embedding-ada-002 models to align with the latest AI Foundry portal experience.
+-  **Challenge 2**:
+    - The command to clone the repository has been updated to use https://github.com/CloudLabsAI-Azure/mslearn-knowledge-mining.git instead of the previous
+https://github.com/MS-learning/mslearn-knowledge-mining.git
+    - Instructions revised to navigate to the Azure AI services (multi-service account) within the AI Foundry, guiding users to fetch the required service.
+-  **Challenge 3**:
+     Included guidance for resolving Docker Desktop errors, If a WSL update was required.
+-  **Challenge 4**:
+     Updated the environment variable setup instructions during chat app deployment to reflect the correct model name (meta/llama3-8b-instruct)
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-19
+  
+</details>
