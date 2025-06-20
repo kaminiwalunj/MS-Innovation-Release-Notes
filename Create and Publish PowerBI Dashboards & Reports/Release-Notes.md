@@ -22,6 +22,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 
+<details>
 ### 10th March 2025
 
 - **Change**: Updated lab guide with multiple screenshots as there were UI changes in Power BI reports.
@@ -47,7 +48,8 @@ Updated screenshot with new UI changes.
 - **Tester**: [Prajwal Kumar]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
-
+</details>
+<details>
 ### 25th April 2025
 
 - **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
@@ -71,8 +73,8 @@ Updated the Getting started page as there were UI updates.
 - **Tester**: [Riya Singh]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
-
-
+</details>
+<details>
 ### 12th June 2025
 
 - **Change**: Updated the Getting started and create and publish page as there were UI and screenshots and updates.
@@ -97,4 +99,4 @@ Updated the Getting started page nd create and publish page as there were UI and
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 
----
+</details>
