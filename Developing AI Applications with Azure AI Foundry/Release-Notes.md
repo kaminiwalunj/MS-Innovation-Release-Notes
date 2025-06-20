@@ -16,6 +16,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-06-20</summary>
+
+### Release Date: 2025-06-20
+  
+- **Testing Date**: 2025-06-20
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+    - Lab 06 : 
+        In Image and Text Moderation Using Azure AI Foundry, the initially provided images for testing harmful content   detection were not triggering detections. Updated the images to ensure the service correctly identifies harmful image content during testing.
+## Screenshot Updates
+
+- **Change**: The naming convention used for the Connected AI resource in the instructions did not align with the screenshot. Hence Updated the instruction to reflect the correct naming convention for consistency.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes.
+ 
+</details>
+<details>
   <summary>2025-06-06</summary>
 
 ### Release Date: 2025-06-06
