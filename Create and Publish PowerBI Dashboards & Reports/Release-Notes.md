@@ -24,10 +24,6 @@ This repository contains detailed notes about the latest updates and modificatio
 
 <details>
 <summary>2025-06-12</summary>
-
-- **Change**: Updated the Getting started and create and publish page as there were UI and screenshots and updates.
-- **Testing Date**: 2025-06-11
-
 ## Infrastructure Changes
 
 NA
@@ -43,7 +39,6 @@ Updated the Getting started page nd create and publish page as there were UI and
 ## Testing Notes
 
 - **Testing Date**: 2025-06-12
-- **Tester**: [Y Tejeesh Raghav]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 
@@ -52,17 +47,14 @@ Updated the Getting started page nd create and publish page as there were UI and
 <details>
 <summary>2025-04-25</summary>
 
-- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
-- **Testing Date**: 2025-04-25
-
 ## Infrastructure Changes
 
 NA
 
 ## Content Changes
 
-- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab.
-
+- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
+- **Testing Date**: 2025-04-25
 ## Screenshot Updates
 
 Updated the Getting started page as there were UI updates.
@@ -77,10 +69,6 @@ Updated the Getting started page as there were UI updates.
 
 <details>
 <summary>2025-03-10</summary>
-
-- **Change**: Updated lab guide with multiple screenshots as there were UI changes in Power BI reports.
-- **Testing Date**: 2025-03-10
-
 ## Infrastructure Changes
 
 NA
