@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-june-18</summary>
+
+### Release Date: 2025-june-18
+  
+- **Testing Date**: 2025-june-18
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    - Replace some blur screenshot and Added the new one.
+
+## Screenshot Updates
+
+- **Change**: Screenshots are up-to-date.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, Added few screenshot, and reorganized exercises for better alignment with the overall lab flow.
+
+---
+</details>
+
+
+<details>
   <summary>2025-05-22</summary>
 
 ### Release Date: 2025-05-22
