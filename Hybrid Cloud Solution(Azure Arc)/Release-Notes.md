@@ -15,11 +15,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2025-06-16</summary>
+  <summary>2025-06-17</summary>
 
-### Release Date: 2025-06-16
+### Release Date: 2025-06-17
 
-- **Testing Date**: 2025-06-16
+- **Testing Date**: 2025-06-17
 
 ## Infrastructure Changes
 
