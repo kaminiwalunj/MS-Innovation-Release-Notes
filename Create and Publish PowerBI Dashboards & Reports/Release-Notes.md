@@ -24,6 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 <details>
 <summary>2025-06-12</summary>
+
 ## Infrastructure Changes
 
 NA
@@ -69,6 +70,7 @@ Updated the Getting started page as there were UI updates.
 
 <details>
 <summary>2025-03-10</summary>
+
 ## Infrastructure Changes
 
 NA
