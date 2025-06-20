@@ -39,20 +39,20 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-- Updated lab guide steps with latest UI present in azure portal.
+- Updated lab guide steps with the latest UI present in Azure portal.
 - Getting started page has been updated as per the new UI changes in the CloudLabs. 
   
 ## Screenshot Updates
 
-- Screenshots have been updated as per new UI changes and updated instructions.
-- Updated lab guide with more screenshots wherever required and with latest UI present in azure portal.
+- Screenshots have been updated as per the new UI changes and updated instructions.
+- Updated lab guide with more screenshots wherever required.
 - Getting started page has been updated as per the new UI changes in the CloudLabs.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-06-18
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: Latest Python Packages were incompatible with the jupyter notebooks used in this lab. 
-- **Resolved Issues**: Downgraded Python packages which were causing issues for the jupyter notebooks used in this lab.
+- **Issues Found**: The Latest Python Packages were incompatible with the Jupyter notebooks used in this lab. 
+- **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
