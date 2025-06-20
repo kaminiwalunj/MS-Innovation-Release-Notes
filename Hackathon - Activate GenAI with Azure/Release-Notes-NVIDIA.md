@@ -36,7 +36,8 @@ https://github.com/MS-learning/mslearn-knowledge-mining.git
 -  **Challenge 3**:
      Included guidance for resolving Docker Desktop errors, If a WSL update was required.
 -  **Challenge 4**:
-     Updated the environment variable setup instructions during chat app deployment to reflect the correct model name (meta/llama3-8b-instruct)
+     - Updated the environment variable setup instructions during chat app deployment to reflect the correct model name (meta/llama3-8b-instruct)
+     - Updated the Bicep templates in the infra folder to use the latest version of the definitions.
 
 ## Testing Notes
 
