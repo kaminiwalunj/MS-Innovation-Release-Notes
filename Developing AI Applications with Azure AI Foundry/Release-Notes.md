@@ -27,7 +27,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 NA
 
 ## Content Changes
-    - Lab 06 : 
+   Lab 06 : 
         In Image and Text Moderation Using Azure AI Foundry, the initially provided images for testing harmful content   detection were not triggering detections. Updated the images to ensure the service correctly identifies harmful image content during testing.
 ## Screenshot Updates
 
