@@ -37,9 +37,11 @@ This Page contains detailed notes about the latest updates and modifications mad
    - **Cause:** The latest version of `semantic-kernel[azure]` was incompatible with the implementation.
    - **Solution:** Downgraded the package to version **1.28.0**, resolving the issue.
 
+- Updated the Python code in the Jupyter Notebooks to resolve the issues that were occurring   
+
 ## Content Changes
 
-- Updated lab guide steps with the latest UI present in Azure portal.
+- Updated lab guide steps with the latest UI present in the Azure portal.
 - Getting started page has been updated as per the new UI changes in the CloudLabs. 
   
 ## Screenshot Updates
