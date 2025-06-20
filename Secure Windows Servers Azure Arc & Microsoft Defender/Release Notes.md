@@ -23,12 +23,12 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
-  <summary>2025-06-20</summary>
+  <summary>2025-06-19</summary>
 
-### [Release Date: 2025-06-20]
+### [Release Date: 2025-06-19]
 
 - **Change**: Minor UI updates to enhance user experience).
-- **Testing Date**: 2025-06-20
+- **Testing Date**: 2025-06-19
 - **Notes**: NA
 
 ## Infrastructure Changes
@@ -49,7 +49,7 @@ NA
  
 ## Testing Notes
 
-- **Testing Date**: 2025-06-20
+- **Testing Date**: 2025-06-19
 - **Issues Found**: NA
 - 
 ---
