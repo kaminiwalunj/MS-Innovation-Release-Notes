@@ -20,7 +20,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 <details>
   
-  <summary>12 May 2025</summary>
+  <summary>12 May 2025</summary>   
 
 
 ### 12 May 2025
