@@ -14,6 +14,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 <details>
+  <summary>23-June-2025</summary>
+
+## Infrastructure Changes
+
+## Content Changes
+
+## Screenshot Updates
+
+- Updated the screenshot and instructions to reflect the UI changes related to Secret Protection.
+
+</details>
+
+
+<details>
+  <summary>10-June-2025</summary>
+
+## Infrastructure Changes
+
+## Content Changes
+
+- Added explainer content related to **GitHub Secret Protection** and **GitHub Code Security**.
+
+## Screenshot Updates
+
+- Updated the lab guide with additional minor changes.
+
+## Testing Notes
+
+- **Testing Date**: 10-June-2025
+
+</details>
+
+
+<details>
   <summary>08 May 2025</summary>
 
 - Updates
