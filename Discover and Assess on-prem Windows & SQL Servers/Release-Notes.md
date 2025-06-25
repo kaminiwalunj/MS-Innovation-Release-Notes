@@ -16,33 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-June-17</summary>
-
-## Infrastructure Changes
-
-- Automated Password Update: Script updated to automate the password reset process for ODL users.
-- Updated the Script for the TLS version 
-- Updated the Script for creation of the Domain Service.
-
-## Content Changes
-
-- TLS Upgrade Step Added: Included a step to update the TLS version from 1.0 to 1.2 for Domain Services.
-
-## Screenshot Updates
-
-- Automated Password Update: Script updated to automate the password reset process for ODL users.
-- Lab Guide Refreshed: Updated the lab guide to reflect the latest UI changes and enhancements.
-
-## Testing Notes
-
-- **Testing Date**: 2025-June-17
-
-
-</details>
-
-
-<details>
-  <summary>2025-05-14</summary>
+  <summary>2025-June-25</summary>
 
 ## Infrastructure Changes
 
@@ -50,12 +24,10 @@ NA
 
 ## Content Changes
 
-NA
-  
+- **Change**: Updated the lab exercise to update the steps as per Microsoft and minor UI changes
+
 ## Screenshot Updates
 
-- The Getting Started page has been updated to reflect the Microsoft Innovation format. As part of this update, an architecture diagram has been included along with a detailed explanation of each component in the diagram.
-- Additional notes related to pop-ups have been included in the lab guide to guide users during setup steps, enhancing usability during lab execution.
-- In Lab 8 and Lab 9, users are instructed to create custom roles with specific names. To handle scenarios where the role might already exist, a note has been added advising users to skip the task if the role is already present.
-- In Lab 11, the task involving Conditional Access Policy creation has been refined. A note has been added to skip this step if the policy already exists, and instructions related to enabling MFA have been updated.
+- **Change**: Updated the screenshot showing the lab environment setup.
+- **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
 
