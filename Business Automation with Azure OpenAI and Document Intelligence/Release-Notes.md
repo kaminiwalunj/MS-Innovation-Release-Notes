@@ -15,6 +15,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+</details>
+<details>
+  <summary>2025-07-09</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Major Changes**: 
+    - The Lab Overview and Lab Objectives have been updated. 
+
+- **Minor Changes**: Minor UI Changes and instructions updated.
+  
+## Screenshot Updates
+
+- **Change**: The screenshots are updated, which are unclear.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-09
+- **Resolved Issues**: NA
+</details>
+
 <details>
   <summary>2025-06-18</summary>
 
