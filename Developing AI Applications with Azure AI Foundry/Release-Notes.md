@@ -17,11 +17,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 </details>
 <details>
-  <summary>2025-07-07</summary>
+  <summary>2025-07-11</summary>
 
-### Release Date: 2025-07-07
+### Release Date: 2025-07-11
   
-- **Testing Date**: 2025-07-07
+- **Testing Date**: 2025-07-11
 
 ## Infrastructure Changes
 
@@ -30,7 +30,7 @@ NA
 ## Content Changes
 
 - **Change**:
-    - There were a few UI updates, minor grammatical errors, which I have updated.
+    - There were a few UI changes, so I updated and added clear instructions.
     - **Getting started page**: Architecture Overview is updated and made minor changes as per the testing checklist
 
 ## Screenshot Updates
