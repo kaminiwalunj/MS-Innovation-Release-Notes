@@ -14,6 +14,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-07-09</summary>
+
+### Release Date: 2025-07-09
+
+## Infrastructure Changes
+
+As the previously referenced Marketplace image was deprecated, the ARM template has been updated to reference the latest supported image: "Visual Studio Enterprise on Windows 11 Enterprise", ensuring continued compatibility and successful deployments.
+
+## Content Changes
+
+- **Change**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
+
+## Screenshot Updates
+
+- **Change**: Screenshots are up-to-date.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-11
+</details>
 
 <details>
   <summary>2025-06-11</summary>
