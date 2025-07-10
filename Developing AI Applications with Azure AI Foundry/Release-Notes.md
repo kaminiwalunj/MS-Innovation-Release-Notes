@@ -1,6 +1,6 @@
 # Developing AI Applications with Azure AI Foundry
 
-Welcome to the **Developing AI Applications with Azure AI Foundry** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Developing AI Applications with Azure AI Foundry** Release-Notes.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -31,7 +31,7 @@ NA
 
 - **Change**:
     - There were a few UI updates, minor grammatical errors, which I have updated.
-    - **Getting started page** NA
+    - **Getting started page**: Architecture Overview is updated and made minor changes as per the testing checklist
 
 ## Screenshot Updates
 
