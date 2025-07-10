@@ -34,3 +34,23 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 ---
 </details>
+
+<details>
+  <summary>2025-07-10</summary>
+
+## Infrastructure Changes
+
+Updated the psscript and logon task scripts to reduce the time taken by the environment to get deployed significantly.
+
+## Content Changes
+
+- **Change**: The lab environment content has been updated to reflect the latest UI changes, including updated screenshots and instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-10
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
