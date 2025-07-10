@@ -40,8 +40,7 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 ## Infrastructure Changes
 
-Optimized the psscript and logon-task scripts to significantly reduce the environment deployment time.
-.
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same.
 
 ## Content Changes
 
