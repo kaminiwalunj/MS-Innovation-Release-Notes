@@ -17,7 +17,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Testing Notes
 
-- **Testing Date**: 2025-07-10
+<details>
+  <summary>9 May 2025</summary>
 
 <details>
   <summary>9 May 2025</summary>
