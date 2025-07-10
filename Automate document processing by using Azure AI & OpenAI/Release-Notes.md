@@ -20,9 +20,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>9 May 2025</summary>
 
-<details>
-  <summary>9 May 2025</summary>
-
 ## Infrastructure Changes
 
 NA
