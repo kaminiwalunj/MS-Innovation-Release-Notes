@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-As the previously referenced Marketplace image was deprecated, the ARM template has been updated to reference the latest supported image: "Visual Studio Enterprise on Windows 11 Enterprise", ensuring continued compatibility and successful deployments.
+As the previously referenced Marketplace image was deprecated, the ARM template has been updated to reference the latest supported image: "Visual Studio 2022 Enterprise on Windows 11 Enterprise", ensuring continued compatibility and successful deployments.
 
 ## Content Changes
 
@@ -33,7 +33,7 @@ As the previously referenced Marketplace image was deprecated, the ARM template 
 
 ## Testing Notes
 
-- **Testing Date**: 2025-06-11
+- **Testing Date**: 2025-07-09
 </details>
 
 <details>
