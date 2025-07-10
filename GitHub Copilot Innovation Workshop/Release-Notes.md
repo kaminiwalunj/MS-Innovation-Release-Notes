@@ -16,7 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
  <details>
-  <summary>2025-07-09</summary>
+  <summary>2025-07-10</summary>
 
 ## Infrastructure Changes
 
@@ -32,7 +32,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
     - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface, and some of the screenshots were not clear; updated with new ones. 
     - **Additional Notes**: Included notes for utilising Copilot suggestions in VS Code if the suggestions do not come on its own.
-    - **Instruction Refinements**: Updated some instructions to match the new visuals and fixed numbering and rendering issues
+    - **Instruction Refinements**: Fixed few numbering and rendering issue. 
 
 ## Testing Notes
 
