@@ -14,6 +14,24 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 <details>
+  
+<details>
+  <summary>09-July-2025</summary>
+
+## Infrastructure Changes
+
+## Content Changes
+
+- Naming convention of the organization is updated hence the instructions are changed.
+  
+## Screenshot Updates
+
+- Updated the screenshot and instructions to reflect the UI changes based on the Content Change.
+
+</details>
+
+  
+<details>
   <summary>23-June-2025</summary>
 
 ## Infrastructure Changes
