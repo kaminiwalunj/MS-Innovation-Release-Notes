@@ -20,7 +20,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Infrastructure Changes
 
-There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain the same. 
 
 ## Content Changes
 
@@ -40,11 +40,12 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 ## Infrastructure Changes
 
-Updated the psscript and logon task scripts to reduce the time taken by the environment to get deployed significantly.
+Optimized the psscript and logon-task scripts to significantly reduce the environment deployment time.
+.
 
 ## Content Changes
 
-- **Change**: The lab environment content has been updated to reflect the latest UI changes, including updated screenshots and instructions.
+- **Change**: Updated the lab content to align with the latest UI changes, including revised screenshots and instructions.
 
 ## Testing Notes
 
