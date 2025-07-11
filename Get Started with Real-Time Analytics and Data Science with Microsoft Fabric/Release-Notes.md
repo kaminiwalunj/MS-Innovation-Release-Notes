@@ -31,11 +31,11 @@ This Page contains detailed notes about the latest updates and modifications mad
   
 ## Content Changes
 
-  Getting Started Page: NA
+  Getting Started Page: Updated to replace the Azure Portal login flow with the new Microsoft Fabric portal login instructions.
 
 ## Screenshot Updates
 
-- **Change**: Updated lab guide and screenshots, which are unclear.
+- **Change**: Replaced and updated lab guide screenshots that were previously unclear
 
 ## Validation
 
