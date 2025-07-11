@@ -31,7 +31,7 @@ NA
 ## Screenshot Updates 
 
 ## Testing Notes
-  
+</details>
 <details>
   <summary>2025-06-03</summary>
 
