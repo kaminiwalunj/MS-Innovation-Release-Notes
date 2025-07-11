@@ -32,6 +32,7 @@ NA
 
 ## Testing Notes
 </details>
+
 <details>
   <summary>2025-06-03</summary>
 
@@ -88,7 +89,7 @@ NA
 
 <details>
   <summary>2025-04-29</summary>
-### 29 April 2025
+29 April 2025
 
 - No Major Updates  
 
@@ -100,7 +101,7 @@ NA
 
 <details>
   <summary>2024-12-31</summary>
-### 31 December 2024
+31 December 2024
 
 - Major Updates  
 
