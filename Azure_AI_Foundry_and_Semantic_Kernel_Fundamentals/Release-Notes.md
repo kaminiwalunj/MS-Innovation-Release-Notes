@@ -16,7 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-06-10</summary>
+  <summary>2025-07-11</summary>
 
 ### Release Date: 2025-07-11
 
