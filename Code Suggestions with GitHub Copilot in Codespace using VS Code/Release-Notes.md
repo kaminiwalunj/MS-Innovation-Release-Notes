@@ -20,7 +20,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Infrastructure Changes
 
-There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain the same. 
 
 ## Content Changes
 
@@ -29,6 +29,26 @@ There have been no infrastructure modifications or changes applied to the lab en
 ## Testing Notes
 
 - **Testing Date**: 2025-05-30
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
+
+<details>
+  <summary>2025-07-10</summary>
+
+## Infrastructure Changes
+
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same.
+
+## Content Changes
+
+- **Change**: Updated the lab content to align with the latest UI changes, including revised screenshots and instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-10
 - **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
 - **Resolved Issues**: NA
 
