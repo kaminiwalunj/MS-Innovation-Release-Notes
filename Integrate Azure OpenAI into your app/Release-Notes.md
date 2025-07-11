@@ -19,7 +19,7 @@ This Page contains detailed notes about the latest updates and modifications mad
   <summary>2025-07-11</summary>
   
 ### Release Date: 2025-07-11
-- **Change** :
+- **Change** : Updated **.NET SDK** from **version 8** to **9**, screenshots, commands
 - **Testing Date**: 2025-07-11
 
 ## Infrastructure Changes
@@ -27,10 +27,17 @@ This Page contains detailed notes about the latest updates and modifications mad
 NA
 
 ## Content Changes
-
+- Updated the .NET SDK version to latest compatible **version 9**
+- Update the commands in below tasks: 
+	Task 3: step 9
+	Subtask 4.1 : step 3, step 4, step 9
+	Subtask 4.2 : step 3
+	Task 5
+- Corrected the file name test-openai-model to application.py as **application.py** was the file name in the lab
+- Few minor changes in lab guide 
 ## Screenshot Updates 
+- Updated the screenshots in Task 1
 
-## Testing Notes
 </details>
 
 <details>
