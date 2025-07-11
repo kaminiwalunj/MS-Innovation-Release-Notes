@@ -17,11 +17,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 </details>
 <details>
-  <summary>2025-07-11</summary>
+  <summary>2025-07-10</summary>
 
-### Release Date: 2025-07-11
+### Release Date: 2025-07-10
   
-- **Testing Date**: 2025-07-11
+- **Testing Date**: 2025-07-10
 
 ## Infrastructure Changes
 
