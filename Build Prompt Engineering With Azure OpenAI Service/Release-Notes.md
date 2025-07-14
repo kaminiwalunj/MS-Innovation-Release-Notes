@@ -16,6 +16,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-11</summary>
+
+## Infrastructure Changes
+
+  N/A
+
+## Content Changes
+
+  1. Updated a few instructions to reflect new UI changes for the  Azure AI Foundry portal
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. A few of the images were updated to reflect the new UI for Azure AI Foundry portal navigation, and blurred images were replaced with clear ones. 
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-10
+
+---
+</details>
+
+
+<details>
   <summary>2025-05-26</summary>
 
 ## Infrastructure Changes
