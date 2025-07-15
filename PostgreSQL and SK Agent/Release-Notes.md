@@ -15,14 +15,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+In this section, we will track and list each change introduced in the latest release:
+
+**This is a newly onboarded lab.**
+
 <details>
-  <summary>2025-07-14</summary>
-
-### Release Date: 2025-07-14
-
-- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in PostgreSQL Connection and the Jupyter Notebook.
   
-- **Testing Date**: 2025-07-14
+  <summary>14 June 2025</summary>
 
 ## Infrastructure Changes
 
@@ -32,19 +31,12 @@ NA
 
 NA
   
-
 ## Screenshot Updates
-
-- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates PostgreSQL Connection and the Jupyter Notebook.
-
-## Validation Updates
 
 NA
 
 ## Testing Notes
 
-- **Test Validation Summary**: Validated the lab guide steps, enhanced the labguide with new latest screenshots.
+NA
 
----
 </details>
-
