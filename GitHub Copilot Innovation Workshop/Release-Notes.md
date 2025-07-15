@@ -1,6 +1,6 @@
 # GitHub Copilot Innovation Workshop
 
-Welcome to GitHub Copilot Innovation Workshop. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the GitHub Copilot Innovation Workshop. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -13,31 +13,74 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-<details>
-  <summary>23rd May 2025</summary>
+## Release Notes
+
+ <details>
+  <summary>2025-07-10</summary>
 
 ## Infrastructure Changes
 
-- NA
-
+  N/A
 
 ## Content Changes
 
-  - NA
+ N/A
 
 ## Screenshot Updates
 
-- Everything is aligned with recent UI changes. No changes needed
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface, and some of the screenshots were not clear; updated with new ones. 
+    - **Additional Notes**: Included notes for utilising Copilot suggestions in VS Code if the suggestions do not come on its own.
+    - **Instruction Refinements**: Fixed few numbering and rendering issue. 
 
 ## Testing Notes
 
-- **Testing Date**: 2025-05-23
+- **Testing Date**: 2025-07-08
+
+---
+</details>
+
+
+ <details>
+  <summary>2025-06-13</summary>
+
+## Infrastructure Changes
+
+  N/A
+
+## Content Changes
+
+ N/A
+
+## Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Additional Notes**: Included notes for closing pop-ups and other relevant prompts where necessary.
+    - **Instruction Refinements**: Revised certain instructions for consistency with the updated visuals, and corrected numbering and rendering issues.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-13
 
 ---
 </details>
 
 <details>
-  <summary>8th May 2025</summary>
+  <summary>2025-05-23</summary>
+    
+## Testing Notes
+
+- **Testing Date**: 2025-05-23
+
+
+---
+</details>
+
+<details>
+  <summary>2025-05-08</summary>
 
 - Major Updates
 
@@ -47,7 +90,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>31st December 2024</summary>
+  <summary>2024-12-31</summary>
 
 - Major Updates
 

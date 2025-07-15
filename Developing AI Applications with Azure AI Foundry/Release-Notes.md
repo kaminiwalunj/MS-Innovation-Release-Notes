@@ -1,6 +1,6 @@
 # Developing AI Applications with Azure AI Foundry
 
-Welcome to the **Developing AI Applications with Azure AI Foundry** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Developing AI Applications with Azure AI Foundry** Release-Notes.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -15,6 +15,65 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+</details>
+<details>
+  <summary>2025-07-10</summary>
+
+### Release Date: 2025-07-10
+  
+- **Testing Date**: 2025-07-10
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    - There were a few UI changes, so I updated and added clear instructions.
+    - **Getting started page**: Architecture Overview is updated and made minor changes as per the testing checklist
+
+## Screenshot Updates
+
+- **Change**: Screenshots are updated, which are unclear.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest changes.
+---
+</details>
+
+<details>
+  <summary>2025-06-20</summary>
+
+### Release Date: 2025-06-20
+  
+- **Testing Date**: 2025-06-20
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+   Lab 06 : 
+        In Image and Text Moderation Using Azure AI Foundry, the initially provided images for testing harmful content   detection were not triggering detections. Updated the images to ensure the service correctly identifies harmful image content during testing.
+## Screenshot Updates
+
+- **Change**: The naming convention used for the Connected AI resource in the instructions did not align with the screenshot. Hence Updated the instruction to reflect the correct naming convention for consistency.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes.
+ 
+</details>
 <details>
   <summary>2025-06-06</summary>
 
