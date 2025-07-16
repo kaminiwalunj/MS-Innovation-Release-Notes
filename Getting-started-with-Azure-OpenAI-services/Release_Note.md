@@ -27,13 +27,14 @@ NA
 
 ## Content Changes
 
-- **Change**: Minor changes in the context.
+- **Changes**: Minor changes in the context.
 
 ## Screenshot Updates
 
-- **Change**: Updated few screenshots as the bouding boxes were improper.
+- **Changes**: Updated few screenshots as the bouding boxes were improper.
 
 </details>
+
 
 <details>
   <summary>2025-05-26</summary>
