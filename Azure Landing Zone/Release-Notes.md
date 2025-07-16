@@ -41,3 +41,29 @@ NA
 NA
 
 </details>
+
+<details>
+  
+  <summary>14 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  - **Change**:
+
+    1. Instructions were updated to be more precise and clear.
+  
+## Screenshot Updates
+
+ - **Change**:
+
+   1. Screenshots were added to enhance the overall user experience.
+
+## Testing Notes
+
+   - **Testing Date**: 2025-07-14
+
+</details>
