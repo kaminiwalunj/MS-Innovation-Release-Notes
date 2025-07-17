@@ -20,9 +20,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
+- No major changes
+
 ## Content Changes
 
-- Naming convention of the organization is updated hence the instructions are changed.
+- The instructions have been updated to reflect the revised naming convention of the **GitHub Organization**
   
 ## Screenshot Updates
 
