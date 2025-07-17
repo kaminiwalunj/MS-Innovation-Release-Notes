@@ -24,15 +24,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
- N/A
+ - In Exercise 7 Task 2, we have now split this into two separate tasks. 
 
 ## Screenshot Updates
 
 - **Minor updates**: 
 
     - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface, and some of the screenshots were not clear; updated with new ones. 
-    - **Additional Notes**: Included notes for utilising Copilot suggestions in VS Code if the suggestions do not come on its own.
-    - **Instruction Refinements**: Fixed few numbering and rendering issue. 
+    - **Additional Notes**: Included notes for utilising Copilot suggestions in VS Code if the suggestions do not come on their own.
+    - **Instruction Refinements**: Fixed a few numbering and rendering issues. 
 
 ## Testing Notes
 
