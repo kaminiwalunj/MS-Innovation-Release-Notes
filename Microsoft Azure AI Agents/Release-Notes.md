@@ -16,6 +16,30 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-14</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+The latest round of testing has been successfully completed, incorporating both the updated UI changes and the enhancements made to the lab guide content. All modifications have been verified to ensure a consistent and improved user experience throughout the lab.
+  
+## Screenshot Updates
+
+The screenshots have been updated to align with the latest content, adhere to the revised resource naming conventions, and improve overall clarity and navigation.
+
+## Testing Notes
+
+The lab has been thoroughly tested with all updated screenshots and content revisions, and no issues were identified during the testing process.
+
+- **Testing Date**: 2025-07-14
+
+</details>
+
+
+<details>
   <summary>2025-06-20</summary>
 
 ## Infrastructure Changes
