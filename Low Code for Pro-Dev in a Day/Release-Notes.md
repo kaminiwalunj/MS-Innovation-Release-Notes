@@ -79,7 +79,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 - **Testing Date**: 2025-07-22
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: As per Lab Guide there were no issues and coming accept deployment issue because of powerapps License.
-- **Resolved Issues**: Once power apps license is updated we have to rerun the log on task
+- **Issues Found**: As per Lab Guide there were no issues. We are facing issue in deployment failed because of powerapps License.
+- **Resolved Issues**: Once power apps license is updated we have to rerun the log on task.
 
 </details>
