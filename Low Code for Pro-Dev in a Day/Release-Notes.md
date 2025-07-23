@@ -52,3 +52,34 @@ This repository contains detailed notes about the latest updates and modificatio
 - **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the logon script starts.
 ---
 </details>
+
+<details>
+  <summary>2025-07-22</summary>
+
+###Release Date : 2025-07-22
+
+- **Testing Date**: 2025-07-22
+## Infrastructure Changes
+
+**Details:**
+- The deployment is getting failed the reason is we have to assign power app license.
+- Then again we have to rerun the logon task.
+- After marking as success then we can open the environment link.
+
+## Content Changes
+ 
+- Added clear instructions for users to navigate to correct development environment.
+
+## Screenshot Updates
+
+- Screenshots have been updated as per new UI changes and updated instructions.
+- Added multiple screenshots for better understanding.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-22
+- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
+- **Issues Found**: As per Lab Guide there were no issues and coming accept deployment issue because of powerapps License.
+- **Resolved Issues**: Once power apps license is updated we have to rerun the log on task
+
+</details>
