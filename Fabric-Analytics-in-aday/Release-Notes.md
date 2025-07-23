@@ -15,6 +15,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 <details>
+  
+  <summary>18 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates
+
+NA
+
+## Testing Notes
+
+The existing content is good, and the lab is functioning as expected.
+
+</details>
+<details>
    <summary>April 2025</summary>
 
 
