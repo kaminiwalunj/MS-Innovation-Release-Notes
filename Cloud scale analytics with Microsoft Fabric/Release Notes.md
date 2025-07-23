@@ -1,6 +1,6 @@
-# MS-Innovation Release Notes
+# Cloud scale analytics with Microsoft Fabric Release Notes
 
-Welcome to the MS-Innovation Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the Cloud scale analytics with Microsoft Fabric Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Table of Contents
 
@@ -24,46 +24,38 @@ This repository contains detailed notes about the latest updates and modificatio
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: YYYY-MM-DD]
+### Release Date:
+ 
+ <details>
+  <summary>2025-07-22</summary>
 
-- **Change**: Description of the change made (e.g., bug fix, new feature added, performance improvement).
-- **Testing Date**: YYYY-MM-DD
-- **Notes**: Any additional information or context related to the change.
+- **Change**: Over 150 UI and instruction enhancments for better understanding for end user. 
+- **Testing Date**: 2025-07-22
+- **Notes**: Updated content for better understanding.
 
 ## Infrastructure Changes
 
-List any updates or modifications made to the lab infrastructure, including server updates, environment changes, or configuration updates.
-
-### Example
-
-- **Change**: Updated server configuration for improved performance.
-- **Details**: The backend server was upgraded to a more powerful instance to handle increased traffic.
+- **Change**: Removed the Power BI Pro license to save cost and the usage policy that wasn't required.
+- **Details**: The Power BI Pro licenses wasn't needed moving forward and was removed from the Template level and the usage policy for Fabric Administrator was removed as well.
 
 ## Content Changes
 
-Document any changes made to the content, such as updates to documentation, code changes, or revisions in lab exercises.
-
-### Example
-
-- **Change**: Updated the lab exercise on machine learning models.
-- **Details**: Added new example code to illustrate the process of hyperparameter tuning.
+- **Change**: Updated the lab exercise with brand new UI and instruction enhancements to make the lab more user friendly.
+- **Details**: Updated the screenshots and instructions related to it.
 
 ## Screenshot Updates
 
-Keep track of any modifications to the screenshots used within the lab content, ensuring that they are up-to-date with the current lab version.
-
-### Example
-
-- **Change**: Updated the screenshot showing the lab environment setup.
+- **Change**: Updated the screenshot reflecting the latest UI changes in the lab.
 - **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
 
 ## Testing Notes
 
-- **Testing Date**: YYYY-MM-DD
-- **Tested Features**: List of features tested during the session.
-- **Issues Found**: Any bugs or issues discovered during testing.
-- **Resolved Issues**: A list of issues that were resolved since the last testing cycle.
+- **Testing Date**: 2025-07-22
+- **Tested Features**: Workspace, Lakehouse, Data Pipeline, Dataflow Gen2, and Notebooks.
+- **Issues Found**: No bugs found during testing.
+- **Resolved Issues**: Major UI changes and instruction chagnes, License removal and Usage policy removal.
 
 ---
 
 For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
+</details>
