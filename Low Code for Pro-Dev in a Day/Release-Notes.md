@@ -14,6 +14,35 @@ This repository contains detailed notes about the latest updates and modificatio
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2025-07-22</summary>
+
+### Release Date : 2025-07-22
+
+- **Testing Date**: 2025-07-22
+
+## Infrastructure Changes
+
+**Details:**
+- Updated automation script to fix *dev test* environment deployment in power apps portal.
+- Resolved the license issue.
+
+## Content Changes
+ 
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+## Screenshot Updates
+
+- Included multiple screenshots to enhance clarity.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-22
+- **Tested Features**: Inline validations, latest UI changes, decreasing lab provisioning time, complete functionality of the lab.
+- **Issues Found**: The lab guide appears to be accurate, with no identified issues. The deployment failure is related to a missing or insufficient PowerApps license.
+- **Resolved Issues**: Resolved license discrepancies and improved deployment stability. No significant changes to lab guide instructions, but added additional screenshots to enhance clarity.
+  
+</details>
 
 <details>
   <summary>2025-06-04</summary>
@@ -51,35 +80,4 @@ This repository contains detailed notes about the latest updates and modificatio
 - **Issues Found**: Dev test environment was not showing up in powerapps portal, pac and npm pacakges are not installed.
 - **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the logon script starts.
 ---
-</details>
-
-<details>
-  <summary>2025-07-22</summary>
-
-###Release Date : 2025-07-22
-
-- **Testing Date**: 2025-07-22
-## Infrastructure Changes
-
-**Details:**
-- The deployment is getting failed the reason is we have to assign power app license.
-- Then again we have to rerun the logon task.
-- After marking as success then we can open the environment link.
-
-## Content Changes
- 
-- Added clear instructions for users to navigate to correct development environment.
-
-## Screenshot Updates
-
-- Screenshots have been updated as per new UI changes and updated instructions.
-- Added multiple screenshots for better understanding.
-
-## Testing Notes
-
-- **Testing Date**: 2025-07-22
-- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: As per Lab Guide there were no issues. We are facing issue in deployment failed because of powerapps License.
-- **Resolved Issues**: Once power apps license is updated we have to rerun the log on task.
-
 </details>
