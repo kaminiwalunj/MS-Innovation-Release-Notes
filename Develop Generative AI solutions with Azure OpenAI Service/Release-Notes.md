@@ -1,6 +1,6 @@
 # Develop Generative AI solutions with Azure OpenAI Service
 
-Welcome to the **Develop Generative AI solutions with Azure OpenAI Service** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Develop Generative AI solutions with Azure OpenAI Service** Release-Notes.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+   <summary>2025-07-18</summary>
+
+### Release Date: 2025-07-18
+
+- **Change**:
+     - Major update regarding all the labs. Previously, we were performing a few steps by cloning the application code from the MSlearn OpenAI git repository, but all relevant files from the MS repo have now been removed. Hence, now in Lab 3, 4, and 5, we have updated steps to clone the CloudLabs repo.
+     - There were issues in the C# and Python code in all the Labs, have fixed and updated them. 
+ 
+- **Testing Date**: 2025-07-16
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    1. Updated instructions and images reflecting the changes with cloning the Cloudlabs repo. 
+    2. Fixed issues with Python and C# code files and updated the files accordingly in the lab guide as well as in the source file repo. 
+
+## Screenshot Updates
+
+- **Change**: 
+
+   - Screenshots have been updated with instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-16
+- **Tested Features**: Inline validations, latest UI and instruction changes, functionality of the lab.
+- **Issues Found**: Had issues in Python and C# code in all the labs. 
+- **Resolved Issues**: Updated with working code.
+
+---
+</details>
+
 
 <details>
    <summary>2025-05-22</summary>
@@ -31,7 +69,7 @@ NA
 
 - **Change**:
     1. Updated lab guide with proper instructions.
-    2. Had issue with python code in Lab-06 due to python packages issue, updated with working code.
+    2. Had issue with Python code in Lab-06 due to Python packages issue, updated with working code.
 
 ## Screenshot Updates
 

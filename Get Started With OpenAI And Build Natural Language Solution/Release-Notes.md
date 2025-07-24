@@ -14,6 +14,35 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>16 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- In Lab 02: Use Azure OpenAI SDKs in your app, the mslearn repository being cloned in Step 7 has been updated, resulting in content and code changes within the CSharp and Python files. These changes have now been incorporated accordingly.
+  
+## Screenshot Updates
+
+- **Change**: 
+
+ - Minor Updates
+   
+    1. Screenshots have been updated as per new Cloudlabs UI in Getting started page. 
+    2. Updated some of the images which were not clear. 
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-14
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+
+---
+</details>
+
+<details>
   <summary>09 June 2025</summary>
 
 ## Infrastructure Changes

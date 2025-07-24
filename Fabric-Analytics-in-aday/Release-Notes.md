@@ -1,6 +1,43 @@
-# Release Notes
+# Fabric Analytics in A Day
 
-# April 2025
+Welcome to the **Fabric Analytics in A Day** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+## Release Notes
+<details>
+  
+  <summary>18 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates
+
+NA
+
+## Testing Notes
+
+The existing content is good, and the lab is functioning as expected.
+
+</details>
+<details>
+   <summary>April 2025</summary>
+
 
 - Standardized the color used for image markup to Orange (#F7AC08)
 
@@ -65,8 +102,9 @@
   - Lab 07:
 
     - Updated Screenshots
-
-# February 2025
+</details>
+<details>
+   <summary>February 2025</summary>
 
 - Updated screenshots due to significant changes in the UI, specifically
   with the fabric personas. Labs are updated to point to the workload
@@ -77,8 +115,9 @@
 - Updated all labs and instructor guide to reflect latest changes were made as of 02.2025.
 
 - Saved a new PDF version of all labs to make sure the PDF was up to date with the most recent screenshots and lab instructions.
-
-# December 2024 
+</details>
+<details>
+   <summary>December 2024 </summary>
 
 - Updated Fabric workspace screenshots for all labs to align with the more recent updates to the UI. All these screenshot updates were to account for UI changes. 
 
@@ -87,8 +126,9 @@
 - Updated the PDF Documents to include the latest changes were made as of 12.2024 (December) 
 
 - Saved a new PDF version of all labs to make sure the PDF was up to date with most recent screenshots and lab instructions. 
-
-# August 2024 
+</details>
+<details>
+   <summary>August 2024</summary>
 
 - Updated following labs:
 
@@ -121,7 +161,9 @@
 
 - Updated pptx slides by including content for Data Mirroring, Linking.
 
-# March 2024 
+</details>
+<details>
+   <summary>March 2024</summary>
 
 - Moved Reports and Solutions folder from Desktop of lab environment to C:\FAIAD\ folder.
 
@@ -163,3 +205,4 @@
 - Updated instructor guide by adding links to labs (language specific links).
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
+</details>

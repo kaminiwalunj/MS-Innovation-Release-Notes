@@ -23,6 +23,30 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2025-07-17</summary>
+
+## Infrastructure Changes
+
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
+
+## Content Changes
+
+- **Change**: The content of the lab environment has not been changed or modified. All datasets, configurations, and files remain the same.
+  
+## Screenshot Updates
+
+- **Change**: Screenshots have been updated with clarity.
+  
+## Testing Notes
+
+- **Testing Date**: 2025-07-17
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
+
+<details>
   <summary>2025-05-23</summary>
 
 ## Infrastructure Changes

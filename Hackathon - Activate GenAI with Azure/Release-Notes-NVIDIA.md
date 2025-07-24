@@ -14,6 +14,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>21 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+- Made changes in lab guide Challenge 1 task 1 where the content of generating a new API key was compressed and redirected to a link.
+- Updated the lab guide which had few typo mistakes and added inject key where ever suggested.
+- Changed the powershell command in challenge 1 task 4.
+
+## Screenshot Updates 
+
+- Few screenshots were updated and new screenshot was being added in challenge 1 regarding WSL update.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-21
+
+</details>
+
+<details>
+  <summary>18 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Challenge 1** and **Challenge 2**: Updated to reflect the new UI in the Azure portal where the Azure AI services is renamed to Azure AI Foundry.
+-  **Challenge 3**:
+    -  Updated instruction for better clarity.
+    - Added a note "If jq is not found or fails to download, open PowerShell and run choco install jq to install it", in task 3. 
+-  **Challenge 4**: Updated the Overview by replacing Terraform with Bicep to reflect the current setup. 
+  
+## Screenshot Updates 
+
+[Solution Guide]
+- **Challenge 1** and **Challenge 2**: Improved the visuals by adding clearer, more up-to-date screenshots.
+-  **Challenge 3**:
+    -  Updated images for all the content changes that have been accommodated
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-18
+</details>
+
 <details>
   <summary>19th June 2025</summary>
 

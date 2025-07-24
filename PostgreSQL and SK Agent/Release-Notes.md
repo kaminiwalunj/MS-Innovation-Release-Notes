@@ -1,5 +1,6 @@
-# Azure Landing Zone
-Welcome to the **Azure Landing Zone** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+# PostgreSQL and SK Agent 
+
+Welcome to the Semantic Kernel Agent with Azure PostgreSQL Lab Release-notes. In this page, we will document the onboarding data, changes made during the last testing cycle, including updates related to the infrastructure setup, lab content, screenshots, plugin configurations, and other relevant modifications for the AI agent orchestration and database integration lab.
 
 ## Overview
 
@@ -12,17 +13,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
-
 
 **This is a newly onboarded lab.**
 
 <details>
   
-  <summary>21 April 2025</summary>
+  <summary>14 June 2025</summary>
 
 ## Infrastructure Changes
 
@@ -39,31 +38,5 @@ NA
 ## Testing Notes
 
 NA
-
-</details>
-
-<details>
-  
-  <summary>14 July 2025</summary>
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-
-  - **Change**:
-
-    1. Instructions were updated to be more precise and clear.
-  
-## Screenshot Updates
-
- - **Change**:
-
-   1. Screenshots were added to enhance the overall user experience.
-
-## Testing Notes
-
-   - **Testing Date**: 2025-07-14
 
 </details>
