@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>07-June-2025</summary>
+  <summary>2025-07-10</summary>
 
-### Release Date: 07-June-2025
+### Release Date: 2025-07-10
 
 ## Infrastructure Changes
 
@@ -36,7 +36,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Testing Notes
 
-- **Testing Date**: 07-June-2025
+- **Testing Date**: 2025-07-10
 - **Tested Features**: Tested
 - **Issues Found**: 
    - Encountered an issue while downgrading the package to **1.28.0**.
