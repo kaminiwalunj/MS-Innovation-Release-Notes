@@ -15,6 +15,26 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
+
+<details>
+  <summary>28-July-2025</summary>
+
+## Infrastructure Changes
+
+- Made Rbac
+- Updated the parameter in Custom Script
+
+## Content Changes
+
+- 
+  
+## Screenshot Updates
+
+- Updated the screenshot and instructions to reflect the UI changes based on the Content Change.
+
+</details>
+
+
 <details>
   <summary>09-July-2025</summary>
 
