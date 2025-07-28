@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Testing Notes
 <details>
-  <summary>10 July 2025</summary>
+  <summary>2025-07-10</summary>
 
 ## Infrastructure Changes
 
