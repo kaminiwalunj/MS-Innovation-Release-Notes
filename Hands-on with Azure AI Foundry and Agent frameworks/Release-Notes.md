@@ -30,12 +30,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Content Changes
  
 - Refined lab instructions to improve clarity.
-- Added missing guidance where steps could be ambiguous or confusing.
 
 ## Screenshot Updates
 
 - Replaced outdated screenshots with new ones reflecting the current UI.
-- Added additional screenshots for steps that previously lacked visual guidance.
 
 ## Testing Notes
 
