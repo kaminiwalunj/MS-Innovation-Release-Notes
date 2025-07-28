@@ -25,6 +25,37 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2025-07-15</summary>
+
+### Release Date: 2025-07-15
+
+- **Testing Date**: 2025-07-15
+
+## Infrastructure Changes
+
+**Details:**
+- No infrastructure changes were required in this update.
+
+## Content Changes
+ 
+- Refined lab instructions to improve clarity.
+- Added missing guidance where steps could be ambiguous or confusing.
+
+## Screenshot Updates
+
+- Replaced outdated screenshots with new ones reflecting the current UI.
+- Added additional screenshots for steps that previously lacked visual guidance.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-15
+- **Tested Features**: Full lab flow including all sections and tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
+<details>
   <summary>12 Jun 2025</summary>
 In this section, we will track and list each change introduced in the latest release:
 
