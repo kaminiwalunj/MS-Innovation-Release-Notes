@@ -17,36 +17,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-07-28</summary>
-
-### Release Date: 2025-07-28
-  
-- **Testing Date**: 2025-07-25
-
-## Infrastructure Changes
-
-  NA
-  
-## Content Changes
-
-  NA
-
-## Screenshot Updates
-
-- **Change**: Updated several screenshots to highlight step numbers and to conceal unnecessary details for clarity and consistency.
-
-## Validation
-
-  NA
-
-## Testing Notes
-
-- **Test Validation Summary**: Validated the lab guide steps and updated the content to incorporate revised instructions and notes.
-
----
-</details>
-
-<details>
   <summary>2025-05-15</summary>
 
 ### Release Date: 2025-05-15
