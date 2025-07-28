@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+  
+- **Testing Date**: 2025-07-25
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    - The user interface has been updated to reflect the latest changes. Corresponding instructions and guidance have also been revised to align with the new UI enhancements.
+    - **Getting started page** NA
+
+## Screenshot Updates
+
+- **Change**: Screenshots are up-to-date.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, the user interface has been updated to reflect the latest changes. Corresponding instructions and guidance have also been revised to align with the new UI enhancements.
+
+---
+</details>
+
+<details>
   <summary>2025-06-18</summary>
 
 ### Release Date: 2025-06-18
