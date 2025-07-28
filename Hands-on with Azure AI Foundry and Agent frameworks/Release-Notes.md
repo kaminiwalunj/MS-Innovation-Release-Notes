@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+
+- **Testing Date**: 2025-07-25
+
+## Infrastructure Changes
+
+**Details:**
+- No infrastructure changes were required in this update.
+
+## Content Changes
+ 
+- Refined lab instructions to improve clarity.
+- Added missing guidance where steps could be ambiguous or confusing.
+
+## Screenshot Updates
+
+- Replaced outdated screenshots with new ones reflecting the current UI.
+- Added additional screenshots for steps that previously lacked visual guidance.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-25
+- **Tested Features**: Full lab flow including all sections from AI Foundry initialization to Agent Framework tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
+<details>
+  <summary>2025-06-04</summary>
+
+<details>
   <summary>2025-07-10</summary>
 
 ### Release Date: 2025-07-10
