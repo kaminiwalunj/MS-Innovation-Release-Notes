@@ -18,7 +18,7 @@ NA
 
 - **Change**:
     
-    - **Data preparation** notebooks are updated with latest working files and cells.
+    - **Data preparation** notebooks are updated with the latest working files and cells.
     - Power Virtual Agents has been rebranded to **Microsoft Copilot Studio**.
       
 ## Screenshot Updates
@@ -26,4 +26,29 @@ NA
 - **Change**: Updated the screenshots as per the latest UI changes.
 
 ---
+</details>
+<details>
+  
+  <summary>2025-07-18</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  - **Change**:
+
+    1. Instructions were updated to be more precise and clear.
+  
+## Screenshot Updates
+
+ - **Change**:
+
+   1. Screenshots were added to enhance the overall user experience.
+
+## Testing Notes
+
+   - **Testing Date**: 2025-07-18
+
 </details>
