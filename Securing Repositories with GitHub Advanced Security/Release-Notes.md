@@ -21,13 +21,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-- Made Rbac
-- Updated the parameter in Custom Script
-
 ## Content Changes
 
-- 
-  
 ## Screenshot Updates
 
 - Updated the screenshot and instructions to reflect the UI changes based on the Content Change.
