@@ -19,32 +19,9 @@ In this section, we will track and list each change introduced in the latest rel
 
 
 **This is a newly onboarded lab.**
-
 <details>
   
-  <summary>21 April 2025</summary>
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-
-NA
-  
-## Screenshot Updates
-
-NA
-
-## Testing Notes
-
-NA
-
-</details>
-
-<details>
-  
-  <summary>14 July 2025</summary>
+  <summary>2025-07-14</summary>
 
 ## Infrastructure Changes
 
@@ -67,3 +44,26 @@ NA
    - **Testing Date**: 2025-07-14
 
 </details>
+
+<details>
+  
+  <summary>2025-04-21</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates
+
+NA
+
+## Testing Notes
+
+NA
+
+</details>
+
