@@ -23,9 +23,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
 ## Screenshot Updates
 
-- Updated the screenshot and instructions to reflect the UI changes based on the Content Change.
+- Included multiple screenshots to enhance clarity.
 
 </details>
 
