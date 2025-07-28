@@ -41,8 +41,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - **Testing Date**: 2025-07-25
 - **Tested Features**: Full lab flow including all sections from AI Foundry initialization to Agent Framework tasks.
-- **Issues Found**: `uv` command fails in fresh environments due to path misconfiguration.
-- **Resolved Issues**: None directly resolved in this update; the fix is being tracked separately.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
   
 </details>
 
