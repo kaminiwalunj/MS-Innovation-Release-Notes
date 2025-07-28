@@ -38,7 +38,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Testing Notes
 
 - **Testing Date**: 2025-07-25
-- **Tested Features**: Full lab flow including all sections from AI Foundry initialization to Agent Framework tasks.
 - **Issues Found**: NA
 - **Resolved Issues**: NA
   
