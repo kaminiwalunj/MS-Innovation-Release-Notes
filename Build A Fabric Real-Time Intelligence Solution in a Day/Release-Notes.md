@@ -27,7 +27,7 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated some instructions for improved clarity and comprehension.
+- **Change**: Revised certain instructions to enhance clarity and improve overall comprehension.
 
 ## Screenshot Updates
 
@@ -61,7 +61,7 @@ NA
 
 - **Change**: 
 
-    1. Screenshots have been updated as per new UI changes and added the numberings in few images.
+    1. Screenshots have been updated to reflect the new UI changes and have been further enhanced for better visual guidance.
     2. Getting started page has been updated as per the new UI changes in the CloudLabs
 
 ## Testing Notes

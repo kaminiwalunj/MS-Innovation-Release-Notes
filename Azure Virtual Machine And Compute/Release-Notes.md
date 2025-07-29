@@ -26,12 +26,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 NA
 
 ## Content Changes
-  
-Instructions were updated to be more precise and clear.
+
+The instructions have been revised for greater clarity and accuracy.
 
 ## Screenshot Updates
 
-Screenshots were updated to enhance the overall user experience. 
+Screenshots have been updated to reflect the latest UI changes and enhance the overall user experience.
 
 ## Validation
 

@@ -24,14 +24,14 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-  1. Updated a few instructions to reflect new UI changes for the  Azure AI Foundry portal
+  1. Revised select instructions to align with the updated UI of the Azure AI Foundry portal.
 
 ## Screenshot Updates
 
 - **Change**: 
 
-    1. A few of the images were updated to reflect the new UI for Azure AI Foundry portal navigation, and blurred images were replaced with clear ones. 
-
+    1. Refreshed several images to reflect the new navigation and UI updates in the Azure AI Foundry portal.
+    
 ## Testing Notes
 
 - **Testing Date**: 2025-07-10

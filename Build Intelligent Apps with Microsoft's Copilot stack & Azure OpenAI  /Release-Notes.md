@@ -29,12 +29,11 @@ NA
 ## Content Changes
 
 - **Change**:
-    - There were a few screenshots updates and minor grammatical errors, which I have corrected.
-    - **Getting started page** NA
+    - Made minor updates to screenshots and refined the content for improved clarity and readability.
 
 ## Screenshot Updates
 
-- **Change**: Few Screenshots changes that are updated.
+- **Change**: Made a few updates to the screenshots to reflect recent changes.
 
 ## Validation
 
