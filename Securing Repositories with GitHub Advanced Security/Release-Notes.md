@@ -15,6 +15,23 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
+
+<details>
+  <summary>28-July-2025</summary>
+
+## Infrastructure Changes
+
+## Content Changes
+
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+## Screenshot Updates
+
+- Included multiple screenshots to enhance clarity.
+
+</details>
+
+
 <details>
   <summary>09-July-2025</summary>
 
