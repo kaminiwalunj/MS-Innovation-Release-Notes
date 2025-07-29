@@ -26,24 +26,19 @@ NA
 
 ## Content Changes
 
-### Lab 06
-   - Added new steps in Task 1 for forking `https://github.com/Cloudlabs-Enterprises/github-action` repo, by selecting devops-org-xxx as owner.
-   - Initially, we have encountered an issue while trying to install Azure Boards for free, as the Install for free option was not visible. However, after forking the above referenced repository and setting the owner as devops-org-xxx, the option became available.
-  - It was the major issue, now it is resolved.
-
 ## Screenshot Updates
 
 - **Change**: Updated and added screenshots at required steps
 
 ## Validation
 
-Removed the lab validation from Lab 06, it was no longer supported.
+All the validations are working fine as expected.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-05-27
-- **Issues Found**: Issue in Lab06 while trying to install Azure Boards for free
-- **Resolved Issues**: Lab 06 issue resolved.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
 ---
 </details>
 
