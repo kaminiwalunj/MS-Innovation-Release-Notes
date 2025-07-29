@@ -67,8 +67,8 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-05-21
-- **Issues Found**: Issue in Lab06 while trying to install Azure Boards for free
-- **Resolved Issues**: Lab06 issue is still not resolved.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
 
 ---
 </details>
