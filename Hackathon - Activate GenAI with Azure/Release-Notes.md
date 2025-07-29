@@ -4,9 +4,9 @@ Welcome to the **Hackathon - Activate GenAI with Azure** Readme.md. In this page
 
 ## Overview
 
-This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This page contains detailed notes about the latest updates and modifications made after each test iteration. It includes:
 
-- Testing dates
+- Assessment timeline
 - Descriptions of changes to lab infrastructure
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
@@ -22,17 +22,18 @@ This Page contains detailed notes about the latest updates and modifications mad
 NA
 
 ## Content Changes
-- Made changes in lab guide Challenge 1 task 1 where the content of generating a new API key was compressed and redirected to a link.
-- Updated the lab guide which had few typo mistakes and added inject key where ever suggested.
-- Changed the powershell command in challenge 1 task 4.
+- Updated *Challenge 1, Task 1* in the lab guide to streamline the API key generation steps by redirecting users to a dedicated link.
+- Enhanced the lab guide by refining language for clarity and consistency. Also added the *Inject Key* instruction wherever applicable, as suggested.
+- Revised the PowerShell command in *Challenge 1, Task 4* to reflect the latest instructions.
 
 ## Screenshot Updates 
 
-- Few screenshots were updated and new screenshot was being added in challenge 1 regarding WSL update.
+- Modified existing screenshots and introduced a new screenshot in *Challenge 1* to support the WSL update instructions.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-07-21
+- **Testing Scope**: Functional Flow, UI Instructions/ screenshots, command accuracy, provisioning time, edge case handling
 
 </details>
 <details>
