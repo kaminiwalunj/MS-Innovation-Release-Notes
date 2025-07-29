@@ -12,7 +12,31 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 ## Release Notes
+<details>
+  
+  <summary>2025-07-18</summary>
 
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  - **Change**:
+
+    1. Instructions were updated to be more precise and clear.
+  
+## Screenshot Updates
+
+ - **Change**:
+
+   1. Screenshots were added to enhance the overall user experience.
+
+## Testing Notes
+
+   - **Testing Date**: 2025-07-18
+
+</details>
 
 <details>
   <summary>2025-05-20</summary>
@@ -41,28 +65,4 @@ NA
 
 ---
 </details>
-<details>
-  
-  <summary>2025-07-18</summary>
 
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-
-  - **Change**:
-
-    1. Instructions were updated to be more precise and clear.
-  
-## Screenshot Updates
-
- - **Change**:
-
-   1. Screenshots were added to enhance the overall user experience.
-
-## Testing Notes
-
-   - **Testing Date**: 2025-07-18
-
-</details>
