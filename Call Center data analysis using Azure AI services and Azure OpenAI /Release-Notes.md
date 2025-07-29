@@ -58,8 +58,8 @@ NA
 
 - **Change**: 
 
-    1. Screenshots have been updated as per new UI changes and updated instructions
-    2. Getting started page has been updated as per the new UI changes in the CloudLabs
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+    2. Getting started page has been updated as per the new UI changes in the CloudLabs.
 
 ## Testing Notes
 

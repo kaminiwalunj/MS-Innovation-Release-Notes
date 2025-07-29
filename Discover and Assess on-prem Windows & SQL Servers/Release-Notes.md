@@ -24,10 +24,11 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated the lab exercise to update the steps as per Microsoft and minor UI changes
+- **Change**: Updated the lab exercise to align the steps with the latest UI enhancements.
+
 
 ## Screenshot Updates
 
 - **Change**: Updated the screenshot showing the lab environment setup.
 - **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
-
+<details>

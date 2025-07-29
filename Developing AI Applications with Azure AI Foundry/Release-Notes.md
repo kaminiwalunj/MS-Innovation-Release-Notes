@@ -30,12 +30,13 @@ NA
 ## Content Changes
 
 - **Change**:
-    - There were a few UI changes, so I updated and added clear instructions.
-    - **Getting started page**: Architecture Overview is updated and made minor changes as per the testing checklist
+  - Updated instructions to align with recent UI changes and improve clarity.
+
+  - **Getting Started Page**: Revised the Architecture Overview and made minor adjustments.
 
 ## Screenshot Updates
 
-- **Change**: Screenshots are updated, which are unclear.
+- **Change**: Screenshots have been updated to reflect the latest interface.
 
 ## Validation
 
@@ -59,11 +60,11 @@ NA
 NA
 
 ## Content Changes
-   Lab 06 : 
-        In Image and Text Moderation Using Azure AI Foundry, the initially provided images for testing harmful content   detection were not triggering detections. Updated the images to ensure the service correctly identifies harmful image content during testing.
+  - **Lab 06**: Updated test content to ensure more accurate and consistent results during the validation process.
+
 ## Screenshot Updates
 
-- **Change**: The naming convention used for the Connected AI resource in the instructions did not align with the screenshot. Hence Updated the instruction to reflect the correct naming convention for consistency.
+- **Change**: nhanced the instructions by aligning the naming convention with the visuals for improved clarity and consistency.
 
 ## Validation
 
@@ -87,9 +88,7 @@ NA
 
 ## Content Changes
 
-- **Change**:
-    - There were a few UI updates related to Azure OpenAI and minor grammatical errors, which I have corrected.
-    - **Getting started page** NA
+NA
 
 ## Screenshot Updates
 

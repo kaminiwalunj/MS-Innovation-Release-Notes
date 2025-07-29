@@ -69,7 +69,8 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
+- **Change**: * **Change**: Updated the Getting Started page to reflect recent UI changes along with minor content refinements.
+
 - **Testing Date**: 2025-04-25
 ## Screenshot Updates
 
@@ -78,7 +79,6 @@ Updated the Getting started page as there were UI updates.
 ## Testing Notes
 
 - **Testing Date**: 2025-04-25
-- **Tester**: [Riya Singh]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 </details>
@@ -103,7 +103,6 @@ Updated screenshot with new UI changes.
 ## Testing Notes
 
 - **Testing Date**: 2025-03-10
-- **Tester**: [Prajwal Kumar]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 </details>
