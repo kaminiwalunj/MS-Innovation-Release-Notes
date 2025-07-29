@@ -13,7 +13,6 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
-# Release Notes
 
 <details>
 <summary>2025-07-15</summary>
