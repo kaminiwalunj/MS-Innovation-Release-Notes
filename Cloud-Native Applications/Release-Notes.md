@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-07-25</summary>
 
-Internal testing is currently in progress. The release notes will be updated upon its completion.
+Internal testing and feedback incorporation are currently in progress. The release notes will be updated once this is complete.
 </details>
 <details>
   <summary>2025-06-12</summary>
