@@ -13,7 +13,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-## Release Notes
+# Release Notes
 <details>
   
   <summary>29 July 2025</summary>
@@ -54,7 +54,7 @@ NA
 
 ## Testing Notes
 
-The existing content is good, and the lab is functioning as expected.
+The current content is well-structured, and the lab is performing as intended.
 
 </details>
 <details>

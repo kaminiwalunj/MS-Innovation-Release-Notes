@@ -60,8 +60,8 @@ This Page contains detailed notes about the latest updates and modifications mad
   NA
   
 ## Content Changes
+  - Updated the instructions to incorporate steps for revised UI guidance to align with the latest interface updates.
 
-  Updated the instructions to include steps for handling the 'Upgrade to a paid Power BI license' pop-up and revised the UI guidance for adding a query based on the latest interface changes.
 
 ## Screenshot Updates
 

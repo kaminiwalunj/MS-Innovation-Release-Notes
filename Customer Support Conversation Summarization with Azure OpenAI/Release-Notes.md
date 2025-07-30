@@ -24,15 +24,15 @@ NA
 
 ## Content Changes
 
-- **Change**: Added a few notes for better user understanding. Also updated some instructions for improved clarity and comprehension.
+- **Change**: Added helpful notes to enhance user understanding and revised certain instructions for greater clarity and ease of use.
 
 ## Screenshot Updates
 
-- **Change**: There were a lot of UI updates related to AI Foundry; I have made all those updates.
+- **Change**: Numerous UI changes were introduced in AI Foundry, and all relevant updates have been incorporated accordingly.
 
 ## Validation
 
-- **Change**: Added inline validation, and disabled Lab validation tab.
+- **Change**: Added inline validation to streamline the lab flow and improve the overall user experience.
 
 ## Testing Notes
 

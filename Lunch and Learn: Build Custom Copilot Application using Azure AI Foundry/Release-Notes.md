@@ -31,7 +31,8 @@ NA
 ## Content Changes
 
 - **Change**:
-    - Replace some blur screenshot and Added the new one.
+    - Updated screenshots to improve visual clarity and align with the latest interface.
+
 
 ## Screenshot Updates
 
@@ -63,8 +64,8 @@ NA
 ## Content Changes
 
 - **Change**:
-    - There were a few UI updates related to Azure OpenAI and minor grammatical errors, which I have corrected.
-    - **Getting started page** I have updated one screenshot related to the zoom-in and zoom-out functionality.
+    - Updated the content to reflect recent interface changes and provide clearer, more structured instructions.
+
 
 ## Screenshot Updates
 

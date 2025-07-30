@@ -21,8 +21,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Release Date: 2025-07-18
 
 - **Change**:
-     - Major update regarding all the labs. Previously, we were performing a few steps by cloning the application code from the MSlearn OpenAI git repository, but all relevant files from the MS repo have now been removed. Hence, now in Lab 3, 4, and 5, we have updated steps to clone the CloudLabs repo.
-     - There were issues in the C# and Python code in all the Labs, have fixed and updated them. 
+     - Updated all labs to reflect the transition from using the MS Learn OpenAI repository to the CloudLabs repository for application code, with revised steps accordingly in Labs 3, 4, and 5.
+     - Refined and updated the C# and Python code across all labs to ensure consistency and alignment with the latest implementation.
  
 - **Testing Date**: 2025-07-16
 
@@ -34,7 +34,6 @@ NA
 
 - **Change**:
     1. Updated instructions and images reflecting the changes with cloning the Cloudlabs repo. 
-    2. Fixed issues with Python and C# code files and updated the files accordingly in the lab guide as well as in the source file repo. 
 
 ## Screenshot Updates
 
@@ -46,8 +45,6 @@ NA
 
 - **Testing Date**: 2025-07-16
 - **Tested Features**: Inline validations, latest UI and instruction changes, functionality of the lab.
-- **Issues Found**: Had issues in Python and C# code in all the labs. 
-- **Resolved Issues**: Updated with working code.
 
 ---
 </details>
@@ -58,7 +55,8 @@ NA
 
 ### Release Date: 2025-05-22
 
-- **Change**: Had issue with python code in Lab-06 due to python packages issue, updated with working code.
+- **Change**: Updated the Python code in Lab-06 to ensure proper functionality and alignment with the required package setup.
+
 - **Testing Date**: 2025-05-22
 
 ## Infrastructure Changes
@@ -68,8 +66,7 @@ NA
 ## Content Changes
 
 - **Change**:
-    1. Updated lab guide with proper instructions.
-    2. Had issue with Python code in Lab-06 due to Python packages issue, updated with working code.
+    1. Refined the lab guide with clear and structured instructions.
 
 ## Screenshot Updates
 
@@ -82,8 +79,6 @@ NA
 
 - **Testing Date**: 2025-05-22
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: Had issue with python code in Lab-06 due to python packages issue
-- **Resolved Issues**: Updated with working code.
 
 ---
 </details>

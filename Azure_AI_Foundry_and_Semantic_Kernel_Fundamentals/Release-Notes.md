@@ -20,9 +20,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-07-11
 
-- **Change**: We are good with the lab, everything is up to date.
+- **Change**: The lab is all set and up to date. All implementations, including those in both C# and Python, are in place and working as expected.
 
-  
 - **Testing Date**: 2025-07-11
 
 ## Infrastructure Changes
@@ -55,8 +54,7 @@ NA
 
 ### Release Date: 2025-06-10
 
-- **Change**: Tested the lab till Exercie 4, to fix the issue related to weather plugin in **Exercise 3 Task 4** . Updated the weather plugin, C# code in Exercise 3 Task 4. 
-
+- **Change**: Exercise 4 was refined to ensure greater accuracy and precision. Updates were also made to the weather plugin and C# code in **Exercise 3 Task 4** to align with the latest implementation.
   
 - **Testing Date**: 2025-05-10
 

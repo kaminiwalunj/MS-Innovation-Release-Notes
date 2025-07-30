@@ -23,13 +23,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 NA
 
 ## Content Changes
-- Made changes in lab guide Challenge 1 task 1 where the content of generating a new API key was compressed and redirected to a link.
-- Updated the lab guide which had few typo mistakes and added inject key where ever suggested.
-- Changed the powershell command in challenge 1 task 4.
+  - Refined content in Challenge 1 Task 1 by streamlining the API key generation steps and linking to external guidance.
+  - Updated the PowerShell command in Challenge 1 Task 4 for improved accuracy and consistency.
 
 ## Screenshot Updates 
 
-- Few screenshots were updated and new screenshot was being added in challenge 1 regarding WSL update.
+- Several screenshots were refreshed, and an additional image was included to support updated instructions in Challenge 1.
+
 
 ## Testing Notes
 

@@ -14,10 +14,9 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
-  <summary>27 May 2025</summary>
+  <summary>2025-05-27</summary>
 
 - **Change**: Updated the infrastructure since Azure Stack HCI has been rebranded to Azure Local.
-- **Testing Date**: 2025-05-27
 
 ## Infrastructure Changes
 

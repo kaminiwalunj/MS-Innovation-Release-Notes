@@ -58,11 +58,11 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: On the Getting Started page, I have updated a screenshot related to the Lab Guide's Zoom In/Zoom Out feature.
+- **Change**: Updated a screenshot to align with recent interface enhancements and improve visual clarity.
 
 ## Testing Notes
 
-- **Test Validation Summary**: Validated lab guide steps, RBAC assignments, and Azure policy enforcement to ensure end-to-end functionality in the updated Azure environment.
+- **Test Date**: 2025-06-03
 
 ---
 </details>

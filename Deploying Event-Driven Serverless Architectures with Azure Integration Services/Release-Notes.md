@@ -26,7 +26,7 @@ NA
 
 ## Content Changes
 
-   - In Ex 2 Task 7 Step 10, added a note to update NPM in case the commands failed to run.
+   - I* Content was refined to enhance clarity and provide more comprehensive guidance.
 
 ## Screenshot Updates
 
@@ -35,6 +35,5 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-06-13
-- **Issues Found**: Issue in Ex2 Task 7 Step 8- commands failed to run while installing Azure Service Bus SDK and Azure Cosmos DB SDK. To overcome this, we have added a note below the step to update NPM and rerun the commands. 
 ---
 </details>

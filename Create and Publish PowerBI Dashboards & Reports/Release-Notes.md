@@ -1,15 +1,6 @@
-# MS-Innovation Release Notes
+# Create and Publish PowerBi Dashboards & Reports
 
-Welcome to the MS-Innovation Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Release Notes](#release-notes)
-- [Infrastructure Changes](#infrastructure-changes)
-- [Content Changes](#content-changes)
-- [Screenshot Updates](#screenshot-updates)
-- [Testing Notes](#testing-notes)
+Welcome to the  **Create and Publish PowerBi Dashboards & Reports** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -20,7 +11,31 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-# Release Notes
+## Release Notes
+
+
+<details>
+<summary>2025-07-15</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+
+## Screenshot Updates
+
+NA
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-15
+- **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
+- **Resolved Issues**: NA
+
+</details>
 
 <details>
 <summary>2025-06-12</summary>
@@ -54,7 +69,8 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
+- **Change**: * **Change**: Updated the Getting Started page to reflect recent UI changes along with minor content refinements.
+
 - **Testing Date**: 2025-04-25
 ## Screenshot Updates
 
@@ -63,7 +79,6 @@ Updated the Getting started page as there were UI updates.
 ## Testing Notes
 
 - **Testing Date**: 2025-04-25
-- **Tester**: [Riya Singh]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 </details>
@@ -88,7 +103,6 @@ Updated screenshot with new UI changes.
 ## Testing Notes
 
 - **Testing Date**: 2025-03-10
-- **Tester**: [Prajwal Kumar]
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 </details>

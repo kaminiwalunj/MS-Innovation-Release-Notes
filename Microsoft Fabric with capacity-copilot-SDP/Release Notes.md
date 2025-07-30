@@ -33,7 +33,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Screenshot Updates
 
-- **Change**: Updated almost all the screenshots for the whole lab to reflect the latest UI changes in the Azure Portal and Mocrosoft Fabric.
+- **Change**: Updated the majority of screenshots across the lab to align with the latest interface changes in Azure Portal and Microsoft Fabric.
+
 
 ## Validation
 

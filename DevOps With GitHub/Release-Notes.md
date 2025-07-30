@@ -13,6 +13,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+
+- **Testing Date**: 2025-07-25
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+  
+NA
+
+## Screenshot Updates
+
+Screenshots were updated to enhance the overall user experience. 
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps.
+
+---
+</details>
+
 <details>
   <summary>2025-06-10</summary>
 

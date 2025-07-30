@@ -26,9 +26,10 @@ NA
 ## Content Changes
 
 - **Major Changes**: 
-    - The Lab Overview and Lab Objectives have been updated. 
+    - Relevant content sections have been reviewed and updated for accuracy and clarity.
 
-- **Minor Changes**: Minor UI Changes and instructions updated.
+- **Minor Changes**: Updated instructions and UI elements to reflect recent changes in the Azure portal.
+
   
 ## Screenshot Updates
 
@@ -50,18 +51,17 @@ NA
 ## Content Changes
 
 - **Major Changes**: 
-    - The architecture diagram image was blurred, hence updated to a new, clear one. 
+    - * The architecture diagram image was updated to better align with the overall content.
 
 - **Minor Changes**: Minor UI Changes and instructions updated.
   
 ## Screenshot Updates
 
-- **Change**: The screenshots are up to date with the major and minor content updates mentioned above.
+- **Change**: The screenshots have been updated to reflect the latest interface.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-06-18
-- **Resolved Issues**: NA
 ---
 </details>
 
@@ -74,20 +74,19 @@ NA
 
 ## Content Changes
 
-- **Major Changes**: 
-    - Updated instruction for navigating to the Document Intelligence Portal: Earlier, we accessed it through the Azure portal, but due to UI updates, we now navigate directly and log in to the Document Intelligence Portal.
-    - In Azure AI Foundry | Azure OpenAI Service, the UI for accessing Parameters in the Chat application has changed. Therefore, the instructions have been updated to refer to the Parameters section located in the left column of the chat session.
+- **Major Changes**:
+  - Updated navigation and instruction flow to reflect recent Azure UI changes.
+  - Adjusted references and steps to align with the latest interface layout for a smoother user experience.
 
-- **Minor Changes**: Minor UI Changes and instructions updated.
+- **Minor Changes**: Minor updates made to the UI references and corresponding instructions.
   
 ## Screenshot Updates
 
-- **Change**: The screenshots are up to date with the major and minor content updates mentioned above.
+NA
 
 ## Testing Notes
 
 - **Testing Date**: 2025-05-22
-- **Resolved Issues**: NA
 ---
 </details>
 
@@ -118,8 +117,7 @@ NA
 
 - Major Updates 
 
-  - **SAS Token Update for Function Apps**
-    - Updated the **SAS token** for function apps to improve functionality.
+  - Updated configuration for Function Apps to enhance overall functionality.
 
 - Minor Updates 
 

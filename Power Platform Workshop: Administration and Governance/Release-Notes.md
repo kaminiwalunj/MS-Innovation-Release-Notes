@@ -20,7 +20,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-05-26
 
-- **Change**: The lab was originally tested a year ago, so this involved a complete re-onboarding. While the core content remained unchanged, extensive updates were made to reflect the latest UI enhancements, including revising nearly all screenshots to align with the current user experience.
+- **Change**: A complete re-onboarding was carried out to ensure the lab aligns with the latest UI enhancements. While the core content remained unchanged, extensive updates were made, including revising nearly all screenshots to match the current user experience.
+
   
 - **Testing Date**: 2025-05-26
 
@@ -28,9 +29,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### LAB 02
   
-  - **Exercises 3 to 6** were moved to HOL 6 because they depended on the app being created in Power Platform and data appearing in Power BI, which required the **CoE Starter Kit** to be installed and set up first. Since it takes around 2–3 hours for the data to fully reflect after setup, we shifted these exercises to the end to avoid delays and ensure a smoother lab flow.
-  - Included new exercise 3 that includes 2 tasks with proper steps and screenshots for setting up the inventory component of the **CoE Starter Kit**.
-  - **Exercise 7** was removed because the template used was outdated, and the overall lab duration was becoming too long.
+  - **Exercises 3 to 6** were relocated to HOL 6 to ensure a smoother lab flow, as they rely on the app being set up in Power Platform and data becoming available in Power BI after the **CoE Starter Kit** is installed—an activity that takes approximately 2–3 hours for full data reflection.
+  - Introduced a new **Exercise 3**, which includes two tasks with detailed steps and screenshots for setting up the inventory component of the **CoE Starter Kit**.
+  - **Exercise 7** was removed to streamline the lab experience, as it relied on an outdated template and significantly extended the overall duration.
+
 
 ### LAB 03
 

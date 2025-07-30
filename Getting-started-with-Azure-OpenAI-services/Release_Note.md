@@ -66,10 +66,6 @@ NA
 <details>
   <summary>2025-05-26</summary>
 
-## Release Notes
-
-In this section, we will track and list each change introduced in the latest release:
-
 ### Release Date: 2025-02-27
 
 - **Change**: Minor UI Changes and instructions updated.
@@ -96,10 +92,6 @@ NA
 
 <details>
   <summary>2024-12-31</summary>
-
-## Release Notes
-
-In this section, we will track and list each change introduced in the latest release:
 
 ### Release Date: 2024-12-31
 
