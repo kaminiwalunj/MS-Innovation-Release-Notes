@@ -41,7 +41,7 @@ NA
 
 ## Testing Notes
 
-- **Test Validation Summary**: Verified that all lab guide steps function correctly with the updated user interface. Revised instructions align with the current UI behavior, and all interactions work as intended.
+- **Test Validation Summary**: Revised instructions align with the current UI behavior, and all interactions work as intended.
 
 ---
 </details>
