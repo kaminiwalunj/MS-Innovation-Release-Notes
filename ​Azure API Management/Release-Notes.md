@@ -19,6 +19,25 @@ In this section, we will track and list each change introduced in the latest rel
 
 
 <details>
+
+  <summary>18 July 2025</summary>   
+
+### 18 July 2025
+- Infrastructure Changes:
+  NA
+
+- Content Updates:
+  Revised multiple instructions throughout the lab guide to enhance clarity and improve overall readability
+
+- Screenshot Updates:
+  Replaced and updated several screenshots to reflect the current UI.  
+  Additional screenshots were also added where needed to support new or modified instructions.
+
+- Testing done: 18th July 2025
+
+</details>
+
+<details>
   
   <summary>12 May 2025</summary>   
 
