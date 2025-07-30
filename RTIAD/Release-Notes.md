@@ -30,7 +30,6 @@ NA
 
 - **Change**:
     - The user interface has been updated to reflect the latest changes. Corresponding instructions and guidance have also been revised to align with the new UI enhancements.
-    - **Getting started page** NA
 
 ## Screenshot Updates
 
@@ -42,7 +41,7 @@ NA
 
 ## Testing Notes
 
-- **Test Validation Summary**: Validated the lab guide steps, the user interface has been updated to reflect the latest changes. Corresponding instructions and guidance have also been revised to align with the new UI enhancements.
+- **Test Validation Summary**: Verified that all lab guide steps function correctly with the updated user interface. Revised instructions align with the current UI behavior, and all interactions work as intended.
 
 ---
 </details>
