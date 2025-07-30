@@ -41,7 +41,7 @@ NA
 
 ## Testing Notes
 
-- **Test Validation Summary**: Revised instructions align with the current UI behavior, and all interactions work as intended.
+  NA
 
 ---
 </details>
