@@ -27,20 +27,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### LAB 05
 
-  - Found UI updates in Visual Studio, updated the UI according to the changes.
+  - Identified updates in the Visual Studio interface and adjusted the content accordingly to reflect the latest UI changes.
 
 #### LAB 06
 
-  - Found UI updates in Azure AI Foundry, updated the UI according to the changes. 
-  - We have added a new task for **Lab 6** as per the customer's request.
-    
-#### LAB 07
-
-   - Found UI updates in the storage account, updated the UI according to the changes.
-
-## Content Changes
-
-  - We have added a new task for **Lab 6** as per the customer's request.
+  - Identified and incorporated recent UI changes in Azure AI Foundry.
+  - Added a new task in **Lab 6** to align with updated requirements.
 
 ## Screenshot Updates
 

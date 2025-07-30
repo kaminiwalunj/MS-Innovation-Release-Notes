@@ -47,8 +47,7 @@ NA
 
 <details>
   <summary>2025-05-22</summary>
-
-## Release Date: 2025-05-22
+  
 ## Infrastructure Changes
 
 NA

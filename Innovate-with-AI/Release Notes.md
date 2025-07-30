@@ -20,11 +20,11 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Infrastructure Changes
 
-1. The Lab VM configuration was updated to use the _Standard_ SKU, and its Public IP allocation method was set to **Static**, in reference to [Azure Update](https://azure.microsoft.com/en-us/updates?id=upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired)
+NA
 
 ## Content Changes
 
-  - **Change**: Updated _1. Data_Preparation.ipynb_ by removing dataset registration to improve task clarity.
+  - **Change**: Updated 1. Data_Preparation.ipynb_ by removing dataset registration to improve task clarity.
   
 ## Screenshot Updates
 

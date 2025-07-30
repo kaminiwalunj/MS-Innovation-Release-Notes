@@ -12,8 +12,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Changes to screenshots and visuals used in the lab
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
-
-### Release Date: 2025-07-01
+# Release Notes
+<details>
+  <summary>2025-07-01</summary>
 
   **Implementing DevOps with GitHub and Azure DevOps** is a newly onboarded lab inspired from Az 400 and DevOps with GitHub lab 
   

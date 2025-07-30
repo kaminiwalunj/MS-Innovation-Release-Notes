@@ -44,7 +44,6 @@ This repository contains detailed notes about the latest updates and modificatio
 
 <details>
   <summary>12 Jun 2025</summary>
-In this section, we will track and list each change introduced in the latest release:
 
 ### [Release Date: 2025-06-12]
 
@@ -68,9 +67,6 @@ NA
 
 - **Testing Date**: 2025-06-12
 - **Tested Features**: CI/CD Pipelines, GitHub Actions, and GitHub Security Features.
-- **Issues Found**: NA.
-- **Resolved Issues**: NA.
-
 ---
 </details>
 
