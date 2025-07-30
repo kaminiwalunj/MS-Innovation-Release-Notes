@@ -53,8 +53,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-- Changed the virtual machine image to reflect the latest configuration.
-
+NA
 ## Content Changes
 
 - Lab guide instructions have been updated to reflect the latest steps.
@@ -68,13 +67,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Testing Notes
 
 - **Testing Date**: 2025-07-10
-- **Tested Features**: Tested
-- **Issues Found**: 
-   - Encountered an issue while downgrading the package to **1.28.0**.
-   - The DALL·E model (optional component) was not functioning correctly.
-- **Resolved Issues**:
-   - Updated the downgrade command to resolve the version issue.
-   - Removed the optional DALL·E-related task due to compatibility problems.
+
 ---
 </details>
 
