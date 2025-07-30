@@ -43,7 +43,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>09 July 2025</summary>
+  <summary>16 June 2025</summary>
 
 ### Release Date: 2025-06-16
   
