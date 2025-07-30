@@ -22,7 +22,8 @@ NA
 
 ## Content Changes
 
-- In Lab 02: Use Azure OpenAI SDKs in your app, the mslearn repository being cloned in Step 7 has been updated, resulting in content and code changes within the CSharp and Python files. These changes have now been incorporated accordingly.
+- * In Lab 02, updates to the cloned repository led to changes in both content and code. These updates have been incorporated to ensure consistency across the lab.
+
   
 ## Screenshot Updates
 
@@ -75,7 +76,8 @@ NA
 <details>
   <summary>02 May 2025</summary>
 
-- **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
+- **Change**: Updated the lab guide to align with recent UI changes and refined the code for a smoother library installation experience in Lab 2.
+
 - **Testing Date**: 2025-05-02
 
 ## Infrastructure Changes
