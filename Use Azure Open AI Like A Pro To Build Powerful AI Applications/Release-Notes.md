@@ -41,8 +41,6 @@ NA
 
 - **Testing Date**: 2025-07-15
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab, Cloudlabs VM shadow.
-- **Issues Found**: Faced issue in Exercise 1 Task 1- B, fixed it and made required changes in the lab guide.
-- **Resolved Issues**: Faced issue in Exercise 1 Task 1- B, fixed it and made required changes in the lab guide.
 
   
 <summary>2025-06-21</summary>

@@ -1,25 +1,19 @@
-# MS-Innovation Release Notes
+# Real-Time Intelligence in a Day
 
-Welcome to the Secure Windows Servers Azure Arc & Microsoft Defender Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Release Notes](#release-notes)
-- [Infrastructure Changes](#infrastructure-changes)
-- [Content Changes](#content-changes)
-- [Screenshot Updates](#screenshot-updates)
-- [Testing Notes](#testing-notes)
+Welcome to the **Real-Time Intelligence in a Day** Release-Notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
-This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+# Release Notes
 # Release Notes
 
 <details>
@@ -27,7 +21,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### [Release Date: 2025-06-19]
 
-- **Change**: Minor UI updates to enhance user experience).
+- **Change**: Minor UI updates to enhance user experience.
 - **Testing Date**: 2025-06-19
 - **Notes**: NA
 
