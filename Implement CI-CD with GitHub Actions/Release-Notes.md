@@ -23,7 +23,8 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Infrastructure Changes
 
 **Details:**
-- No infrastructure changes were required in this update.
+- Updated public IP address configuration from Dynamic to Static.
+- Changed OS disk SKU from Standard_LRS to Premium_LRS.
 
 ## Content Changes
  
