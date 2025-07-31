@@ -1,6 +1,6 @@
-# Fabric Analytics in A Day
+# Fabric Analytics in a Day
 
-Welcome to the **Fabric Analytics in A Day** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Fabric Analytics in a Day**. In this, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Updated the lab guide with new screenshots to reflect the latest UI changes.
 
 ## Testing Notes
 
-The existing content is good, and the lab is functioning as expected.
+The existing content is good, and the lab is working as expected.
 
 </details>
 
