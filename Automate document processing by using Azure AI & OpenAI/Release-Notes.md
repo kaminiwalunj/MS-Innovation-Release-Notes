@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-NA
+Updated the public IP SKU from Dynamic to Standard Static.
 
 ## Content Changes
 
