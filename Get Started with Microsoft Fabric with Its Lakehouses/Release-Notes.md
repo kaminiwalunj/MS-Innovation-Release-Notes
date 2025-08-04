@@ -16,11 +16,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-07-31</summary>
+  <summary>2025-08-04</summary>
 
-### Release Date: 2025-07-31
+### Release Date: 2025-08-04
 
-- **Testing Date**: 2025-07-31
+- **Testing Date**: 2025-08-04
 
 ## Infrastructure Changes
 
@@ -37,7 +37,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Testing Notes
 
-- **Testing Date**: 2025-07-31
+- **Testing Date**: 2025-08-04
 - **Tested Features**: Full lab flow including all sections and tasks.
 - **Issues Found**: NA
 - **Resolved Issues**: NA
@@ -45,7 +45,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>2025-06-04</summary>
+  <summary>2025-08-04</summary>
 
 ## Infrastructure Changes
 
