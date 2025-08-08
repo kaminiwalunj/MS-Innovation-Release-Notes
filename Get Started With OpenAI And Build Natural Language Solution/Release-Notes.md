@@ -1,6 +1,6 @@
 # Get Started With OpenAI And Build Natural Language Solution 
 
-Welcome to the  **Get Started With OpenAI And Build Natural Language Solution** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started With OpenAI And Build Natural Language Solution** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -22,16 +22,13 @@ NA
 
 ## Content Changes
 
-- * In Lab 02, updates to the cloned repository led to changes in both content and code. These updates have been incorporated to ensure consistency across the lab.
-
+- In Lab 02, updates to the cloned repository led to changes in both content and code. These updates have been incorporated to ensure consistency across the lab.
   
 ## Screenshot Updates
 
-- **Change**: 
-
  - Minor Updates
    
-    1. Screenshots have been updated as per new Cloudlabs UI in Getting started page. 
+    1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
     2. Updated some of the images which were not clear. 
 
 ## Testing Notes
