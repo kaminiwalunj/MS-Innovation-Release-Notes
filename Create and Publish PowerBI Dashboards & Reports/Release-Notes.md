@@ -14,7 +14,7 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
-<summary>2025-08-01</summary>
+<summary>2025-08-08</summary>
 
 ## Infrastructure Changes
 
