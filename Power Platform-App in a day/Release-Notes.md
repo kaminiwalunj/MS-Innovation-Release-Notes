@@ -20,7 +20,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-08-07
 
-- **Change**: Minor instruction change and screenshot update for UI change.
+- **Change**: Minor instruction changes and screenshot updates have been made for better clarity and understanding.
   
 - **Testing Date**: 2025-08-06
 
@@ -34,7 +34,7 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: Update 2 screenshots and did minor changes in instructions
+- **Change**: Updated few screenshots and made minor changes to the instructions.
 
 ## Validation
 
@@ -42,7 +42,7 @@ No Validation
 
 ## Testing Notes
 
-- **Test Validation Summary**: Lab is good. Updated few instructions for little more clarity and added 2 screenshots for UI changes.
+- **Test Validation Summary**: NA
 
 **Tester**: Lalith 
 
