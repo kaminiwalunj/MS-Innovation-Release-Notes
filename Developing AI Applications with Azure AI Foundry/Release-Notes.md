@@ -15,6 +15,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2025-08-12</summary>
+
+### Release Date: In-Progress
+  
 </details>
 <details>
   <summary>2025-07-10</summary>
@@ -46,7 +51,7 @@ NA
 
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest changes.
 ---
-</details>
+
 
 <details>
   <summary>2025-06-20</summary>
