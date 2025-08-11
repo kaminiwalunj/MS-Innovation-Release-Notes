@@ -16,6 +16,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-09</summary>
+
+### Release Date: 2025-07-09
+
+- **Change**: Updated few screenshots and instructions. 
+- **Testing Date**: 2025-07-09
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Updated few screenshots and instructions to enhance the overall user experience.
+  
+## Screenshot Updates
+
+- **Change**: Screenshots were updated to enhance the overall user experience.
+  
+## Testing Notes
+
+- **Test Validation Summary**: Tested lab end to end to check the functionalility and validated it.
+
+---
+
+</details>
+
+<details>
   <summary>2025-06-03</summary>
 
 ### Release Date: 2025-06-16
@@ -40,4 +68,5 @@ NA
 - **Test Validation Summary**: Validated lab guide steps, RBAC assignments, and Azure policy enforcement to ensure end-to-end functionality in the updated Azure environment.
 
 ---
+
 </details>
