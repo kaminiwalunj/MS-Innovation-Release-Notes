@@ -4,9 +4,9 @@ Welcome to the **Hackathon - Activate GenAI with Azure** Readme.md. In this page
 
 ## Overview
 
-This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This page contains detailed notes about the latest updates and modifications made after each test iteration. It includes:
 
-- Testing dates
+- Assessment timeline
 - Descriptions of changes to lab infrastructure
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
@@ -14,7 +14,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>21 July 2025</summary>
 
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+  - Refined content in Challenge 1 Task 1 by streamlining the API key generation steps and linking to external guidance.
+  - Updated the PowerShell command in Challenge 1 Task 4 for improved accuracy and consistency.
+
+## Screenshot Updates 
+
+- Several screenshots were refreshed, and an additional image was included to support updated instructions in Challenge 1.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-21
+- **Testing Scope**: Functional Flow, UI Instructions/ screenshots, command accuracy, provisioning time, edge case handling
+
+</details>
 <details>
   <summary>30 May 2025</summary>
 

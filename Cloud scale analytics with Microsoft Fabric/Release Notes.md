@@ -29,33 +29,26 @@ In this section, we will track and list each change introduced in the latest rel
  <details>
   <summary>2025-07-22</summary>
 
-- **Change**: Over 150 UI and instruction enhancments for better understanding for end user. 
-- **Testing Date**: 2025-07-22
-- **Notes**: Updated content for better understanding.
+- **Change**: Introduced multiple UI and instructional enhancements to improve clarity and user experience.
+- **Notes**: Updated content for improved understanding.
 
 ## Infrastructure Changes
 
-- **Change**: Removed the Power BI Pro license to save cost and the usage policy that wasn't required.
-- **Details**: The Power BI Pro licenses wasn't needed moving forward and was removed from the Template level and the usage policy for Fabric Administrator was removed as well.
+- **Change**: Streamlined licensing and policy configurations for improved resource optimization.
 
 ## Content Changes
 
-- **Change**: Updated the lab exercise with brand new UI and instruction enhancements to make the lab more user friendly.
-- **Details**: Updated the screenshots and instructions related to it.
+- **Change**: Enhanced the lab exercise with updated UI and improved instructions for a more user-friendly experience.
 
 ## Screenshot Updates
 
 - **Change**: Updated the screenshot reflecting the latest UI changes in the lab.
-- **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-07-22
 - **Tested Features**: Workspace, Lakehouse, Data Pipeline, Dataflow Gen2, and Notebooks.
-- **Issues Found**: No bugs found during testing.
-- **Resolved Issues**: Major UI changes and instruction chagnes, License removal and Usage policy removal.
 
 ---
 
-For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
 </details>

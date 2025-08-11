@@ -16,13 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+
+- **Change**: The lab has been tested up to Exercise 7. An issue related to the Weather plugin in Exercise 5, Task 2: Semantic Search Plugin has been resolved. The necessary code updates have been made in Exercise 7, Task 2: DALL·E (Python).
+
+  
+- **Testing Date**: 2025-07-25
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- Updated the chat.py and .env files in Exercise 5, Task 2, and verified the functionality. The chat now returns the expected outputs.
+- Modified the code for the DALL·E model, resolved the existing issues, and confirmed that it is now functioning as expected.
+  
+
+## Screenshot Updates
+
+- Updated the screenshots to reflect the new UI changes and recent issue fixes.
+- Added notes and revised the necessary instructions for clarity and accuracy.
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, included the latest approach to perform tasks, updated the content to reflect the latest UI changes.
+
+---
+</details>
+
+<details>
   <summary>2025-07-11</summary>
 
 ### Release Date: 2025-07-11
 
-- **Change**: We are good with the lab, everything is up to date.
+- **Change**: The lab is all set and up to date. All implementations, including those in both C# and Python, are in place and working as expected.
 
-  
 - **Testing Date**: 2025-07-11
 
 ## Infrastructure Changes
@@ -55,8 +90,7 @@ NA
 
 ### Release Date: 2025-06-10
 
-- **Change**: Tested the lab till Exercie 4, to fix the issue related to weather plugin in **Exercise 3 Task 4** . Updated the weather plugin, C# code in Exercise 3 Task 4. 
-
+- **Change**: Exercise 4 was refined to ensure greater accuracy and precision. Updates were also made to the weather plugin and C# code in **Exercise 3 Task 4** to align with the latest implementation.
   
 - **Testing Date**: 2025-05-10
 

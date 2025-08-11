@@ -1,6 +1,6 @@
-# Fabric Analytics in A Day
+# Fabric Analytics in a Day
 
-Welcome to the **Fabric Analytics in A Day** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Fabric Analytics in a Day**. In this, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -13,7 +13,29 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-## Release Notes
+# Release Notes
+<details>
+  
+  <summary>29 July 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+Revised the lab guide to incorporate the latest UI changes. 
+  
+## Screenshot Updates
+
+Updated the lab guide with new screenshots to reflect the latest UI changes.
+
+## Testing Notes
+
+The existing content is good, and the lab is working as expected.
+
+</details>
+
 <details>
   
   <summary>18 July 2025</summary>
@@ -32,7 +54,8 @@ NA
 
 ## Testing Notes
 
-The existing content is good, and the lab is functioning as expected.
+- **Testing Date**: 2025-07-29
+- **Resolved Issues**: NA
 
 </details>
 <details>

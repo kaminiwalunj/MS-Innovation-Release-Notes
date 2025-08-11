@@ -20,8 +20,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-07-09
   
-  - Tested lab end to end without any issues.
-  - Enhanced **lab guide instructions** and **updated screenshots** for better uderstanding. 
+  - Lab testing was carried out end-to-end with no issues observed.
+  - Enhanced lab guide instructions and updated screenshots to improve clarity and user understanding.
 
 ## Infrastructure Changes
 
@@ -43,7 +43,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 </details>
 
 <details>
-  <summary>09 July 2025</summary>
+  <summary>16 June 2025</summary>
 
 ### Release Date: 2025-06-16
   
@@ -100,7 +100,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - Minor Updates
 
-  - Tested the lab from challenge 03- Task 03 and updated the lab guide with the recent changes.
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience with latest UI. 
 
 - **Testing Date**: 14-may-2025

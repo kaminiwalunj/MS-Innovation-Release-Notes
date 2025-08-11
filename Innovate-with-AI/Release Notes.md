@@ -1,4 +1,41 @@
-# Release Notes
+# Innovate with AI
+
+Welcome to the  **Innovate with AI** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Assessment dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+## Release Notes
+<details>
+  
+  <summary>2025-07-30</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  - **Change**: Updated 1. Data_Preparation.ipynb_ by removing dataset registration to improve task clarity.
+  
+## Screenshot Updates
+
+ - **Change**: Screenshots were added to enhance the overall user experience.
+
+## Testing Notes
+
+   - **Testing Date**: 2025-07-30
+   - **Testing Scope**: Functional Flow, UI Instructions/ screenshots, command accuracy, provisioning time, edge case handling
+
+</details>
 
 <details>
   <summary>2025-05-20</summary>
@@ -18,7 +55,7 @@ NA
 
 - **Change**:
     
-    - **Data preparation** notebooks are updated with latest working files and cells.
+    - **Data preparation** notebooks are updated with the latest working files and cells.
     - Power Virtual Agents has been rebranded to **Microsoft Copilot Studio**.
       
 ## Screenshot Updates
@@ -27,3 +64,4 @@ NA
 
 ---
 </details>
+

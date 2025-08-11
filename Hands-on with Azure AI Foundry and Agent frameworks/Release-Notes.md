@@ -16,14 +16,73 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-24</summary>
+
+### Release Date: 2025-07-24
+
+- **Testing Date**: 2025-07-24
+
+## Infrastructure Changes
+
+**Details:**
+- No infrastructure changes were required in this update.
+
+## Content Changes
+ 
+- Refined lab instructions to improve clarity.
+
+## Screenshot Updates
+
+- Replaced outdated screenshots with new ones reflecting the current UI.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-24
+- **Tested Features**: Full lab flow including all sections and tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
+<details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+
+- **Testing Date**: 2025-07-25
+
+## Infrastructure Changes
+
+**Details:**
+- No infrastructure changes were required in this update.
+
+## Content Changes
+ 
+- Refined lab instructions to improve clarity.
+
+## Screenshot Updates
+
+- Replaced outdated screenshots with new ones reflecting the current UI.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-25
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
+<details>
+  <summary>2025-06-04</summary>
+
+<details>
   <summary>2025-07-10</summary>
 
 ### Release Date: 2025-07-10
 
 ## Infrastructure Changes
 
-- Changed the virtual machine image to reflect the latest configuration.
-
+NA
 ## Content Changes
 
 - Lab guide instructions have been updated to reflect the latest steps.
@@ -37,13 +96,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Testing Notes
 
 - **Testing Date**: 2025-07-10
-- **Tested Features**: Tested
-- **Issues Found**: 
-   - Encountered an issue while downgrading the package to **1.28.0**.
-   - The DALL·E model (optional component) was not functioning correctly.
-- **Resolved Issues**:
-   - Updated the downgrade command to resolve the version issue.
-   - Removed the optional DALL·E-related task due to compatibility problems.
+
 ---
 </details>
 

@@ -25,8 +25,7 @@ NA
 ## Content Changes
 
 - **Change**: 
-
-    1. Added numberings to the steps to keep it in sync with the updated images
+  - Updated the content for improved clarity
 
 
 ## Screenshot Updates

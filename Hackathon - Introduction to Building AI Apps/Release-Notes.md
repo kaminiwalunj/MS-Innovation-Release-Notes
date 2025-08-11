@@ -1,15 +1,42 @@
+# Hackathon - Introduction to Building AI Apps
+
+Welcome to the **Hackathon - Introduction to Building AI Apps** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
 # Release Notes
+<details>
+  <summary>2025-05-15</summary>
 
-### 15th May 2025
+## Infrastructure Changes
 
--  No Major Updates
-  
-- Minor Updates
-  
-  - Updated **screenshots** according to new UI updates in **Azure Open AI Service** for the  English, Spanish, and Portuguese solution guide for better experience. 
+  - N/A
+
+## Content Changes
+
+  - Updated the lab guide with screenshots and instructions wherever needed.  
+
+## Screenshot Updates
+
+ - **Change**: Updated the screenshots for a clearer and more intuitive user experience.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-15
+</details>
 
 
-### 14 February 2025
+<details>
+  <summary>2025-02-14</summary>
 
 -  Major Updates
 
@@ -23,9 +50,11 @@
   
   - Updated **screenshots** according to new updates in the lab guide for better user experience. 
 
+</details>
 
 
-### 31 December 2024
+<details>
+  <summary>2024-12-31</summary>
 
 -  Major Updates
 
@@ -43,4 +72,4 @@
   - Enhanced **lab guide instructions** and updated **screenshots** to provide a clearer and more intuitive user experience. 
 
 
-
+</details>

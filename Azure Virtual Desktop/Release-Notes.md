@@ -16,26 +16,23 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-June-17</summary>
+  <summary>2025-07-17</summary>
 
 ## Infrastructure Changes
 
-- Automated Password Update: Script updated to automate the password reset process for ODL users.
-- Updated the Script for the TLS version 
-- Updated the Script for creation of the Domain Service.
+NA
 
 ## Content Changes
 
-- TLS Upgrade Step Added: Included a step to update the TLS version from 1.0 to 1.2 for Domain Services.
+NA
 
 ## Screenshot Updates
 
-- Automated Password Update: Script updated to automate the password reset process for ODL users.
 - Lab Guide Refreshed: Updated the lab guide to reflect the latest UI changes and enhancements.
 
 ## Testing Notes
 
-- **Testing Date**: 2025-June-17
+- **Testing Date**: 2025-07-17
 
 
 </details>

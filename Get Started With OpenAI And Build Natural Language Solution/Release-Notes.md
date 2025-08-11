@@ -1,6 +1,6 @@
 # Get Started With OpenAI And Build Natural Language Solution 
 
-Welcome to the  **Get Started With OpenAI And Build Natural Language Solution** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started With OpenAI And Build Natural Language Solution** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -22,15 +22,13 @@ NA
 
 ## Content Changes
 
-- In Lab 02: Use Azure OpenAI SDKs in your app, the mslearn repository being cloned in Step 7 has been updated, resulting in content and code changes within the CSharp and Python files. These changes have now been incorporated accordingly.
+- In Lab 02, updates to the cloned repository led to changes in both content and code. These updates have been incorporated to ensure consistency across the lab.
   
 ## Screenshot Updates
 
-- **Change**: 
-
  - Minor Updates
    
-    1. Screenshots have been updated as per new Cloudlabs UI in Getting started page. 
+    1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
     2. Updated some of the images which were not clear. 
 
 ## Testing Notes
@@ -75,7 +73,8 @@ NA
 <details>
   <summary>02 May 2025</summary>
 
-- **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
+- **Change**: Updated the lab guide to align with recent UI changes and refined the code for a smoother library installation experience in Lab 2.
+
 - **Testing Date**: 2025-05-02
 
 ## Infrastructure Changes
