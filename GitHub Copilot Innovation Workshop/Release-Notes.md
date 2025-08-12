@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
   <summary>2025-07-24</summary>
 
 
-## Summary of Changes
+### Summary of Changes
 
 Minor updates including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
 
@@ -158,6 +158,7 @@ Conducted end-to-end architecture validation, RBAC/policy checks, cost estimatio
 
 ---
 </details>
+
 
 
 
