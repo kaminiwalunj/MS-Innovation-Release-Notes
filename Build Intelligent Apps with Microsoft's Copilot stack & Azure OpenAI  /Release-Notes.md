@@ -29,7 +29,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-  - Updated the lab guide with screenshots and instructions wherever needed.  
+  - The lab guide has been revised to include updated screenshots and enhanced instructions where applicable
 
 ## Screenshot Updates
 
@@ -142,3 +142,4 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
