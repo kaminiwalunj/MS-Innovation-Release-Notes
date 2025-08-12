@@ -16,6 +16,35 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2025-08-12</summary>
+
+## Infrastructure Changes
+
+NA 
+
+## Content Changes
+
+NA
+
+## Screenshot Updates
+
+Few screenshots were update based on latest UI changes and also made few minor instruction changes accordingly.
+
+## Validation Summary 
+
+No validation in the lab
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-12
+- **Issues Found**: No issues found
+- **Resolved Issues**: NA
+- **Test Validation Summary**: All tasks are working smoothly
+---
+</details>
+
+
+<details>
   <summary>2025-05-30</summary>
 
 ## Infrastructure Changes
