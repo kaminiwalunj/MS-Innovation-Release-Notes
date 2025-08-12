@@ -16,7 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-07-14</summary>
+  <summary>2025-07-30</summary>
 
 ## Infrastructure Changes
 
@@ -34,7 +34,7 @@ The screenshots have been updated to align with the latest content, adhere to th
 
 The lab has been thoroughly tested with all updated screenshots and content revisions, and no issues were identified during the testing process.
 
-- **Testing Date**: 2025-07-14
+- **Testing Date**: 2025-07-30
 
 </details>
 
