@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-07-09
 
-- **Change**: Updated few screenshots and instructions. 
+- **Change**: Revised certain screenshots and instructions as needed.
 - **Testing Date**: 2025-07-09
 
 ## Infrastructure Changes
@@ -30,7 +30,7 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated few screenshots and instructions to enhance the overall user experience.
+- **Change**: NA
   
 ## Screenshot Updates
 
@@ -58,7 +58,7 @@ NA
 
 ## Content Changes
 
-- **Change**: Minor UI Changes and instructions updated.
+- **Change**: NA
 
 ## Screenshot Updates
 
@@ -71,3 +71,4 @@ NA
 ---
 
 </details>
+
