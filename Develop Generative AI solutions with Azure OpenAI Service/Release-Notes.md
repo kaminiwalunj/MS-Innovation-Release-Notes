@@ -30,33 +30,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-07-18
 
-- **Change**:
-     - Updated all labs to reflect the transition from using the MS Learn OpenAI repository to the CloudLabs repository for application code, with revised steps accordingly in Labs 3, 4, and 5.
-     - Refined and updated the C# and Python code across all labs to ensure consistency and alignment with the latest implementation.
+### Summary of Changes
+
+Updated all labs to reflect the transition from using the MS Learn OpenAI repository to the CloudLabs repository for application code, with revised steps accordingly in Labs 3, 4, and 5. Refined and updated the C# and Python code across all labs to ensure consistency and alignment with the latest implementation.
  
 - **Testing Date**: 2025-07-16
 
-## Infrastructure Changes
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 - **Change**:
     1. Updated instructions and images reflecting the changes with cloning the Cloudlabs repo. 
 
-## Screenshot Updates
+### Screenshot Updates
 
 - **Change**: 
 
    - Screenshots have been updated with instructions.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-16
 - **Tested Features**: Inline validations, latest UI and instruction changes, functionality of the lab.
 
----
+### Testing Scope 
+
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite verification, and optimizations to reduce provisioning time.
+
 </details>
 
 
