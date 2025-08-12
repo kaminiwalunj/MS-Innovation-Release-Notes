@@ -20,6 +20,7 @@ This Page contains detailed notes about the latest updates and modifications mad
  <details>
   <summary>2025-07-24</summary>
 
+## Release Date : 2025-07-24
 
 ### Summary of Changes
 
@@ -158,6 +159,7 @@ Conducted end-to-end architecture validation, RBAC/policy checks, cost estimatio
 
 ---
 </details>
+
 
 
 
