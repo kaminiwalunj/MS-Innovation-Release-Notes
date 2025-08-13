@@ -47,9 +47,10 @@ No validation in the lab
 ## Testing Notes
 
 - **Testing Date**: 2025-08-12
-- **Issues Found**: No issues found
-- **Resolved Issues**: NA
-- **Test Validation Summary**: All tasks are working smoothly, end to end testing was performed, updated cost estimate and few changes in lab guide.
+
+ ## Testing Scope 
+
+ -  All tasks are working smoothly, end to end testing was performed, updated cost estimate and few changes in lab guide regarding UI updates, lab is good.
 ---
 </details>
 
