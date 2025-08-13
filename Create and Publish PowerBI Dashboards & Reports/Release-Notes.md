@@ -23,7 +23,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-- Conducted end-to-end testing of the lab workflow, validated Azure UI updates, checked application dependencies and framework expirations, and enhanced instructions and screenshots for improved clarity and visibility.
+- Conducted end-to-end testing of the lab workflow, validated UI updates, checked application dependencies and framework expirations, and enhanced instructions and screenshots for improved clarity and visibility.
 
 ### Infrastructure Changes
 
