@@ -20,7 +20,23 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
    <summary>2025-08-12</summary>
 
-### Release Date: In-Progress
+### Release Date: 2025-08-12
+
+### Summary of Changes
+
+Removed the Completion Chat task and GPT-3.5-Turbo-Instruct model from Lab-01 due to their unavailability and irrelevance in the updated AI Foundry setup.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes: 
+
+- **Change**:
+
+1. **Removed Completion Chat Task**: In line with the recent update in AI Foundry, the Completion Chat feature is no longer visible. As a result, the associated task has been removed from Lab-01.
+
+1. **Removed GPT-3.5-Turbo-Instruct**: Since the GPT-3.5-Turbo-Instruct model is no longer returning results and has no relevant application in the lab due to the absence of the Completion Chat, it has been removed.
 
 ---
 </details>
@@ -130,4 +146,5 @@ NA
 
 ---
 </details>
+
 
