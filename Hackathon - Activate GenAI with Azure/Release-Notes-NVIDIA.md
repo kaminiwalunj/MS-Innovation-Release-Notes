@@ -16,6 +16,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2025-08-13</summary>
+ 
+## Release Date : 2025-08-13
+ 
+## Summary of Changes
+ 
+Minor updates in instruction
+ 
+## Infrastructure Changes
+ 
+N/A
+ 
+## Content Changes
+
+- There were few minor changes in the instruction 
+
+## Screenshot Updates
+ 
+N/A
+ 
+## Testing Scope
+ 
+Performed end to end testing everything was working smoothly, validation were successful, checked on the templates, verified the cost.
+ 
+ 
+</details>
+
+
+<details>
   <summary>21 July 2025</summary>
 
 ## Infrastructure Changes
