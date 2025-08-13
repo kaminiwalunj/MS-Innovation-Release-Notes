@@ -24,7 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Minor updates including clearer and updated UI screenshots and refined instructions for improved clarity and accuracy.   
+Minor updates including an upgrade of the OS disk SKU from Standard_LRS to Premium_LRS, clearer and updated UI screenshots, and refined instructions for improved clarity and accuracy.  
 
 ### Infrastructure Changes
 
@@ -38,7 +38,7 @@ Minor updates including clearer and updated UI screenshots and refined instructi
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshots which were unclear with new,
+    - **Updated UI Screenshots**: Updated screenshots which were unclear with new, and replaced old UI with new UI screenshots.
     - **Instruction Refinements**: Fixed rendering issues and added clear instructions. 
 
 ### Testing Notes
@@ -47,7 +47,7 @@ Minor updates including clearer and updated UI screenshots and refined instructi
 
 ### Testing Scope 
 
-Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite and license verification, and optimizations to reduce provisioning time.
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite and license verification.
 
 ---
 </details>
