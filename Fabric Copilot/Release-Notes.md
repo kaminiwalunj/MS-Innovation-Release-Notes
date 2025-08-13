@@ -18,17 +18,27 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 <details>
   <summary>2025-08-12</summary>
 
+## Release Date : 2025-08-12
+
+## Summary of Changes
+
+Minor updates in instruction and few screenshots were updated as per new UI changes.
+
 ## Infrastructure Changes
 
-NA 
+N/A 
 
 ## Content Changes
 
-NA
+N/A
 
 ## Screenshot Updates
 
 Few screenshots were update based on latest UI changes and also made few minor instruction changes accordingly.
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots with latest UI changes
+    - **Instruction Refinements**: Fixed a few instruction and numbering as per screenshots, few changes in instructions for better clarity. 
 
 ## Validation Summary 
 
@@ -39,7 +49,7 @@ No validation in the lab
 - **Testing Date**: 2025-08-12
 - **Issues Found**: No issues found
 - **Resolved Issues**: NA
-- **Test Validation Summary**: All tasks are working smoothly
+- **Test Validation Summary**: All tasks are working smoothly, end to end testing was performed, updated cost estimate and few changes in lab guide.
 ---
 </details>
 
