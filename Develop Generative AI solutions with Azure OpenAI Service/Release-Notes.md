@@ -38,6 +38,21 @@ NA
 
 1. **Removed GPT-3.5-Turbo-Instruct**: Since the GPT-3.5-Turbo-Instruct model is no longer returning results and has no relevant application in the lab due to the absence of the Completion Chat, it has been removed.
 
+### Screenshot Updates
+
+- **Change**: 
+
+   NA
+
+### Testing Notes
+
+- **Testing Date**: NA
+- **Tested Features**: NA
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite verification, and optimizations to reduce provisioning time.
+
 ---
 </details>
 
@@ -146,5 +161,6 @@ NA
 
 ---
 </details>
+
 
 
