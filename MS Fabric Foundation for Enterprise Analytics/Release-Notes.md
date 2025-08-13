@@ -17,9 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2025-08-12</summary>
+  
+  <summary>2025-08-13</summary>
 
-### Release Date: In-Progress
+## Release Date: 2025-08-13
+
+### Summary of Changes
+
+Updated the lab guide with clear UI screenshots and refined the steps to improve clarity.   
+
+### Infrastructure Changes
+
+- Updated the ARM template to change the Dynamic Public IP address to Static, and adjusted the cost estimation accordingly.
+- Removed the Power BI Pro license (as it’s not required for our current scope).
+- Removed Owner permission at the Subscription level.
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots that were unclear with new ones.
+    - **Instruction Refinements**: Enhanced the instructions to improve clarity, and fixed the numbering and rendering issues in the steps. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-08-12
+
+### Testing Scope 
+
+Conducted end-to-end testing and validation, removed the RBAC and license as it was not required, updated the Public IP SKU and cost estimation accordingly.
 
 ---
 </details>
@@ -53,4 +83,5 @@ NA
 
 ---
 </details>
+
 
