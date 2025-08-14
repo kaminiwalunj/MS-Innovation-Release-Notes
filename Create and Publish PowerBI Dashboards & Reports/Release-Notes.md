@@ -17,6 +17,40 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+ <details>
+  <summary>2025-08-08</summary>
+
+## Release Date : 2025-08-08
+
+### Summary of Changes
+
+Minor updates including an upgrade of the OS disk SKU from Standard_LRS to Premium_LRS, clearer and updated UI screenshots, and refined instructions for improved clarity and accuracy.  
+
+### Infrastructure Changes
+
+- Changed OS disk SKU from Standard_LRS to Premium_LRS.
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots which were unclear with new, and replaced old UI with new UI screenshots.
+    - **Instruction Refinements**: Fixed rendering issues and added clear instructions. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-08-01
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite and license verification.
+
+---
+</details>
 
 <details>
 <summary>2025-07-15</summary>
