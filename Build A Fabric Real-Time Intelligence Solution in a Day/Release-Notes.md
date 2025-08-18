@@ -40,7 +40,7 @@ N/A
 
 ## Testing Scope 
 
-Lab was tested end to end. Lab is good 
+Lab was tested end to end. Lab is good.
 
 ---
 </details>
