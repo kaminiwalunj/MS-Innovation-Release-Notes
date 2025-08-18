@@ -11,36 +11,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
   <summary>2025-08-18</summary>
 
-## Summary of changes 
+## Release Date : 2025-08-18
+
+### Summary of Changes
 
 Minor instruction changes
 
-## Infrastructure Changes
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 - **Change**: Few instructions were updated with minor changes for clarity.
 
-## Screenshot Updates
+### Screenshot Updates
 
 N/A
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-08-14
 
-## Testing Scope 
+### Testing Scope 
 
-Lab was tested end to end. Lab is good.
+- Performed end-to-end testing of the lab functionality, Fabric trial capacity license features, lab workflow, content, and architecture diagram.
 
 ---
 </details>
