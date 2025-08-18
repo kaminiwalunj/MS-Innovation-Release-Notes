@@ -16,6 +16,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-08-18</summary>
+
+## Release Date : 2025-08-18
+
+### Summary of Changes
+
+- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date, requiring no changes. And the lab was verified to ensure a consistent, improved user experience with no issues identified.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+-  Added 2 Notes :
+-  1. Naviageting **Project connection string** - Task 4: Install dependencies, create a virtual environment, and create an environment variables file - step 17
+   2. Tokens per Minute rate limit - Task 2: Deploying an LLM and embedding models - step 3.
+  
+### Screenshot Updates
+
+NA
+
+### Testing Scope 
+
+- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date
+
+</details>
+
+
+<details>
   <summary>2025-07-30</summary>
 
 ## Release Date : 2025-07-30
