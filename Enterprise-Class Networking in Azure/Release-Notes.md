@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-Validated the Enterprise-Class Networking lab end-to-end, updated cost estimation, ensured prerequisites were met, and refreshed instructions with new UI screenshots, fixed numbering, and improved rendering for clarity.
+Validated the Enterprise-Class Networking lab end-to-end, ensured prerequisites were met, and refreshed instructions with new UI screenshots, fixed numbering, and improved rendering for clarity.
 
 ### Infrastructure Changes
 
@@ -45,7 +45,7 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end lab validation, updated cost estimation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
+ Conducted end-to-end lab validation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
 
 </details>
 
@@ -79,4 +79,5 @@ N/A
 
 ---
 </details>
+
 
