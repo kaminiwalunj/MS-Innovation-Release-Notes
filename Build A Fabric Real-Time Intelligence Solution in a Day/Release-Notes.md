@@ -28,7 +28,7 @@ NA
 
 ## Content Changes
 
-- **Change**: Few intruction were updated with minor changes for clarity.
+- **Change**: Few instructions were updated with minor changes for clarity.
 
 ## Screenshot Updates
 
