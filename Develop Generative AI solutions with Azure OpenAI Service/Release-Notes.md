@@ -28,7 +28,7 @@ Updated the RBAC, fixed issues with the C# and Python Code in Lab 5, and enhance
 
 ### Infrastructure Changes
 
-- Updated the ARM template to change the OS Disk type from HDD to SSD, and adjusted the cost estimation accordingly.
+- Updated the ARM template to change the OS Disk type from HDD to SSD.
 - Updated the RBAC - removed the write permission on RG. 
 
 ### Content Changes
@@ -47,7 +47,7 @@ Updated the RBAC, fixed issues with the C# and Python Code in Lab 5, and enhance
 
 ### Testing Scope 
 
-Conducted end-to-end testing and validation, fixed the issues in C# and Python code in Lab 5, removed the write permission on RG from the custom RBAC as it was not required, and updated the cost estimation accordingly.
+Conducted end-to-end testing and validation, fixed the issues in C# and Python code in Lab 5, and removed the write permission on RG from the custom RBAC as it was not required.
 
 ---
 </details>
@@ -197,6 +197,7 @@ NA
 
 ---
 </details>
+
 
 
 
