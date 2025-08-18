@@ -14,6 +14,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-08-18</summary>
+
+## Summary of changes 
+
+Minor instruction changes
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Few instructions were updated with minor changes for clarity.
+
+## Screenshot Updates
+
+N/A
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-14
+
+## Testing Scope 
+
+Lab was tested end to end. Lab is good.
+
+---
+</details>
+
 <details>
   <summary>2025-07-28</summary>
 
