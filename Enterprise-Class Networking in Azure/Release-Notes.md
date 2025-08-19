@@ -11,7 +11,9 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
@@ -22,7 +24,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-Validated the Enterprise-Class Networking lab end-to-end, ensured prerequisites were met, and refreshed instructions with new UI screenshots, fixed numbering, and improved rendering for clarity.
+- Refreshed instructions with new UI screenshots, fixed numbering, and improved rendering for clarity.
 
 ### Infrastructure Changes
 
@@ -45,7 +47,7 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end lab validation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
+- Conducted end-to-end lab validation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
 
 </details>
 
@@ -79,5 +81,6 @@ N/A
 
 ---
 </details>
+
 
 
