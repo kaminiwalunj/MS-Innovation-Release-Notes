@@ -16,6 +16,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-08-18</summary>
+
+## Release Date : 2025-08-18
+
+### Summary of Changes
+
+- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date, requiring no changes. And the lab was verified to ensure a consistent, improved user experience with no issues identified.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+Incorporated two additional notes into the lab guide based on feedback, ensuring enhanced clarity, accuracy, and completeness.
+  
+### Screenshot Updates
+
+NA
+
+### Testing Scope 
+
+- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date.
+
+</details>
+
+
+<details>
   <summary>2025-07-30</summary>
 
 ## Release Date : 2025-07-30
