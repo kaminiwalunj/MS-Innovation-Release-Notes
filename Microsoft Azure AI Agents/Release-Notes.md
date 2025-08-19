@@ -30,9 +30,7 @@ NA
 
 ### Content Changes
 
--  Added 2 Notes :
--  1. Naviageting **Project connection string** - Task 4: Install dependencies, create a virtual environment, and create an environment variables file - step 17
-   2. Tokens per Minute rate limit - Task 2: Deploying an LLM and embedding models - step 3.
+Incorporated two additional notes into the lab guide based on feedback, ensuring enhanced clarity, accuracy, and completeness.
   
 ### Screenshot Updates
 
@@ -40,7 +38,7 @@ NA
 
 ### Testing Scope 
 
-- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date
+- End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date.
 
 </details>
 
