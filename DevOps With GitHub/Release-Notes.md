@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-NA
+Upgraded OS disk SKU and IP address SKU in the ARM template.
 
 ## Content Changes
   
@@ -73,3 +73,4 @@ NA
 
 ---
 </details>
+
