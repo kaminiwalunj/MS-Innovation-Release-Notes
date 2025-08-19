@@ -56,7 +56,9 @@ NA
 
 ### Release Date: 2025-08-19
 
-- **Testing Date**: 2025-08-13
+## Summary of Changes
+
+Minor updates including clearer UI screenshots and redefined instructions for improved clarity and accuracy.
 
 ## Infrastructure Changes
 
@@ -64,34 +66,27 @@ NA
 
 ## Content Changes
   
-- Lab guide instructions have been updated to reflect the latest steps and UI changes.
+Instructions were updated to be more precise and clear.
 
 ## Screenshot Updates
 
-- Updated screenshots throughout the lab guide to match the new UI.
-- Added additional screenshots where necessary for better lab guide enhancement.
+- Minor updates:
+  - **Updated UI Screenshots:** Replaced outdated screenshots with updated ones matching the new Azure UI.
+  - **Instructions Refinement:** Added clarifying screenshots where instructions required better visual support.
 
 ## Validation
 
-Updated the validation logic for Exercises 1 and 2, as it was previously pointing to the wrong resources.
-  - Exercise 1 – Task 5: Corrected validation for the policy assignment to ensure accurate identification of compliant and non-compliant resources.
-  - Exercise 2 – Task 2: Fixed validation for onboarding Azure Arc-enabled servers to Microsoft Sentinel.
+ - **Updated the validation**
+   - Exercise 1 – Task 5: Corrected validation for the policy assignment to ensure accurate identification of compliant and non-compliant resources. 
+    - Exercise 2 – Task 2: Fixed validation for onboarding Azure Arc-enabled servers to Microsoft Sentinel.
 
 ## Testing Notes
 
-- **Testing Date**: 2025-08-13
+- **Test Date**: 2025-08-14
 
-- **Tested Features**: validations, latest UI changes, functionality of the lab.
+## **Testing Scope**
 
-- **Issues Found**: 
-  - New UI changes in Microsoft Sentinal and Microsoft Defender for Cloud.
-  - validations for Exercise 1 and 2.
-  - Data Controller Indirect mode, exercise 10 were unclear and namespace was not getting created.
-
-- **Resolved Issues**: 
-  - Addressed the new UI changes in Microsoft Defender for Cloud.
-  - Corrected validation steps to ensure proper resource compliance checks.
-  - Added a note to create a namespace in an arcdata pod if it is not created, to avoid failures in Data Controller Indirect mode Exercise 10.
+Performed end-to-end validation and functionality testing to confirm overall lab performance.
 
 ---
 </details>
