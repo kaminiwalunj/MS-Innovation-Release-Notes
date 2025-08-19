@@ -27,7 +27,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
-  - N/A
+  - Upgraded OS disk SKU and IP address SKU in the ARM template.
 
 ## Content Changes
 
@@ -134,4 +134,5 @@ Scope included full lab execution, review of revised instructions, and validatio
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience.  
 
 </details>
+
 
