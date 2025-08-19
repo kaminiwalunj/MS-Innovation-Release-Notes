@@ -36,6 +36,10 @@ Incorporated two additional notes into the lab guide based on feedback, ensuring
 
 NA
 
+### Testing Notes
+
+- **Testing Date**: 2025-08-18
+
 ### Testing Scope 
 
 - End-to-end testing has been successfully completed. All screenshots and modules in the lab guide were reviewed and confirmed to be up to date.
