@@ -26,7 +26,7 @@ No changes were made to the lab infrastructure or content, ensuring configuratio
 
 ### Infrastructure Changes
 
-There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
+Upgraded OS disk SKU and IP address SKU in the ARM template.
 
 ### Content Changes
 
@@ -150,3 +150,4 @@ NA
 
 ---
 </details>
+
