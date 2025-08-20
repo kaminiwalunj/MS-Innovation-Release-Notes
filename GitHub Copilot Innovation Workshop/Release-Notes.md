@@ -190,10 +190,11 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end lab validation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
+ Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation checks, prerequisite and license verification.
 
 ---
 </details>
+
 
 
 
