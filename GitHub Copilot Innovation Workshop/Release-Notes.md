@@ -148,3 +148,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 ---
 </details>
 
+<details>
+  <summary>2025-08-05</summary>
+
+## Release Date: 2025-08-20
+
+### Summary of Changes
+
+I have updated the screenshots and made minor content updates in Exercise 4 and Exercise 11 to improve clarity and consistency.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Instruction Refinements**:Added clear instructions.
+### Testing Notes
+
+- **Testing Date**: 2025-08-20
+
+### Testing Scope 
+
+ Conducted end-to-end lab validation,ensured prerequisites were met, and updated content to reflect the latest UI changes.
+
+---
+</details>
+
+
