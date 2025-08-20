@@ -11,7 +11,44 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
+
 ## Release Notes
+
+<details>
+  <summary>2025-07-31</summary>
+
+### Release Date: 2025-07-31
+
+### Summary of Changes
+
+Updated the public IP configuration from Dynamic to Static and changed the OS disk SKU from Standard_LRS to Premium_LRS. Enhanced the lab guide with explicit navigation steps to direct users to the correct development environment and added multiple screenshots for improved clarity.
+
+### Infrastructure Changes
+
+- Updated public IP address configuration from Dynamic to Static.
+- Changed OS disk SKU from Standard_LRS to Premium_LRS.
+
+### Content Changes
+ 
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+### Screenshot Updates
+
+- Included multiple screenshots to enhance clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2025-07-31
+- **Tested Features**: Full lab flow including all sections and tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+### Testing scope
+Validated the complete lab workflow, confirmed the updated public IP and OS disk configurations, ensured navigation steps lead to the correct development environment, and verified that new screenshots accurately reflect the latest UI for improved clarity.
+</details>
 
 <details>
   <summary>2025-07-15</summary>

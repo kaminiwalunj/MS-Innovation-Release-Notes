@@ -51,6 +51,5 @@ N/A
 
  Conducted end-to-end lab validation, updated cost estimation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
 
----
 </details>
 
