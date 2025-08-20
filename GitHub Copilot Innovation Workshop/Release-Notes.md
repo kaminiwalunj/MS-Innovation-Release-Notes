@@ -155,7 +155,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-I have updated the screenshots and made minor content updates in Exercise 4 and Exercise 11 to improve clarity and consistency.
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
 
 ### Infrastructure Changes
 
@@ -181,6 +181,7 @@ N/A
 
 ---
 </details>
+
 
 
 
