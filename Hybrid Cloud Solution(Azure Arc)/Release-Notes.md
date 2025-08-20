@@ -51,3 +51,42 @@ NA
 ---
 </details>
 
+<details>
+  <summary>2025-08-19</summary>
+
+### Release Date: 2025-08-19
+
+## Summary of Changes
+
+Minor updates including clearer UI screenshots and redefined instructions for improved clarity and accuracy.
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+  
+Instructions were updated to be more precise and clear.
+
+## Screenshot Updates
+
+- Minor updates:
+  - **Updated UI Screenshots:** Replaced outdated screenshots with updated ones matching the new Azure UI.
+  - **Instructions Refinement:** Added clarifying screenshots where instructions required better visual support.
+
+## Validation
+
+ - **Updated the validation**
+   - Exercise 1 – Task 5: Corrected validation for the policy assignment to ensure accurate identification of compliant and non-compliant resources. 
+    - Exercise 2 – Task 2: Fixed validation for onboarding Azure Arc-enabled servers to Microsoft Sentinel.
+
+## Testing Notes
+
+- **Test Date**: 2025-08-14
+
+## **Testing Scope**
+
+Performed end-to-end validation and functionality testing to confirm overall lab performance.
+
+---
+</details>
