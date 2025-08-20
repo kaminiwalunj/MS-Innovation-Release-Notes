@@ -22,6 +22,10 @@ This Page contains detailed notes about the latest updates and modifications mad
   
 - **Testing Date**: 2025-08-12
 
+## Summary of Changes
+
+Minor updates including clearer UI screenshots and refined instructions for improved clarity and accuracy
+
 ## Infrastructure Changes
 
 NA
@@ -33,15 +37,18 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: Updated few screenshots in the lab guide with proper comments.
+- **Minor updates:**
 
-## Validation
-
-  NA
+  - **Updated Screenshots:** Updated few screenshots in the lab guide with proper comments.
+  - **Instruction Refinements:** Added clear instructions based on screenshot with proper numbering.
 
 ## Testing Notes
 
-  NA
+  - **Testing Notes:**2025-08-13
+
+## Testing Scope
+
+Conducted end to end architecture validations, RBAC/policy checks, cost estimation updates.
 
 ---
 </details>
