@@ -16,6 +16,40 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2025-08-21</summary>
+
+## Release Date: 2025-08-21
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated few clear screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-08-21
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, RBAC/policy checks, and instruction enhancement.
+
+---
+</details>
+
+<details>
   <summary>2025-06-02</summary>
 
 ## Infrastructure Changes
