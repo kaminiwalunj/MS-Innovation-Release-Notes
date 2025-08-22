@@ -40,7 +40,8 @@ Added explicit navigation steps in the lab guide and incorporated multiple scree
 
 ### Testing Scope 
 
-Conducted validation to ensure that the revised navigation steps reliably direct users to the correct development environment and that the newly added screenshots accurately reflect the current UI for improved clarity.
+Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
 
 ------------
+
 </details>
