@@ -1,6 +1,6 @@
 # Power BI Embedded
 
-Welcome to the Semantic Kernel Agent with Azure PostgreSQL Lab Release-notes. In this page, we will document the onboarding data, changes made during the last testing cycle, including updates related to the infrastructure setup, lab content, screenshots, plugin configurations, and other relevant modifications for the AI agent orchestration and database integration lab.
+Welcome to the Power BI Embedded Lab Release-notes. In this page, we will document the onboarding data, changes made during the last testing cycle, including updates related to the infrastructure setup, lab content, screenshots, plugin configurations, and other relevant modifications for the AI agent orchestration and database integration lab.
 
 ## Overview
 
