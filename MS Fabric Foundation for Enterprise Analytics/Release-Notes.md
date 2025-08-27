@@ -28,9 +28,8 @@ Updated the lab guide with clear UI screenshots and refined the steps to improve
 
 ### Infrastructure Changes
 
-- Updated the ARM template to change the Dynamic Public IP address to Static, and adjusted the cost estimation accordingly.
 - Removed the Power BI Pro license (as it’s not required for our current scope).
-- Removed Owner permission at the Subscription level.
+- Removed Owner permission at the Subscription level as users are not utilizing any Azure resources.
 
 ### Content Changes
 
@@ -49,7 +48,7 @@ Updated the lab guide with clear UI screenshots and refined the steps to improve
 
 ### Testing Scope 
 
-Conducted end-to-end testing and validation, removed the RBAC and license as it was not required, updated the Public IP SKU and cost estimation accordingly.
+Conducted end-to-end testing and validation, removed the subscription permissions and license as it was not required.
 
 ---
 </details>
@@ -83,5 +82,6 @@ NA
 
 ---
 </details>
+
 
 
