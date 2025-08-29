@@ -26,7 +26,7 @@ updates including new task steps for SQL server onboard to azure arc and removed
 
 ## Infrastructure Changes
 
-Updated Register.ps1 script that is used while onboarding sqlvm into azure arc
+NA
 
 ## Content Changes
   
@@ -126,3 +126,4 @@ NA
 
 ---
 </details>
+
