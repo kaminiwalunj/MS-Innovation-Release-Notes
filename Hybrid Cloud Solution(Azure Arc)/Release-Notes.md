@@ -34,16 +34,12 @@ Instructions where improved and added conclusion
 
 ## Screenshot Updates
 
-- Minor updates:
-  - **Updated UI Screenshots:** updated screenshots for task steps for SQL server onboard to azure arc
-  - **Instructions Refinement:** Instructions where improved and added conclusion
-
+  - UI Screenshots: Refreshed screenshots to align with updated steps (e.g., SQL Server onboarding to Azure Arc).
+  - Instruction Refinements: Improved clarity in task steps and added a concluding section for better flow.
 ## Validation
 
- - **Updated the validation**
-   - Exercise 5: Enable GitOps Configuration on connected K8s Cluster- removed Task 3, Task 5 and 6 since users where facing issue while finding for kumbernetes image which is not available in market now 
-   - Exercise 3: Onboard SQL Server to Arc - Task 2: Register Azure Arc-enabled SQL Server- updated the instruction for a more clearer understanding after the registerscript is updated.
-
+  - Exercise 5 (GitOps Configuration on Connected Kubernetes Cluster): Removed a few tasks (3, 5, and 6) due to dependency issues with unavailable Kubernetes images.
+  - Exercise 3 (Onboard SQL Server to Arc): Revised Task 2 (Register Azure Arc-enabled SQL Server) with clearer instructions following script updates.
 ## Testing Notes
 
 - **Test Date**: 2025-08-28
@@ -126,4 +122,5 @@ NA
 
 ---
 </details>
+
 
