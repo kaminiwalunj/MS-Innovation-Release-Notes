@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>31 August 2025</summary>
+
+### Release Date: 2025-08-31
+
+### Summary of Changes
+  
+  - Lab testing was carried out end-to-end with no issues observed.
+  - Enhanced lab guide instructions and updated screenshots to improve clarity and user understanding.
+
+## Infrastructure Changes
+
+  - N/A
+
+## Content Changes
+
+  - Updated screenshots and instructions to reflect the new UI in the Azure AI Foundry portal.
+  - Updated with new UI screenshots from Azure AI Foundry.
+  - Revised instructions to align with the latest NIM plugin integration
+
+## Screenshot Updates
+
+ - **Change**: Updated the screenshots for a clearer and more intuitive user experience.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-31
+
+### Testing Scope 
+
+Scope included full lab execution, review of revised instructions, and validation of updated screenshots for accuracy and clarity.
+
+---
+</details>
+
+<details>
   <summary>09 July 2025</summary>
 
 ### Release Date: 2025-07-09
