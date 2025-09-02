@@ -24,7 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-- Instructions and screenshots were updated, added task and exercise overviews.
+- Instructions and screenshots have been refreshed to reflect the latest Azure portal UI updates, with task and exercise overviews added for clarity.
 
 ### Infrastructure Changes
 
@@ -113,6 +113,7 @@ N/A
 
 ---
 </details>
+
 
 
 
