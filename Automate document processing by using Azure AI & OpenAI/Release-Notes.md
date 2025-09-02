@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-08-29</summary>
+
+## Release Date : 2025-08-29
+
+### Summary of Changes 
+
+-  Added explicit navigation steps in the lab guide and incorporated multiple screenshots to improve clarity and ensure correct environment access.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+### Screenshot Update
+
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-08-29
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
+
+<details>
   <summary>2025-07-31</summary>
 
 ## Release Date : 2025-07-31
