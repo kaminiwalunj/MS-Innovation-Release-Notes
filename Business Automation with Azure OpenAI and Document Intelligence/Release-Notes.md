@@ -18,10 +18,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-09-02</summary>
 
-# Release Date: 2025-09-02
+## Release Date: 2025-09-02
 
 ## Summary of Changes
-- Minor updates, including clearer UI screenshots and refined instructions for improved clarity.Implemented validations and made update in powershell script regarding git install command.
+- Minor updates with clearer UI screenshots, refined instructions, and added validations for accuracy.
 
 ## Infrastructure Changes
 
@@ -29,7 +29,7 @@ NA
 
 ## Content Changes
 
-- **Minor Changes**: Updated few minor instruction changes and few screenshots in the lab and CloudLabs UI with latest ones.
+- **Minor Changes**: Updated instructions and screenshots in the lab to align with the recent CloudLabs UI updates.
   
 ## Screenshot Updates
 
@@ -42,16 +42,10 @@ NA
 
 ## Testng Scope
 
-Performed end-to-end testing, sent the lab for validation implementation and checked on them and working fine, RBAC, Policy, Negative testing, Cost estimate update and calendar.
+- Completed end-to-end testing, validated lab implementation, and confirmed successful checks across RBAC, policy, negative testing, cost estimate updates, and calendar.
   
 </details>
 
-<details>
-  <summary>2025-08-12</summary>
-
-- **Testing Date**: In- Progress
-
-</details>
 <details>
   <summary>2025-07-09</summary>
 
@@ -161,5 +155,6 @@ NA
 
 
   
+
 
 
