@@ -30,7 +30,7 @@ NA
 
 ### Content Changes
 
-- Included explicit navigation steps to ensure users reach the correct development environment.
+- Included detailed navigation instructions to ensure users access the appropriate development environment.
 
 ### Screenshot Update
 
@@ -196,4 +196,5 @@ NA
 - **Testing Date**: 2025-03-18
 
 </details>
+
 
