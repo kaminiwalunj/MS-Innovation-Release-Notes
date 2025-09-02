@@ -15,12 +15,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2025-07-25</summary>
+  <summary>2025-08-29</summary>
 
-Internal testing and feedback incorporation are currently in progress. The release notes will be updated once this is complete.
+## Release Date: 2025-08-29
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Instruction Refinements**:Added clear instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-08-29
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, cost estimation checks, and prerequisite verification.
+
+---
 </details>
-<details>
-  <summary>2025-06-12</summary>
 
 ### Release Date: 2025-05-16
 
@@ -125,41 +152,6 @@ NA
 - **Testing Date**: 2025-02-19
 - **Issues Found**: The most recent testing phase was completed. Faced an issue in ex 5 task 2 step 25 website was not coming up.
 - **Resolved Issues**: Updated the YAML to resolve the issue.
-
----
-</details>
-
-<details>
-  <summary>2025-08-29</summary>
-
-## Release Date: 2025-08-29
-
-### Summary of Changes
-
-Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-N/A
-
-### Screenshot Updates
-
-- **Minor updates**: 
-
-    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
-    - **Instruction Refinements**:Added clear instructions.
-      
-### Testing Notes
-
-- **Testing Date**: 2025-08-29
-
-### Testing Scope 
-
- Conducted end-to-end architecture validation, cost estimation checks, and prerequisite verification.
 
 ---
 </details>
