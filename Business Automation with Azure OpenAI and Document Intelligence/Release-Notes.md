@@ -16,12 +16,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-08-29</summary>
+  <summary>2025-09-02</summary>
 
-# Release Date: 2025-08-29
+# Release Date: 2025-09-02
 
 ## Summary of Changes
-- Minor updates, including clearer UI screenshots and refined instructions for improved clarity.
+- Minor updates, including clearer UI screenshots and refined instructions for improved clarity.Implemented validations and made update in powershell script regarding git install command.
 
 ## Infrastructure Changes
 
@@ -42,11 +42,9 @@ NA
 
 ## Testng Scope
 
-Performed end-to-end testing, sent the lab for validation implementation, RBAC, Policy, Negative testing, Cost estimate update, Updated calendar
+Performed end-to-end testing, sent the lab for validation implementation and checked on them and working fine, RBAC, Policy, Negative testing, Cost estimate update and calendar.
   
 </details>
-
-<details>
 
 <details>
   <summary>2025-08-12</summary>
