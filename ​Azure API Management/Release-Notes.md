@@ -25,7 +25,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes
 
-Lab guide steps enhancement, including clearer UI screenshots and refined instructions for improved clarity and accuracy. Content updates.    
+Updated the lab guide with clearer UI screenshots, refined step-by-step instructions, and content updates to enhance clarity, accuracy, and usability.
 
 ### Infrastructure Changes
 
@@ -108,4 +108,5 @@ N/A
     - Updated screenshots across the lab guide to reflect the latest UI changes, ensuring a consistent and intuitive user experience.
 
 </details>
+
 
