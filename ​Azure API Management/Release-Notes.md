@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
+<details>
+  <summary>2025-09-03</summary>
+
+## Release Date: 2025-09-203
+
+### Summary of Changes
+
+Lab guide steps enhancement, including clearer UI screenshots and refined instructions for improved clarity and accuracy. Content updates.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Fixed the issue with the Calculator API, updated the steps accordingly.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface, and added clearer screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-03
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, RBAC/policy checks, fixed issues with the content, prerequisite, and license verification.
+
+---
+</details>
+
 
 <details>
 
@@ -74,3 +108,4 @@ In this section, we will track and list each change introduced in the latest rel
     - Updated screenshots across the lab guide to reflect the latest UI changes, ensuring a consistent and intuitive user experience.
 
 </details>
+
