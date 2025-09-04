@@ -1,5 +1,5 @@
 # Azure API Management
-Welcome to the **Azure Landing Zone** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Azure API Management** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -108,5 +108,6 @@ N/A
     - Updated screenshots across the lab guide to reflect the latest UI changes, ensuring a consistent and intuitive user experience.
 
 </details>
+
 
 
