@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-updates including new task steps for SQL server onboard to azure arc and removed 2 task in Enable GitOps Configuration on connected K8s Cluster to clear kubernetes image issue.
+Updates including new task steps for SQL server onboard to azure arc and removed 2 task in Enable GitOps Configuration on connected K8s Cluster to clear kubernetes image issue.
 
 ## Infrastructure Changes
 
@@ -30,7 +30,7 @@ NA
 
 ## Content Changes
   
-Instructions where improved and added conclusion 
+Made minor enhancements for improved clarity and flow.
 
 ## Screenshot Updates
 
@@ -46,7 +46,7 @@ Instructions where improved and added conclusion
 
 ## **Testing Scope**
 
-Tested to udpated few task where instructor and uses where facing issue
+Tested and updated a few tasks to improve the experience where instructors and users encountered difficulties.
 
 ---
 </details>
@@ -122,5 +122,6 @@ NA
 
 ---
 </details>
+
 
 
