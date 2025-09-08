@@ -13,13 +13,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
----
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
 
-For any further details or inquiries, feel free to reach out to the CloudLabs support team.  
-
-Email Support: cloudlabs-support@spektrasystems.com  
-
----
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
 
@@ -40,14 +36,14 @@ NA
 
    - Challenge 01: Accessing GitHub is updated, the Entire lab is testing out in the **Organization**.
    - Challenge 02: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
-   - Challenge 03: It took a lot of time to **Create Dependabot Security Update** for **nanoid**, so now it is updated to choose any **Dependabot alerts.**
+   - Challenge 03: **Dependabot Security Update** for **nanoid** is now generalized to handle any **Dependabot alerts**, reducing implementation time.
    
 ## Screenshot Updates
 
 - **Minor updates:**
   
   - **Updated UI Screenshots:** Screenshots have been updated as per the new UI changes.
-  - **Instruction Refinements:** Updated numbering and formatting for better clarity and understanding.
+  - **Instruction Refinements:** Instructions have been updated for improved clarity, with additional pointers added to enhance readability.
 
 ## Testing Notes  
 
