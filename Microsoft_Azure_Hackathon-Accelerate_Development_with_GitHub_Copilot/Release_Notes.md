@@ -44,7 +44,8 @@ NA
    
 ## Screenshot Updates
 
-- **Minor updates:**  
+- **Minor updates:**
+  
   - **Updated UI Screenshots:** Updated screenshots which were unclear with new.  
   - **Instruction Refinements:** Fixed a few numbering, rendering issues and added clear instructions. 
 
