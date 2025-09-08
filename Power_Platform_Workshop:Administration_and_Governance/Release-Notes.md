@@ -32,7 +32,6 @@ NA
 
 NA
   
-
 ## Screenshot Updates
 
 - **Major updates**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power Power Platform Admin Centre and Microsoft forms.
