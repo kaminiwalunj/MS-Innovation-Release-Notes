@@ -28,7 +28,7 @@ NA
 
 ## Screenshot Updates
 
-- Did minor updates to the lab guide for enhancements.
+- Made minor enhancements for improved clarity and flow.
 
 ## Testing Notes
 
