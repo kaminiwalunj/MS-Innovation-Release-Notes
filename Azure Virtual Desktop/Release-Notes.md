@@ -16,6 +16,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-08</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+
+## Screenshot Updates
+
+- Did minor updates to the lab guide for enhancements.
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-08
+
+</details>
+
+<details>
   <summary>2025-07-17</summary>
 
 ## Infrastructure Changes
