@@ -46,8 +46,8 @@ NA
 
 - **Minor updates:**
   
-  - **Updated UI Screenshots:** Updated screenshots that were unclear with new ones.  
-  - **Instruction Refinements:** Fixed a few numbering and rendering issues and added clear instructions. 
+  - **Updated UI Screenshots:** Screenshots have been updated as per the new UI changes.
+  - **Instruction Refinements:** Updated numbering and formatting for better clarity and understanding.
 
 ## Testing Notes  
 
