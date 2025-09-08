@@ -40,14 +40,14 @@ NA
 
    - Challenge 01: Accessing GitHub is updated, the Entire lab is testing out in the **Organization**.
    - Challenge 02: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
-   - Challenge 03: it took a lot of time to **Create Dependabot Security Update** for **nanoid**, so I have updated it to choose any Dependabot alerts.
+   - Challenge 03: It took a lot of time to **Create Dependabot Security Update** for **nanoid**, so now it is updated to choose any Dependabot alerts.
    
 ## Screenshot Updates
 
 - **Minor updates:**
   
-  - **Updated UI Screenshots:** Updated screenshots which were unclear with new.  
-  - **Instruction Refinements:** Fixed a few numbering, rendering issues and added clear instructions. 
+  - **Updated UI Screenshots:** Updated screenshots that were unclear with new ones.  
+  - **Instruction Refinements:** Fixed a few numbering and rendering issues and added clear instructions. 
 
 ## Testing Notes  
 
