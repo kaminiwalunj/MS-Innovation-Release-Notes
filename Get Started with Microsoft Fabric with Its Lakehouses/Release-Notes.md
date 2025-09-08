@@ -20,12 +20,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-09-03
 
-- **Testing Date**: 2025-09-03
+### Summary of Changes
 
-## Infrastructure Changes
+Screenshot updates, including clearer UI screenshots updates and refined instructions for improved clarity and accuracy.   
 
-**Details:**
-- No infrastructure changes were required in this update.
+### Infrastructure Changes
+
+N/A
 
 ## Content Changes
  
@@ -33,20 +34,24 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Screenshot Updates
 
-- Replaced outdated screenshots with new ones reflecting the current UI.
+- ** Newer Updates**: 
+
+    - Replaced outdated screenshots with new ones reflecting the current UI.
 
 ## Testing Notes
 
 - **Testing Date**: 2025-09-03
-- **Tested Features**: Full lab flow including all sections and tasks.
-- **Issues Found**: NA
-- **Resolved Issues**: NA
-  
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation checks, prerequisite and license verification.
+
+---
 </details>
 
 
 <details>
-  <summary>2025-08-04</summary>
+  <summary>2025-09-03</summary>
 
 ### Release Date: 2025-08-04
 
