@@ -1,6 +1,6 @@
-# Enterprise-Class Networking in Azure
+# Sample 
 
-Welcome to the **Enterprise-Class Networking in Azure** Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **SAMPLE** Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
