@@ -47,7 +47,7 @@ Validated the complete lab workflow, confirmed the implementation of latest UI u
 
 <details>
   
-  <summary>-2025-07-18</summary>
+  <summary>2025-07-18</summary>
 
 ## Infrastructure Changes
 
@@ -238,3 +238,4 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
