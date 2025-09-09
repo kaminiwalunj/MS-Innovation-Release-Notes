@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 Screenshot updates, including clearer UI screenshots updates and refined instructions for improved clarity and accuracy.   
 
-### Infrastructure Changes
+## Infrastructure Changes
 
 N/A
 
@@ -34,7 +34,7 @@ N/A
 
 ## Screenshot Updates
 
-- ** Newer Updates**: 
+- Newer Updates: 
 
     - Replaced outdated screenshots with new ones reflecting the current UI.
 
