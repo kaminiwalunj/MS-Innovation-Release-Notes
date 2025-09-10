@@ -71,7 +71,7 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: nhanced the instructions by aligning the naming convention with the visuals for improved clarity and consistency.
+- **Change**: enhanced the instructions by aligning the naming convention with the visuals for improved clarity and consistency.
 
 ## Validation
 
@@ -174,4 +174,35 @@ NA
 - **Issues Found**: NA
 - **Resolved Issues**: NA
 
+</details>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots. Fixed the issue where the Cognitive Services User role was not assigned by creating a deployment script to add the role.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, cost estimation checks, and prerequisite verification.
+
+---
 </details>
