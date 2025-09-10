@@ -20,6 +20,33 @@ This repository contains detailed notes about the latest updates and modificatio
 In this section, we will track and list each change introduced in the latest release:
 
 ### Release Date:
+
+ <details>
+  <summary>2025-09-10</summary>
+
+### Summary of Changes
+The lab has been enhanced with updated UI elements and clearer instructions to improve usability, including revised steps for creating the Semantic Model. Screenshots were refreshed to align with the latest UI and provide clearer visuals for better guidance. The complete lab workflow was validated to ensure accuracy of the updated instructions, UI changes, and screenshots.
+
+## Infrastructure Changes
+
+- **Change**: 
+
+## Content Changes
+
+- **Change**: Enhanced the lab exercise with updated UI and improved instructions for a more user-friendly experience, including updated steps for creating the Semantic Model
+
+## Screenshot Updates
+
+- **Change**: Added the latest screenshots reflecting the updated UI in the lab and provided clearer ones for better guidance.
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-10
+- **Tested Features**: Workspace, Lakehouse, Data Warehouse, Data Pipeline, Dataflow Gen2, and Notebooks.
+
+### Testing scope
+
+Validated the complete lab workflow, verified updated UI elements and instructional enhancements, and confirmed the accuracy of revised screenshots and instructions.
  
  <details>
   <summary>2025-07-22</summary>
