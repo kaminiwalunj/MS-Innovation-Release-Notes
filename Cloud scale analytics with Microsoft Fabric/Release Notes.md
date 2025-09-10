@@ -29,7 +29,7 @@ The lab has been enhanced with updated UI elements and clearer instructions to i
 
 ## Infrastructure Changes
 
-- **Change**: 
+- **Change**: NA
 
 ## Content Changes
 
