@@ -47,10 +47,10 @@ The lab has been enhanced with updated UI elements and clearer instructions to i
 ### Testing scope
 
 Validated the complete lab workflow, verified updated UI elements and instructional enhancements, and confirmed the accuracy of revised screenshots and instructions.
-
+</details>
 
 <details>
- <summary>2025-07-22</summary>
+<summary>2025-07-22</summary>
 
 ### Summary of Changes
 Implemented multiple UI and instructional enhancements to improve clarity, understanding, and overall user experience. Streamlined licensing and policy configurations for better resource optimization. Updated the lab exercises and screenshots to align with the latest UI changes.
