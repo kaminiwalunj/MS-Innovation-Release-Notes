@@ -1,6 +1,6 @@
 # Introduction to Building AI Apps - Hackathon
 
-Welcome to the **Introduction to Building AI Apps - Hackathon** readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Introduction to Building AI Apps - Hackathon** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -92,4 +92,5 @@ NA
 
 ---
 </details>
+
 
