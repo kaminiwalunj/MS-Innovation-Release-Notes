@@ -15,6 +15,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-09-10</summary>
+Internal testing is currently in progress, and the final pointers will be shared once it is completed.
+</details>
+
 <details>
   <summary>2025-08-20</summary>
 

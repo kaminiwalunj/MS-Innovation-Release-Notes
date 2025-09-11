@@ -1,6 +1,6 @@
-# Create and Publish PowerBi Dashboards & Reports
+# Create and Publish Power BI Dashboards & Reports
 
-Welcome to the  **Create and Publish PowerBi Dashboards & Reports** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the  **Create and Publish Power BI Dashboards & Reports** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -17,10 +17,29 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
  <details>
   <summary>2025-08-08</summary>
 
-## Release Date : 2025-08-08
+## Release Date: 2025-08-08
 
 ### Summary of Changes
 
