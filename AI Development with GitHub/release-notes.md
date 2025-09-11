@@ -27,7 +27,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-- Updated OS disk SKU from Standard_LRS to Premium_LRS.
+- NA
 
 ### Content Changes
 
