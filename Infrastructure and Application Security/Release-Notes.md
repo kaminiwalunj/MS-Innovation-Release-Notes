@@ -1,6 +1,6 @@
 # Infrastructure and Application Security
 
-Welcome to the **Infrastructure and Application Security** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Infrastructure and Application Security**  Release notes page. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -40,4 +40,39 @@ NA
 - **Testing Date**: 2025-05-19
 - **Resolved Issues**: NA
 ---
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date : 2025-09-10
+
+### Summary of Changes 
+
+-  Updated the Public IP SKU from Dynamic to Standard Static, and refreshed the screenshot to reflect the latest UI changes for improved user experience.
+
+- As NSG flow logs will be retired on 30th September 2027, the content has been revised to align with the requirement to use Virtual Network Flow Logs instead.
+
+### Infrastructure Changes
+
+- Updated configuration to use a Standard Static Public IP SKU instead of Dynamic.
+
+### Content Changes
+
+- Revised content to replace NSG Flow Logs with Virtual Network Flow Logs, in line with the planned retirement on 30th September 2027.
+
+### Screenshot Update
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Confirmed the deployment process with the updated Public IP SKU configuration, verified the implementation with the revised resource group name with validation implementation, ensured the instructions align with the actual portal flow, and updated screenshots to accurately represent the latest UI and steps.
+
+-------------
+
 </details>
