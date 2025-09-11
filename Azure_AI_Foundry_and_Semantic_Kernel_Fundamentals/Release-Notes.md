@@ -45,7 +45,7 @@ NA
 
 ## Testing Scope
 
-Conducted end-to-end validation. RBAC/Policy checks, cost estimation updates.
+Conducted end-to-end validation. RBAC/Policy checks.
 
 ---
 </details>
