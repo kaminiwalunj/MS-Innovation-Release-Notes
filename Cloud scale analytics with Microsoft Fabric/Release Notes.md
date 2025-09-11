@@ -22,26 +22,35 @@ In this section, we will track and list each change introduced in the latest rel
 ### Release Date:
 
 <details>
-  <summary>2025-09-10</summary>
-
-## Release Date: 2025-09-10
+<summary>2025-09-10</summary>
 
 ### Summary of Changes
+The lab has been enhanced with updated UI elements and clearer instructions to improve usability, including revised steps for creating the Semantic Model. Screenshots were refreshed to align with the latest UI and provide clearer visuals for better guidance. The complete lab workflow was validated to ensure accuracy of the updated instructions, UI changes, and screenshots.
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+## Infrastructure Changes
 
-### Testing Notes
+- **Change**: NA
+
+## Content Changes
+
+- **Change**: Enhanced the lab exercise with updated UI and improved instructions for a more user-friendly experience, including updated steps for creating the Semantic Model
+
+## Screenshot Updates
+
+- **Change**: Added the latest screenshots reflecting the updated UI in the lab and provided clearer ones for better guidance.
+
+## Testing Notes
 
 - **Testing Date**: 2025-09-10
+- **Tested Features**: Workspace, Lakehouse, Data Warehouse, Data Pipeline, Dataflow Gen2, and Notebooks.
 
-### Testing Scope 
+### Testing scope
 
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
-
+Validated the complete lab workflow, verified updated UI elements and instructional enhancements, and confirmed the accuracy of revised screenshots and instructions.
 </details>
- 
- <details>
-  <summary>2025-07-22</summary>
+
+<details>
+<summary>2025-07-22</summary>
 
 ### Summary of Changes
 Implemented multiple UI and instructional enhancements to improve clarity, understanding, and overall user experience. Streamlined licensing and policy configurations for better resource optimization. Updated the lab exercises and screenshots to align with the latest UI changes.
