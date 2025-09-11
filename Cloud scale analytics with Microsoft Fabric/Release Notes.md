@@ -1,6 +1,6 @@
-# Cloud scale analytics with Microsoft Fabric Release Notes
+# Cloud Scale analytics with Microsoft Fabric
 
-Welcome to the Cloud scale analytics with Microsoft Fabric Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Cloud Scale analytics with Microsoft Fabric** Readme.md. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -20,6 +20,25 @@ This repository contains detailed notes about the latest updates and modificatio
 In this section, we will track and list each change introduced in the latest release:
 
 ### Release Date:
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
  
  <details>
   <summary>2025-07-22</summary>
