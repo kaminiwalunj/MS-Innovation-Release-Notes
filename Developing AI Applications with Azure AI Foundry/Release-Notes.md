@@ -25,7 +25,22 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Summary of Changes
 
 - The lab has been successfully tested, and the lab content, along with validation, has been reviewed and updated.
+   
+### Infrastructure Changes
 
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Instruction Refinements**:Added clear instructions.
+      
 ### Testing Notes
 
 - **Testing Date**: 2025-09-10
@@ -33,8 +48,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Testing Scope 
 
 - Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
-
-</details
+  
+</details>
 
 <details>
   <summary>2025-08-12</summary>
