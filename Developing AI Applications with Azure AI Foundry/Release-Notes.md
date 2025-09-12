@@ -39,7 +39,7 @@ N/A
 - **Minor updates**: 
 
     - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
-    - **Instruction Refinements**:Fixed rendering issues and added clear instructions.
+    - **Instruction Refinements**: Fixed rendering issues and added clear instructions.
       
 ### Testing Notes
 
