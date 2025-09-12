@@ -16,6 +16,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2025-09-11</summary>
+
+### Release Date: 2025-09-11
+  
+- **Testing Date**: 2025-09-11
+
+## Infrastructure Changes
+
+  NA
+  
+## Content Changes
+
+  Getting Started Page: Updated to replace the Azure Portal login flow with the new Microsoft Fabric portal login instructions.
+
+## Screenshot Updates
+
+- **Change**: Replaced and updated lab guide screenshots that were previously unclear.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest changes.
+
+---
 </details>
 
 <details>
