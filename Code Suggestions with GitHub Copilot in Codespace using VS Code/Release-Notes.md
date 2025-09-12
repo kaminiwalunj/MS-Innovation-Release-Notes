@@ -11,26 +11,42 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+ `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
-  <summary>2025-06-02</summary>
+  <summary>2025-08-21</summary>
 
-## Infrastructure Changes
+## Release Date: 2025-08-21
 
-There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain the same. 
+### Summary of Changes
 
-## Content Changes
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
 
-- **Change**: The lab environment content has been updated to reflect the latest UI changes, including updated screenshots.
+### Infrastructure Changes
 
-## Testing Notes
+N/A
 
-- **Testing Date**: 2025-05-30
-- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
-- **Resolved Issues**: NA
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated few clear screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-08-21
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, RBAC/policy checks, and instruction enhancement.
 
 ---
 </details>
@@ -54,3 +70,24 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 ---
 </details>
+
+<details>
+  <summary>2025-06-02</summary>
+
+## Infrastructure Changes
+
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain the same. 
+
+## Content Changes
+
+- **Change**: The lab environment content has been updated to reflect the latest UI changes, including updated screenshots.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-30
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
+

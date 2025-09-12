@@ -13,7 +13,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-# Release Notes
+## Release Notes
+
+<details>
+  <summary>2025-09-03</summary>
+
+### Release Date: 2025-09-03
+
+### Summary of Changes
+
+Enhanced the labguide with new latest screenshots according to the new UI Updates in Power Platform Admin Centre and Microsoft forms.
+  
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates
+
+- **Major updates**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power Power Platform Admin Centre and Microsoft forms.
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-02
+
+## Testng Scope
+
+Performed end-to-end testing, lab validation is working fine. Updated the lab guide content to thr latest UI changes in Power Platform Admin Centre and Microsoft forms.
+---
+</details>
 
 <details>
   <summary>2025-06-14</summary>

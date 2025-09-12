@@ -18,6 +18,38 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2025-09-02</summary>
+
+## Release Date: 2025-09-02
+
+### Summary of Changes
+
+- Instructions and screenshots have been refreshed to reflect the latest Azure portal UI updates, with task and exercise overviews added for clarity.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+    - **Instruction Refinements**: Fixed numbering issues with updated instructions
+
+### Testing Notes
+
+- **Testing Date**: 2025-08-29
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.The lab has no issues and is good.
+
+</details>
+
+<details>
   <summary>2025-08-08</summary>
 
 ## Release Date: 2025-08-08
@@ -81,6 +113,8 @@ N/A
 
 ---
 </details>
+
+
 
 
 
