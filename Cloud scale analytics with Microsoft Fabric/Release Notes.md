@@ -42,7 +42,6 @@ The lab has been enhanced with updated UI elements and clearer instructions to i
 ## Testing Notes
 
 - **Testing Date**: 2025-09-10
-- **Tested Features**: Workspace, Lakehouse, Data Warehouse, Data Pipeline, Dataflow Gen2, and Notebooks.
 
 ### Testing scope
 
