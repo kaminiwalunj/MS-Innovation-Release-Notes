@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
-- Performed end to end lab testing, and all validations were successful.Updated lab guide for better clarity.
+- Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
 
 ---
 </details>
