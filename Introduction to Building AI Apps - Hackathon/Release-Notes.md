@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Content updates, fixed issues in Challenge 3 C # code.    
+Content updates - Updated the OpenAI models and CSharp code in Challenge 3.    
 
 ### Infrastructure Changes
 
@@ -108,6 +108,7 @@ NA
 
 ---
 </details>
+
 
 
 
