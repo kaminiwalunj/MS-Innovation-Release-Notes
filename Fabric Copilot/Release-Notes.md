@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Summary of Changes
 
- - User data has been added and validations are implemented.
+ - User data has been added to reduce the deployment time.
  - Minor updates in instruction and few screenshots were updated as per new UI changes.
 
 ## Infrastructure Changes
