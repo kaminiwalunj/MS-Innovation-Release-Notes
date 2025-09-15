@@ -22,8 +22,8 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Summary of Changes
 
- - User data has been added to reduce the deployment time.
- - Minor updates in instruction and few screenshots were updated as per new UI changes.
+ - User data has been added to reduce the deployment time and validations are implemented.
+ - Minor updates in instructions and screenshots.
 
 ## Infrastructure Changes
 
@@ -35,12 +35,12 @@ N/A
 
 ## Screenshot Updates
 
-Few screenshots were update based on latest UI changes and also made few minor instruction changes accordingly.
+Few screenshots were updated and also made few minor instruction changes accordingly.
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshots with latest UI changes
-    - **Instruction Refinements**: Fixed a few instruction and numbering as per screenshots, few changes in instructions for better clarity. 
+    - **Updated UI Screenshots**: Updated enhanced screenshots for better understanding.
+    - **Instruction Refinements**: Fixed a few instructions and numbering as per screenshots, and made a few changes in instructions for better clarity. 
 
 ## Validation Summary 
 
@@ -52,7 +52,7 @@ All Validations are Good.
 
  ## Testing Scope 
 
- -  All tasks are working smoothly, end to end testing was performed, updated cost estimate and few changes in lab guide regarding UI updates, lab is good.
+ -  All tasks are working smoothly, end-to-end testing was performed, few changes in lab guide regarding to screenshots updates, lab is good.
 ---
 </details>
 
