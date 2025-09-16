@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-16</summary>
+
+## Release Date: 2025-09-16
+
+### Summary of Changes
+
+Minor instructions and screenshots were updated.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-09
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing, successful validation, ARM, RBAC/policy checks, cost estimation checks.
+
+---
+</details>
+
+<details>
   <summary>2025-06-13</summary>
 
 ### Release Date: 2025-05-13
