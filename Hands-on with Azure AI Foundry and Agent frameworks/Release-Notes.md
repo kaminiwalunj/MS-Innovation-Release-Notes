@@ -18,30 +18,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-09-16</summary>
 
-### Release Date: 2025-09-16
+## Release Date: 2025-09-16
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
 
 - **Testing Date**: 2025-09-16
 
-## Infrastructure Changes
+### Testing Scope 
 
-**Details:**
-- No infrastructure changes were required in this update.
+ Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation checks, prerequisite and license verification.
 
-## Content Changes
- 
-- Enhanced and refined the lab instructions to ensure improved clarity and better understanding.
-
-## Screenshot Updates
-
-- Updated screenshots to align with the latest user interface updates.
-
-## Testing Notes
-
-- **Testing Date**: 2025-09-16
-- **Tested Features**: Full lab flow including all sections and tasks.
-- **Issues Found**: NA
-- **Resolved Issues**: NA
-  
+---
 </details>
 
 
@@ -173,4 +178,5 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
