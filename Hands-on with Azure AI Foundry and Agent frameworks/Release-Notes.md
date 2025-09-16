@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+Made minor updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
 
 ### Infrastructure Changes
 
@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation checks, prerequisite and license verification.
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, cost estimation review, and verification of prerequisites.
 
 ---
 </details>
@@ -178,5 +178,6 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
