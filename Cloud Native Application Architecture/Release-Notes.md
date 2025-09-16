@@ -26,11 +26,11 @@ The testing was completed successfully, with no changes required and all compone
 
 ### Infrastructure Changes
 
-NA
+No modifications required
 
 ### Content Changes
 
-NA
+No modifications required
 
 ### Screenshot Updates
 
