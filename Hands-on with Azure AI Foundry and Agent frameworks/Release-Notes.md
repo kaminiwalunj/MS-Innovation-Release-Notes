@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
-Performed end-to-end architecture validation, including RBAC and policy compliance checks, cost estimation review, and verification of prerequisites.
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites.
 
 ---
 </details>
@@ -178,6 +178,7 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
 
