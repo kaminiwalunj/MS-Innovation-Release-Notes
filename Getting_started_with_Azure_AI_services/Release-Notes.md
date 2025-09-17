@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-09-16</summary>
+  <summary>2025-09-17</summary>
 
-## Release Date: 2025-09-16
+## Release Date: 2025-09-17
 
 ### Summary of Changes
 
@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end lab testing, successful validation, ARM, RBAC/policy checks, cost estimation checks.
+Performed end to end lab testing, updated lab guide for better clarity.
 
 ---
 </details>
