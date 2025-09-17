@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor instructions and screenshots were updated.   
+Minor instructions and screenshots were updated. Updated the content in Lab 02.
 
 ### Infrastructure Changes
 
@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
-Performed end to end lab testing, updated lab guide for better clarity.
+Performed end to end lab testing, updated lab guide for better clarity.Lab 02 content was updated with custom vision instead of AI services.
 
 ---
 </details>
