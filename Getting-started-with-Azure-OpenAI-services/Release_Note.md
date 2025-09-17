@@ -30,7 +30,7 @@ N/A
 
 ### Content Changes
 
-N/A
+Removed Task 3: Explore a model in the Completions playground, from the exercise, as the Completions option in the Playgrounds section is no longer available in the updated UI.
 
 ### Screenshot Updates
 
