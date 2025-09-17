@@ -44,7 +44,7 @@ N/A
 
 ### Testing Scope 
 
-Performed end to end lab testing, updated lab guide for better clarity.Lab 02 content was updated with custom vision instead of AI services.
+Performed end to end lab testing, updated lab guide for better clarity. Lab 02 content was updated with custom vision instead of AI services.
 
 ---
 </details>
