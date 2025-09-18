@@ -18,11 +18,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-09-16</summary>
 
-## Release Date: 2025-09-10
+## Release Date: 2025-09-16
 
 ### Summary of Changes 
 
--  Fixed rendering issues in the lab to ensure proper display and improve the overall user experience.
+-  Updated the lab guide for improved clarity and accuracy, enhancing the overall user experience.
 
 ### Infrastructure Changes
 
@@ -34,7 +34,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Update
 
-- Updated one screenshot to reflect a recent UI change and improve instructional clarity.
+- Updated a screenshot to reflect a recent UI change and improve instructional clarity.
   
 ### Testing Notes
 
