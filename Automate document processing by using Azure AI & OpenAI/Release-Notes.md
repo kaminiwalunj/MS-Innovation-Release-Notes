@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-18</summary>
+
+## Release Date: 2025-09-18
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+    
+### Testing Notes
+
+- **Testing Date**: 2025-09-18
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful.
+
+---
+</details>
+
+<details>
   <summary>2025-09-10</summary>
 
 ## Release Date: 2025-09-10
@@ -215,6 +247,7 @@ NA
 - **Testing Date**: 2025-03-18
 
 </details>
+
 
 
 
