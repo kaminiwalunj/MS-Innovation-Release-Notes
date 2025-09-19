@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-17</summary>
+
+## Release Date: 2025-09-17
+
+### Summary of Changes
+
+Made minor updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Removed Task 3: Explore a model in the Completions playground, from the exercise, as the Completions option in the Playgrounds section is no longer available in the updated UI.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-17
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites.
+
+---
+</details>
+
+<details>
   <summary>2025-07-16</summary>
   
 ### Release Date : 2025-07-16

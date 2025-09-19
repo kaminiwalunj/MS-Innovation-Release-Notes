@@ -1,7 +1,7 @@
 
-# Microsoft Defender for Cloud - V2
+# Microsoft Defender for Cloud - AI Workload Protection
 
-Welcome to the **Microsoft Defender for Cloud - V2** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Defender for Cloud - AI Workload Protection** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
