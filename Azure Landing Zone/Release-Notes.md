@@ -18,8 +18,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 
-
-
 <details>
   
   <summary>2025-09-19</summary>
@@ -40,9 +38,13 @@ NA
 
    1. Added screeshots according to new changes and UI updates.
 
+## Validation
+
+NA
+
 ## Testing Notes
 
-   - **Testing Date**: 2025-09-19
+- **Test Validation Summary**: Validated the lab guide steps, enhanced the labguide with new latest screenshots.
 
 </details>
 
