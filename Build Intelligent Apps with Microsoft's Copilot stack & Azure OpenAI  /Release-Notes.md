@@ -28,7 +28,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-  - Custom image used for the virtual machine has been updated on 2025-09-16.
+  - N/A
 
 ## Screenshot Updates
 
@@ -177,6 +177,7 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
 
 
 
