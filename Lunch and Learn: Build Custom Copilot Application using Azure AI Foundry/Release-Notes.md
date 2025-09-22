@@ -17,37 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
-<details>
-  <summary>2025-Sept-03</summary>
+In this section, we will track and list each change introduced in the latest release:
 
-### Release Date: 2025-Sept-03
-  
-- **Testing Date**: 2025-Sept-03
+ <details>
+  <summary>2025-09-03</summary>
 
-## Infrastructure Changes
+## Release Date : 2025-09-03
 
-NA
+### Summary of Changes
 
-## Content Changes
+Minor updates including clearer UI screenshots.   
 
-- **Change**:
-    - NA
+### Infrastructure Changes
 
+  N/A
 
-## Screenshot Updates
+### Content Changes
 
-- **Change**: Updated or added few new screenshots.
+ N/A 
 
-## Validation
+### Screenshot Updates
 
-  NA
+- **Minor updates**: 
 
-## Testing Notes
+    - **Updated UI Screenshots**: Updated screenshots which were unclear with new
+    - **Instruction Refinements**: NA
 
-- **Test Validation Summary**: Validated the lab guide steps, added few new screenshot.
+### Testing Notes
+
+- **Testing Date**: 2025-09-03
+
+### Testing Scope 
+
+Conducted end-to-end testing, RBAC/policy checks, cost estimation updates, prerequisite, validated the lab guide steps, enhanced the labguide with new latest screenshots.
 
 ---
 </details>
+
 
 
 <details>
@@ -114,4 +120,5 @@ NA
 
 ---
 </details>
+
 
