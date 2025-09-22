@@ -49,7 +49,7 @@ Minor updates including clearer UI screenshots.
 
 ### Testing Scope 
 
-Conducted end-to-end testing, RBAC/policy checks, cost estimation updates, prerequisite, validated the lab guide steps, enhanced the labguide with new latest screenshots.
+Conducted end-to-end testing, RBAC/policy checks, prerequisite, validated the lab guide steps, enhanced the labguide with new latest screenshots.
 
 ---
 </details>
@@ -120,5 +120,6 @@ NA
 
 ---
 </details>
+
 
 
