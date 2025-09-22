@@ -38,7 +38,7 @@ Minor updates including clearer UI screenshots and refined instructions for impr
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshots which were unclear with new,
+    - **Updated UI Screenshots**: Updated screenshots which were unclear with new
     - **Instruction Refinements**: Updated the instructions according to the added new screeshots
 
 ### Testing Notes
@@ -47,7 +47,7 @@ Minor updates including clearer UI screenshots and refined instructions for impr
 
 ### Testing Scope 
 
-Conducted end-to-end testing, RBAC/policy checks, cost estimation updates, prerequisite, validated the lab guide steps, enhanced the labguide with new latest screenshots.
+Conducted end-to-end testing, RBAC/policy checks, prerequisite, validated the lab guide steps, enhanced the labguide with new latest screenshots.
 
 ---
 </details>
