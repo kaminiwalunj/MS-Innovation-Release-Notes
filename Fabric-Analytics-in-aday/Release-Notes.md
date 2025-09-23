@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+The lab has been successfully tested, and the lab content has been reviewed and updated.
 
 ### Infrastructure Changes
 
@@ -48,9 +48,6 @@ N/A
 
 ---
 </details>
-
-<details>
-  <summary>2025-09-10</summary>
 
 <details>
   <summary>2025-09-10</summary>
@@ -293,6 +290,7 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
 
 
 
