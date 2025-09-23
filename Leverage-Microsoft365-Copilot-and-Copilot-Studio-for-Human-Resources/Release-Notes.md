@@ -1,6 +1,6 @@
 # Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources
 
-Welcome to the **Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources** lab Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -12,7 +12,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Changes to screenshots and visuals used in the lab
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
-
 
 # Release Notes
 
@@ -47,7 +46,7 @@ Updated the instructions and content as per the New UI in the Microsoft Copilot 
 
 ### Testing Scope 
 
- Performed end-to-end testing of the lab, updated the lab guide with clear instructions as per the feedback provided by the instructor, and updated the images as per the new UI> 
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions and updated the images as per the new UI.
 
 
 <details>

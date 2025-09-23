@@ -14,23 +14,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
-<details>
-  <summary>2025-09-10</summary>
 
-## Release Date: 2025-09-10
+<details>
+  <summary>2025-09-15</summary>
+
+## Release Date: 2025-09-15
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+Content updates - Updated the OpenAI models and CSharp code in Challenge 3.    
 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Replaced the OpenAI models gpt-35-turbo and gpt-4o-mini with gpt-4.1-mini, since the earlier models have been deprecated.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - Instruction enhancement and a few screenshot updates. 
+      
 ### Testing Notes
 
-- **Testing Date**: 2025-09-10
+- **Testing Date**: 2025-09-12
 
 ### Testing Scope 
 
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+ Conducted end-to-end testing of the lab, updating the content and instructions accordingly. 
 
+---
 </details>
 
 <details>
@@ -92,5 +108,7 @@ NA
 
 ---
 </details>
+
+
 
 

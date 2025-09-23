@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-16</summary>
+
+## Release Date: 2025-09-16
+
+### Summary of Changes
+
+The validation are implemented for this lab from 2025-09-11, few changes were made in lab guide for better understanding to enchance user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Instructions have been changed to enhance the quality.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-11
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing, the implemented validation are working properly. There are no issues in the lab.
+
+---
+</details>
+
+<details>
   <summary>2025-08-18</summary>
 
 ## Release Date : 2025-08-18
