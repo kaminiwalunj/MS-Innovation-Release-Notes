@@ -16,6 +16,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2025-08-26</summary>
+  
+## Release Date: 2025-09-18
+
+### Summary of Changes
+
+- In Challenge 2, accommodated the feedback shared by the Customer to update Task 1 by removing the instructions and adding a file provided.
+- Added additional details to the Attendee Guide and Trainer Guide. This included updating the instructions to incorporate recent changes in the Azure UI.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-26
+
+### Testing Scope 
+
+- Performed end-to-end lab testing and updated the lab guide for better clarity.  
+
+---
+</details>
+
+<details>
   <summary>2025-05-23</summary>
 
 ## Infrastructure Changes
@@ -118,21 +139,3 @@ NA
 ---
 </details>
 
-<details>
-  <summary>2025-08-26</summary>
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes and Screenshot Updates
-
-- In Challenge 2, accommodated the feedback shared by the Customer to update Task 1 by removing the instructions and adding a file provided.
-- Added additional details to the Attendee Guide and Trainer Guide. This included updating the instructions to incorporate recent changes in the Azure UI.
-
-## Testing Notes
-
-- **Testing Date**: 2025-08-26
-
----
-</details>
