@@ -18,6 +18,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-22</summary>
+
+## Release Date: 2025-09-22
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+    
+### Testing Notes
+
+- **Testing Date**: 2025-09-22
+
+### Testing Scope 
+
+- Performed end to end lab testing,with no issues. We are good with the lab.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+<details>
   <summary>2025-09-10</summary>
 
 ## Release Date: 2025-09-10
@@ -35,6 +70,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Performed end-to-end lab testing and updated the lab guide for better clarity.
 
 </details>
+
 <details>
   
   <summary>2025-07-29</summary>
@@ -257,5 +293,6 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
 
 
