@@ -19,6 +19,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
+  <summary>2025-09-22</summary>
+
+## Release Date: 2025-09-22
+
+### Summary of Changes
+
+Updated the lab guide with clear UI screenshots and refined the steps to improve clarity.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+ In exercise 6, task 1, added instructions for closing the Power Query editor, including the confirmation dialog.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots that were unclear with new ones.
+    - **Instruction Refinements**: Enhanced the instructions to improve clarity, and fixed the numbering and rendering issues in the steps. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-22
+
+### Testing Scope 
+
+Conducted end-to-end testing and validations are as expected.
+
+---
+</details>
+
+<details>
+  
   <summary>2025-09-09</summary>
 
 ## Release Date: 2025-09-09
@@ -119,6 +155,7 @@ NA
 
 ---
 </details>
+
 
 
 
