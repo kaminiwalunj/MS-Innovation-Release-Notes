@@ -117,3 +117,22 @@ NA
 
 ---
 </details>
+
+<details>
+  <summary>2025-08-26</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes and Screenshot Updates
+
+- In Challenge 2, accommodated the feedback shared by the Customer to update Task 1 by removing the instructions and adding a file provided.
+- Added additional details to the Attendee Guide and Trainer Guide. This included updating the instructions to incorporate recent changes in the Azure UI.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-26
+
+---
+</details>
