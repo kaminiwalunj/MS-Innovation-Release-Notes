@@ -18,9 +18,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
-
-**This is a newly onboarded lab.**
-
 <details>
   <summary>2025-09-25</summary>
 
@@ -55,7 +52,7 @@ Updated the instructions and content as per the New UI in the Microsoft Copilot 
 ---
 </details>
 
-
+**This is a newly onboarded lab.**
 <details>
   
   <summary>04 June 2025</summary>
