@@ -5,11 +5,11 @@
 
 - **Change**: Tested End to End no issues with Lab and Updated Few Screenshots and instructions for Read only Exercise (Exercise 2: Reviewing Security and Compliance in Copilot (Read Only))
 - **Testing Date**: 2025-09-19
-- **Notes**: Gone through the MS learn docs for New UI updates instructions and Screenshots and made those changes in guide .
+- **Notes**: Gone through the MS learn docs for New UI updates instructions and Screenshots and made those changes inthe lab guide .
 
 ## Content Changes
 
-- **Change**: Updated the Content as per the New UI change as per Microsoft purview portal .
+- **Change**: Updated the instructions as per the New UI change of Microsoft purview portal .
 - **Details**: Added New UI Screenshots and instructions on the same 
 
 ## Screenshots Updates
