@@ -52,7 +52,7 @@ Conducted end-to-end validation. RBAC/Policy checks.
 <details>
   <summary>2025-07-25</summary>
 
-### Release Date: 2025-07-25
+### Release Date: 2025-08-08
 
 ## Summary of Changes
 
