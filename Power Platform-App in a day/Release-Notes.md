@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-26</summary>
+
+### Release Date: 2025-09-29
+
+## Summary of Changes
+
+Minor updates, including clearer screenshots and refined instructions for improved clarity and accuracy. 
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+ 
+NA
+
+## Screenshot Updates
+
+  - **Updated Screenshots:** Enhanced screenshots have been updated for better understanding.
+  - **Instruction Refinements:** Updated numbering and formatting for better clarity and understanding.
+
+## Validation
+
+No Validation
+
+## Testing Scope
+
+Conducted end-to-end testing and performance tests passed successfully. RBAC checks and verified cost estimation.
+
+</details>
+
+<details>
   <summary>2025-08-07</summary>
 
 ### Release Date: 2025-08-07
