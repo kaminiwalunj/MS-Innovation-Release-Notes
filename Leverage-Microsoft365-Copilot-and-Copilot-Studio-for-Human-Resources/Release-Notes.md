@@ -24,7 +24,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes
 
-Made minor updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
 
 ### Infrastructure Changes
 
