@@ -17,7 +17,7 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ## Release Notes
 
 <details>
-  <summary>2025-09-22</summary>
+  <summary>2025-09-30</summary>
 
 ## Release Date: 2025-09-30
 
