@@ -18,7 +18,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-<summary>2025-08-13</summary>
+<summary>29 September 2025</summary>
+ 
+## Release Date : 2025-09-29
+ 
+## Summary of Changes
+ 
+Instructions in Solution guide and Challenge guide have been updated as per new naming conventions for Llama models. Lab guide has been updated as per new Ui changes to Azure resources
+ 
+## Infrastructure Changes
+ 
+N/A
+ 
+## Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new Ui changes in Azure resources
+
+## Screenshot Updates
+ 
+N/A
+ 
+## Testing Scope
+ 
+End to End testing with Successful validations is completed
+ 
+</details>
+
+<details>
+<summary>13 August 2025</summary>
  
 ## Release Date : 2025-08-13
  
@@ -102,7 +129,7 @@ NA
 </details>
 
 <details>
-  <summary>19th June 2025</summary>
+  <summary>19 June 2025</summary>
 
 ## Infrastructure Changes
 
