@@ -32,6 +32,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Testing Scope 
 
 - Performed end to end lab testing and updated lab guide for better clarity.
-- Exe 2 (Ready only)excises have updated the latest UI and instructions for purview portal and have raised the MS support Ticket for the same to understand the latest updates and add them into the labguide (And have updated the same to Sumit and have updated the Note: This is a Read-Only exercise, please do not perform any of the steps using the lab environment.)
+- Exercise 2(Ready only):Have updated the latest UI and instructions for purview portal and have raised the MS support Ticket for the same to understand the latest updates and add them into the labguide (And have updated the same to Sumit and Shivam have updated the Note: This is a Read-Only exercise, please do not perform any of the steps using the lab environment.)
 
 </details>
