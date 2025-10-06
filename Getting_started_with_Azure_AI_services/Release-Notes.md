@@ -16,6 +16,74 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-23</summary>
+
+## Release Date: 2025-09-23
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-09-23
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-17</summary>
+
+## Release Date: 2025-09-17
+
+### Summary of Changes
+
+Minor instructions and screenshots were updated. Updated the content in Lab 02.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-09
+
+### Testing Scope 
+
+Performed end to end lab testing, updated lab guide for better clarity. Lab 02 content was updated with custom vision instead of AI services.
+
+---
+</details>
+
+<details>
   <summary>2025-06-13</summary>
 
 ### Release Date: 2025-05-13

@@ -3,7 +3,6 @@
 Welcome to the **AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
-
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
@@ -11,17 +10,87 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
-  <summary>2025-07-25</summary>
+  <summary>2025-10-06</summary>
+
+## Release Date: 2025-10-06
+
+### Summary of Changes
+
+Updated the lab by including the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced outdated and blurry screenshots with new ones to align with the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-01
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, covering RBAC, policy compliance checks, and prerequisite verification.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Summary of Changes
+
+Minor updates, including clearer screenshots and refined instructions for improved clarity and accuracy. 
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+   
+## Screenshot Updates
+
+- **Minor updates:**
+  
+  - **Updated Screenshots:** Enhanced screenshots have been updated for better understanding.
+  - **Instruction Refinements:** Updated numbering and formatting for better clarity and understanding.
+
+## Testing Notes  
+
+- Testing Date: 2025-09-10
+
+## Testing Scope
+
+Conducted end-to-end validation. RBAC/Policy checks.
+
+---
+</details>
+
+<details>
+  <summary>2025-08-08</summary>
 
 ### Release Date: 2025-07-25
 
-- **Change**: The lab has been tested up to Exercise 7. An issue related to the Weather plugin in Exercise 5, Task 2: Semantic Search Plugin has been resolved. The necessary code updates have been made in Exercise 7, Task 2: DALL·E (Python).
+## Summary of Changes
 
+- Issue related to the Weather plugin in Exercise 5, Task 2: Semantic Search Plugin has been resolved. The necessary code updates have been made in Exercise 7, Task 2: DALL·E (Python).
   
 - **Testing Date**: 2025-07-25
 
@@ -33,7 +102,6 @@ NA
 
 - Updated the chat.py and .env files in Exercise 5, Task 2, and verified the functionality. The chat now returns the expected outputs.
 - Modified the code for the DALL·E model, resolved the existing issues, and confirmed that it is now functioning as expected.
-  
 
 ## Screenshot Updates
 

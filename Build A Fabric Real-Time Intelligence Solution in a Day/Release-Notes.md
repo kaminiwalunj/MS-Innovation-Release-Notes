@@ -1,4 +1,4 @@
-# Build A Fabric Real-Time Intelligence Solution:
+# Build A Fabric Real-Time Intelligence Solution
 
 Welcome to the **Build A Fabric Real-Time Intelligence Solution** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
@@ -11,9 +11,76 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-09-16</summary>
+
+## Release Date: 2025-09-16
+
+### Summary of Changes
+
+The validation are implemented for this lab from 2025-09-11, few changes were made in lab guide for better understanding to enchance user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Instructions have been changed to enhance the quality.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-11
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing, the implemented validation are working properly. There are no issues in the lab.
+
+---
+</details>
+
+<details>
+  <summary>2025-08-18</summary>
+
+## Release Date : 2025-08-18
+
+### Summary of Changes
+
+Minor instruction changes
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Change**: Few instructions were updated with minor changes for clarity.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-08-14
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab functionality, Fabric trial capacity license features, lab workflow, content, and architecture diagram.
+
+---
+</details>
+
 <details>
   <summary>2025-07-28</summary>
 

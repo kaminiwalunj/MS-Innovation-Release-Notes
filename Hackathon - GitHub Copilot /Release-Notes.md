@@ -18,6 +18,25 @@ This page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-07-17</summary>
 
 ### Summary of Changes
@@ -26,7 +45,7 @@ No changes were made to the lab infrastructure or content, ensuring configuratio
 
 ### Infrastructure Changes
 
-There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
+Upgraded OS disk SKU and IP address SKU in the ARM template.
 
 ### Content Changes
 
@@ -150,3 +169,5 @@ NA
 
 ---
 </details>
+
+

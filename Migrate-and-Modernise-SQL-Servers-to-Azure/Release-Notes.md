@@ -15,6 +15,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-08</summary>
+
+### Release Date: 2025-09-08
+  
+- **Testing Date**: 2025-09-08
+
+## Infrastructure Changes
+
+ - Updated the image of Appliance VM. Updated ip configurations to static.
+
+## Content Changes
+
+  - HOL 1 Exercise 3 Task 4 was incomplete, added it.
+
+## Screenshot Updates
+
+  - **Change**: Updated almost all the screenshots for the whole lab for enhancement.
+
+## Validation
+
+   NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the screenshots for enhancement.
+
+---
+</details>
+
+<details>
   <summary>2025-05-26</summary>
 
 ### Release Date: 2025-05-26

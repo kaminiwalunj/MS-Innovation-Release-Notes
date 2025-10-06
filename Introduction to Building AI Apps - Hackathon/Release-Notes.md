@@ -1,6 +1,6 @@
 # Introduction to Building AI Apps - Hackathon
 
-Welcome to the **Introduction to Building AI Apps - Hackathon** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Introduction to Building AI Apps - Hackathon** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-09-15</summary>
+
+## Release Date: 2025-09-15
+
+### Summary of Changes
+
+Content updates - Updated the OpenAI models and CSharp code in Challenge 3.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Replaced the OpenAI models gpt-35-turbo and gpt-4o-mini with gpt-4.1-mini, since the earlier models have been deprecated.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - Instruction enhancement and a few screenshot updates. 
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-12
+
+### Testing Scope 
+
+ Conducted end-to-end testing of the lab, updating the content and instructions accordingly. 
+
+---
+</details>
 
 <details>
   <summary>2025-07-16</summary>
@@ -74,3 +108,7 @@ NA
 
 ---
 </details>
+
+
+
+
