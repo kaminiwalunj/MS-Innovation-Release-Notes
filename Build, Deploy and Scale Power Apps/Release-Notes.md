@@ -23,7 +23,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Updated the lab by including the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience. 
+This release focuses on improving lab stability, updating instructions, and ensuring compatibility with recent platform versions.
+Key updates include improved task guidance, dependency corrections, and updated authentication procedures.
 
 ### Infrastructure Changes
 
@@ -31,13 +32,20 @@ N/A
 
 ### Content Changes
 
+1. PAC CLI Compatibility Fix
+    - Issue: PAC CLI command was not found due to incompatibility with .NET 8.
+    - Resolution: Updated installation instructions to use a compatible older version of the PAC CLI.
 
+2. Instruction Update
+    - Issue: Original steps lacked clarity.
+    - Resolution: Revised instructions for accuracy and flow to improve learner comprehension.
+
+3. Credential Usage Update
+    - Change: Replaced ODL credentials with personal credentials for GitHub signup.
 
 ### Screenshot Updates
 
-- **Minor updates**: 
-
-    - **Updated UI Screenshots**: Replaced outdated and blurry screenshots with new ones to align with the latest user interface.
+  **Minor updates**: **Updated UI Screenshots** Replaced outdated and blurry screenshots with new ones to align with the latest user interface.
       
 ### Testing Notes
 
@@ -45,7 +53,10 @@ N/A
 
 ### Testing Scope 
 
-Conducted end-to-end architecture validation, covering RBAC, policy compliance checks, and prerequisite verification.
+  - End-to-end architecture validation
+  - Role-Based Access Control (RBAC) checks
+  - Policy compliance verification
+  - Prerequisite validation
 
 ---
 </details>
