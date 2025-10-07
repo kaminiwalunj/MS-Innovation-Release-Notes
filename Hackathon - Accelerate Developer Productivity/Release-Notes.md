@@ -16,6 +16,28 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>30 Sep 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+
+  1. Updated the App Service Plan SKU from B1 to P1V3
+    
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated to reflect the new UI changes and revised instructions.
+    2. Added notes wherever necessary for better clarity.
+
+</details>
+
+<details>
   <summary>20 May 2025</summary>
 
 ## Infrastructure Changes
