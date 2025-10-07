@@ -43,7 +43,7 @@ Validations are good
 
 ## Testing Scope
 
-Conducted end-to-end testing and performance tests passed successfully. RBAC and policy checks and verified cost estimation.
+Conducted end-to-end testing and performance tests passed successfully.
 
 </details>
 
@@ -210,6 +210,7 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
 
