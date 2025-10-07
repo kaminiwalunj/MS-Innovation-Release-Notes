@@ -20,7 +20,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Infrastructure Changes
 
-NA
+1. Updated the VM SKU to Standard_D2s_v3 to improve performance.
 
 ## Content Changes
 
