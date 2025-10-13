@@ -1,7 +1,7 @@
 
 # Microsoft Defender for Cloud Security Posture Management
 
-Welcome to the **Microsoft Defender for Cloud Security Posture Management** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Defender for Cloud Security Posture Management** release notes. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
