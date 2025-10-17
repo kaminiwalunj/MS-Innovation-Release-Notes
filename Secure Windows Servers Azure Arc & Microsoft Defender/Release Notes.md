@@ -25,7 +25,7 @@ Internal testing is currently in progress, and the final pointers will be shared
 </details>
 
 <details>
-  <summary>2025-10-17</summary>
+  <summary>2025-09-17</summary>
 
 ## Release Date: 2025-09-17
 
