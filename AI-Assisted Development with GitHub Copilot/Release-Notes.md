@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-21</summary>
+
+## Release Date: 2025-10-21
+
+### Summary of Changes
+
+Updated the lab guide with minor screenshot changes for UI updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Instructions were updated to be clearer.
+
+### Screenshot Updates
+
+Screenshots were updated to enhance the overall user experience.
+
+## Validations
+
+Validations are good.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-21
+
+### Testing Scope 
+
+  Conducted end-to-end testing, RBAC/policy checks, prerequisite checks, validated the lab guide steps, and enhanced the lab guide with new latest screenshots.
+
+---
+</details>
+
+<details>
   <summary>2025-09-26</summary>
 
 ## Release Date: 2025-09-26
