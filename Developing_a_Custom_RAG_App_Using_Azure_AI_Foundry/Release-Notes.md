@@ -29,7 +29,7 @@ N/A
 
 ### Content Changes
 
-N/A
+- GPT model updated from gpt-4o-mini to gpt-4.1-mini as gpt-4o-mini is getting retired. 
 
 ### Screenshot Updates
 
