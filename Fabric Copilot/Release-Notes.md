@@ -16,6 +16,39 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2025-10-27</summary>
+
+## Release Date: 2025-10-27
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: Few screenshots were updated and also made few minor instruction changes accordingly.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-27
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
+
+---
+</details>
+
+
+<details>
   <summary>2025-09-12</summary>
 
 ## Release Date : 2025-09-12
