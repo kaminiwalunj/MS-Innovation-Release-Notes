@@ -13,7 +13,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 <details>
-  <summary>27 Oct 2025</summary>
+  <summary>2025-10-27</summary>
 
 ### Summary of Changes
 
@@ -86,7 +86,7 @@ Updated automation to align with TAP implementation.
 
 
 <details>
-  <summary>16 July 2025</summary>
+  <summary>2025-07-16</summary>
 
 ### Summary of Changes
 
@@ -119,7 +119,7 @@ NA
 </details>
 
 <details>
-  <summary>09 June 2025</summary>
+  <summary>2025-09-06</summary>
 
 ## Infrastructure Changes
 
@@ -149,7 +149,7 @@ NA
 </details>
 
 <details>
-  <summary>02 May 2025</summary>
+  <summary>2025-05-02</summary>
 
 - **Change**: Updated the lab guide to align with recent UI changes and refined the code for a smoother library installation experience in Lab 2.
 
@@ -189,4 +189,5 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
+
 
