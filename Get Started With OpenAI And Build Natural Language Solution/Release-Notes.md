@@ -12,6 +12,39 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 ## Release Notes
+<details>
+  <summary>27 Oct 2025</summary>
+
+### Summary of Changes
+
+Implemented TAP process, updated Lab 01 content with the supported AI models, and reupdated the unclear screenshots to align with the new Cloudlabs UI.
+
+### Infrastructure Changes
+
+Updated automation to align with TAP implementation.
+
+### Content Changes
+
+- In Lab 01, updates to the AI models as the old models are deprecated based on theMS timeline. These updates have been incorporated to ensure consistency across the lab.
+  
+### Screenshot Updates
+
+ - Minor Updates
+   
+    1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
+    2. Updated some of the images which were not clear and new images based on the AI model changes. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-24
+  
+### Testing Scope 
+
+-  Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+---
+</details>
+
 
 <details>
   <summary>16 July 2025</summary>
@@ -117,4 +150,5 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
+
 
