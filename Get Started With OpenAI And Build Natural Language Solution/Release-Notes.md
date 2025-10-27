@@ -173,7 +173,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 <details>
   <summary>2024-12-31</summary>
 
-
 - Major Updates 
 
     - **Model Deprecation**  
@@ -189,6 +188,3 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
-
-
-
