@@ -18,6 +18,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-24</summary>
+
+### Release Date: 2025-10-10
+
+The lab is currently undergoing internal testing, and the final pointers will be added once the testing is completed.
+
+</details>
+
+<details>
   <summary>2025-06-10</summary>
 
 ### Release Date: 2025-06-10
@@ -50,3 +59,4 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ---
 </details>
+

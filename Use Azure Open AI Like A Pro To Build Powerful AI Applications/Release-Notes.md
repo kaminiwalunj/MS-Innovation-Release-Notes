@@ -16,6 +16,79 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-09-18</summary>
+
+## Release Date: 2025-09-18
+
+### Summary of Changes
+
+Minor instructions and screenshots updates.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots with respective instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-16
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing with successful validation and there are no issues in the lab. Minor updates in screenshot and instructions were made.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+
+<details>
 
   <summary>2025-07-15</summary>
 
@@ -104,4 +177,7 @@ NA
 - **Resolved Issues**: NA
 ---
 </details>
+
+
+
 

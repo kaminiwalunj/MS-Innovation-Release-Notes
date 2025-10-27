@@ -1,6 +1,6 @@
 # Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources
 
-Welcome to the **Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Leverage Microsoft 365 Copilot and Copilot Studio for Human Resources** lab Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -13,13 +13,110 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
 
+<details>
+  <summary>2025-10-14</summary>
 
-**This is a newly onboarded lab.**
+## Release Date: 2025-10-14
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-14
+
+### Testing Scope 
+
+Performed end-to-end architecture validation and verification of prerequisites.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-29</summary>
+
+## Release Date: 2025-09-29
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-29
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites.
+
+---
+</details>
+
+
+<details>
+  <summary>2025-09-08</summary>
+
+## Release Date: 2025-09-08
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the instructions and content as per the New UI in the Microsoft Copilot Studio portal.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots as per the new UI in the Microsoft Copilot Studio portal.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-05
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions and updated the images as per the new UI.
+
 
 <details>
   

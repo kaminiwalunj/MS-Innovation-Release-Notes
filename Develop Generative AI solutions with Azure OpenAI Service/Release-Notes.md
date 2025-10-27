@@ -16,6 +16,81 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  
+  <summary>2025-09-04</summary>
+
+## Release Date: 2025-09-04
+
+### Summary of Changes
+
+Fixed issues with the C# and Python Code in Lab 6, and enhanced a few of the instructions and screenshots.   
+
+### Infrastructure Changes
+
+ N/A 
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Instruction Refinements**: Enhanced some of the instructions and screenshots. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-04
+
+### Testing Scope 
+
+Conducted end-to-end testing and validation and fixed the issues in C# and Python code in Lab 6.
+
+---
+</details>
+
+
 <details>
   
   <summary>2025-08-14</summary>
@@ -197,6 +272,9 @@ NA
 
 ---
 </details>
+
+
+
 
 
 

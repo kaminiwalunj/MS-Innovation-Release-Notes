@@ -1,7 +1,7 @@
 
-# Microsoft Defender for Cloud - V2
+# Microsoft Defender for Cloud - AI Workload Protection
 
-Welcome to the **Microsoft Defender for Cloud - V2** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Defender for Cloud - AI Workload Protection** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -15,6 +15,74 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-10-14</summary>
+
+## Release Date: 2025-10-14
+
+### Summary of Changes
+
+Minor instructions and screenshots were updated for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots in the getting started page.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-14
+  
+### Testing Scope 
+
+Performed end to end lab testing, updated lab guide for better clarity.
+
+---
+</details>
+
+<details>
+  <summary>2025-09-25</summary>
+
+## Release Date: 2025-09-25
+
+### Summary of Changes
+
+Minor instructions and screenshots were updated for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-23
+
+### Testing Scope 
+
+Performed end to end lab testing, updated lab guide for better clarity.
+
+---
+</details>
 
 <details>
   <summary>2025-05-12</summary>

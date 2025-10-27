@@ -15,6 +15,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-23</summary>
+
+## Release Date: 2025-10-23
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- GPT model updated from gpt-4o-mini to gpt-4.1-mini as gpt-4o-mini is getting retired. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots for clarity. 
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-23
+
+### Testing Scope 
+
+Performed end to end lab testing and validtions, updating instructions and screenshots. 
+
+---
+</details>
+
+<details>
   <summary>2025-06-12</summary>
 
 ### Release Date: 2025-05-16

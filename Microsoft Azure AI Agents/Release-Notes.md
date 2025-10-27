@@ -16,6 +16,141 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-16</summary>
+
+## Release Date: 2025-10-16
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content has been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+**Minor Updates**: 
+  **Updated**: A Few screenshots were updated.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-10-16
+
+### Testing Scope 
+
+- Performed end to end lab testing,with no issues. We are good with the lab.
+
+---
+</details>
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-10-07</summary>
+
+## Release Date: 2025-10-07
+
+### Summary of Changes
+
+- Minor updates in the lab guide were made.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+**Minor Updates**: 
+  **Updated**: A Few screenshots were updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-16
+
+### Testing Scope 
+
+- End-to-end lab testing was performed with successful validation. Minor changes were made in lab guide.
+
+</details>
+
+<details>
+  <summary>2025-09-16</summary>
+
+## Release Date : 2025-09-16
+
+### Summary of Changes
+
+- Minor updates in lab guide were made.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+**Minor Updates**: 
+  **Updated**: Few screenshots were updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-15
+
+### Testing Scope 
+
+- End-to-end lab testing was performed with successful validation. Minor changes were made in lab guide.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-08-18</summary>
 
 ## Release Date : 2025-08-18

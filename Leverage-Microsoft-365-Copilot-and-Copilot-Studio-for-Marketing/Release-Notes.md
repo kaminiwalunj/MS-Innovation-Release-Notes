@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
+<details>
+  <summary>2025-10-19</summary>
+
+## Release Date: 2025-10-19
+
+### Summary of Changes
+
+Content updates are currently in progress to ensure the latest information and improvements are reflected.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Instructions and content updates to align with the new Microsoft Copilot Studio portal UI are currently pending.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updating screenshots to reflect the latest Microsoft Copilot Studio portal UI is currently in progress.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-19
+
+### Testing Scope 
+
+End-to-end lab testing has been completed successfully. Updates to the lab guide are pending to incorporate the new UI changes.
+
+---
+
+</details>
 
 **This is a newly onboarded lab.**
 
