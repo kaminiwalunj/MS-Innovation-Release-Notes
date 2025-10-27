@@ -17,7 +17,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Implemented TAP process, updated Lab 01 content with the supported AI models, and reupdated the unclear screenshots to align with the new Cloudlabs UI.
+Implemented TAP authentication for the Azure portal, updated Lab 01 content with the supported AI models, and replaced unclear screenshots to align with the new CloudLabs UI.
 
 ### Infrastructure Changes
 
@@ -32,7 +32,7 @@ Updated automation to align with TAP implementation.
  - Minor Updates
    
     1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
-    2. Updated some of the images which were not clear and new images based on the AI model changes. 
+    2. Updated unclear images and added new ones to reflect the recent AI model changes.
 
 ### Testing Notes
 
@@ -171,7 +171,7 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 </details>
 
 <details>
-  <summary>31 December 2024</summary>
+  <summary>2024-12-31</summary>
 
 
 - Major Updates 
@@ -189,5 +189,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
+
 
 
