@@ -1,4 +1,3 @@
-
 # Lunch and Learn: Building and Evaluating Prompt Flows with Azure AI Foundry
 
 Welcome to the **Lunch and Learn: Building and Evaluating Prompt Flows with Azure AI Foundry** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
@@ -18,12 +17,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-10-24</summary>
+  <summary>2025-10-27</summary>
 
-### Release Date: 2025-10-10
+## Release Date: 2025-10-27
 
-The lab is currently undergoing internal testing, and the final pointers will be added once the testing is completed.
+### Summary of Changes
 
+Implemented minor updates such as improved UI screenshots and revised instructions to ensure greater clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Revised and updated several screenshots to align with the recent updates.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-27
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab and revised the guide to incorporate the most recent UI updates.
+
+---
 </details>
 
 <details>
