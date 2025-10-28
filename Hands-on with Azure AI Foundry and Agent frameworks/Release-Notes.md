@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-28</summary>
+
+## Release Date: 2025-10-28
+
+### Summary of Changes
+
+Content updated, and updated the screenshots and instructions accordinly.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+As gpt-4o is getting retired, we have replaced it with gpt-4.1 model.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per new content and updated with clearer images. 
+    - **Instruction Refinements**: Fixed rendering issues and added clear instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-28
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the content as per the UI updates. 
+
+---
+</details>
+
+<details>
   <summary>2025-10-06</summary>
 
 ### Release Date: 2025-10-06
@@ -210,6 +245,7 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
 
