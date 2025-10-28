@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-10-24</summary>
+  <summary>2025-10-28</summary>
 
-## Release Date: 2025-10-24
+## Release Date: 2025-10-28
 
 ### Summary of Changes
 
@@ -30,7 +30,7 @@ N/A
 
 ### Content Changes
 
-N/A
+Updated the content while onboarding machines as per the new UI and have updated Lab 5 content to add the linux server to the Sentinel workspace.  
 
 ### Screenshot Updates
 
@@ -41,11 +41,11 @@ N/A
       
 ### Testing Notes
 
-- **Testing Date**: 2025-10-24
+- **Testing Date**: 2025-10-28
 
 ### Testing Scope 
 
-- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
+- Performed end to end lab testing, and all validations were successful. Updated the content as per the UI updates. 
 
 ---
 </details>
