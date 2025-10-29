@@ -18,9 +18,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-10-29</summary>
+  <summary>2025-10-28</summary>
 
-## Release Date: 2025-10-29
+## Release Date: 2025-10-28
 
 ### Summary of Changes 
 
@@ -40,7 +40,7 @@ This Page contains detailed notes about the latest updates and modifications mad
   
 ### Testing Notes
 
-- **Testing Date**: 2025-10-29
+- **Testing Date**: 2025-10-28
 
 ### Testing Scope 
 
