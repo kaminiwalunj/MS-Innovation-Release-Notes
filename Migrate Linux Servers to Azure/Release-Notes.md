@@ -36,7 +36,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Updated UI Screenshots**: Replaced outdated and blurry screenshots with new ones to align with the latest user interface.
+- **Updated UI Screenshots**: Replaced outdated screenshots with new ones to align with the latest user interface.
 
 ### Testing Notes
 
@@ -47,4 +47,5 @@ N/A
 Conducted end-to-end validation and prerequisite verification.
 
 ---
+
 </details>
