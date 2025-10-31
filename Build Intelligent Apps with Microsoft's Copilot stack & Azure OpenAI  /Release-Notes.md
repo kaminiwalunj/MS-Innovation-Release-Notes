@@ -17,11 +17,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>31 Oct 2025</summary>
+  <summary>2025-10-31</summary>
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+- The lab has been successfully tested end-to-end, and both the lab content and validation steps have been reviewed and updated accordingly.
 
 ### Infrastructure Changes
 
@@ -29,8 +29,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
--  Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
-
+-  Performed end-to-end lab testing with all validations successful. Updated the lab guide for better clarity, and replaced the MFA steps with Temporary Access Pass (TAP) login for Azure access going forward.
+  
 ### Screenshot Updates
 
  - Minor Updates
@@ -227,6 +227,7 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
 
 
 
