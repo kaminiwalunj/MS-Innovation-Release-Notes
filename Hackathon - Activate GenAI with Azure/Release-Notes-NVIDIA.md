@@ -32,7 +32,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
-- There was an issue in Challenge 4 hence made the changes in lab guide according to it
+- There was an issue in Challenge 4 hence made the changes in lab guide according to it.
 
 ### Screenshot Update
 
