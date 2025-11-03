@@ -16,6 +16,39 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-10-29</summary>
+
+## Release Date: 2025-10-29
+
+### Summary of Changes
+
+Updated the lab by including the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced outdated and blurry screenshots with new ones to align with the latest user interface in the Azure Portal and Edge Browser
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-29
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, covering RBAC, policy compliance checks, and prerequisite verification.
+
+---
+</details>
 
 <details>
   <summary>2025-10-07</summary>
