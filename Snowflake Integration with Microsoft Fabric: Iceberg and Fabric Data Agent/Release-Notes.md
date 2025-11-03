@@ -18,11 +18,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
  <details>
-  <summary>2025-10-25</summary>
+  <summary>2025-10-29</summary>
 
-The lab is currently undergoing internal testing, and the final pointers will be added once the testing is completed.
+### Summary of Changes
 
+Updated the lab by including the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Updated screenshots to align with the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-29
+
+### Testing Scope 
+
+Conducted end-to-end validation and prerequisite verification.
 </details>
+
+
+
 
 
 
