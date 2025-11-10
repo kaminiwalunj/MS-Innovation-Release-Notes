@@ -18,6 +18,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-10</summary>
+
+## Release Date: 2025-11-10
+
+### Summary of Changes
+
+Minor update to reflect updated Azure OpenAI portal interface — UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**:  
+    - **Updated UI Screenshots**: Replaced outdated screenshots to reflect the current Azure AI Foundry and Chat Playground interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-10  
+
+### Testing Scope 
+
+- Performed full validation of all lab tasks with the new UI. Verified that all steps, prompts, and validation checks work as expected.
+
+---
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
@@ -272,6 +305,7 @@ NA
 
 ---
 </details>
+
 
 
 
