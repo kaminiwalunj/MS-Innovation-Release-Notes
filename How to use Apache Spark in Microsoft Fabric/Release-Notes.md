@@ -45,3 +45,37 @@ Validation covered infrastructure compatibility, lab flow continuity, content ac
 ------------
 
 </details>
+
+<details>
+  <summary>10-November-2025</summary>
+
+## Release Date : 10-November-2025
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.
+
+### Infrastructure Changes
+-  NA
+### Content Changes
+
+-  NA
+
+### Screenshot Updates
+
+- Minor updates:
+  - Updated UI Screenshots: Replaced screenshots to match the latest user interface.
+  - Instruction Refinements: Fixed rendering issues and added clear instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-07
+
+### Testing Scope 
+
+Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
+
+------------
+
+</details>
+
