@@ -17,21 +17,21 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-10-10</summary>
+  <summary>2025-11-10</summary>
 
-## Release Date: 2025-10-10
+## Release Date: 2025-11-10
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+- The lab has been successfully tested, and the lab content has been reviewed and updated.
 
 ### Testing Notes
 
-- **Testing Date**: 2025-10-10
+- **Testing Date**: 2025-11-10
 
 ### Testing Scope 
 
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+- Performed end-to-end lab testing and updated the lab guide for better clarity, fixed deployment issues.
 
 </details>
 
@@ -51,6 +51,25 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Testing Scope 
 
 - Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content, along with validations, has been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end-to-end lab testing, identified one validation failure, and removed it from the lab guide after receiving confirmation from the TO. Updated the lab guide and script as per the latest updates.
 
 </details>
 
@@ -120,6 +139,7 @@ NA
 
 ---
 </details>
+
 
 
 
