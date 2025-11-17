@@ -20,7 +20,17 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Date: 2025-11-17
 
-The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+### Summary of Changes
+
+- Performed end-to-end lab testing, all validations were successful, and the lab guide is fully updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-17
+
+### Testing Scope 
+
+- Performed end-to-end lab testing, all validations were successful, and the lab guide is fully updated.
 
 </details>
 
@@ -275,6 +285,7 @@ NA
 - **Testing Date**: 2025-03-18
 
 </details>
+
 
 
 
