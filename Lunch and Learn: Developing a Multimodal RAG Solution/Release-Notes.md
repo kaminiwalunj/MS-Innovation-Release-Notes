@@ -18,6 +18,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-15</summary>
+
+## Release Date: 2025-11-15
+
+- **Testing Date**: 2025-11-15
+
+## Infrastructure Changes
+
+I updated the ARM template from the GPT-4 model to GPT-4o, since the original GPT-4 model has been deprecated.
+
+## Content Changes
+  
+Instructions were updated as the GPT-4 model was changed to the GPT-4o model
+
+## Screenshot Updates
+
+Screenshots were updated to enhance the overall user experience. 
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps.
+</details>
+
+<details>
   <summary>2025-06-16</summary>
 
 ## Release Date: 2025-06-16
