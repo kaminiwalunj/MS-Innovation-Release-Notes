@@ -32,6 +32,40 @@ N/A
 
 ### Content Changes
 
+- As gpt-35-turbo OpenAI models are retired, replace them with gpt-4.1-mini in the self-paced branch for Day 4 content. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-14
+
+### Testing Scope 
+
+- Content updated, screenshots updated as per the new content for clarity, and the instructions enhanced. 
+
+---
+</details>
+
+<details>
+  <summary>2025-11-14</summary>
+
+## Release Date: 2025-11-14
+
+### Summary of Changes
+
+Content updated, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
 - As gpt-4o and gpt-35-turbo OpenAI models are retired, replaced them with gpt-4.1 and gpt-4.1-mini. 
 
 ### Screenshot Updates
