@@ -1,4 +1,4 @@
-# Developing AI Applications with Azure AI Foundry
+# Developing AI Applications with Microsoft Foundry
 
 Welcome to the **Developing AI Applications with Azure AI Foundry** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-11-20</summary>
+
+## Release Date: 2025-11-20
+
+### Summary of Changes
+
+Content updated, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the instructions as per the new UI updates in the Foundry portal.
+  
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-19
+
+### Testing Scope 
+
+- Content updated, screenshots updated as per the new content for clarity, and the instructions enhanced. 
+
+---
+</details>
+
 
 <details>
   <summary>2025-11-14</summary>
