@@ -15,6 +15,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2025-11-13</summary>
+The internal testing is currently in progress, and the final pointers will be updated once the testing is completed.
+
+</details>
+
+<details>
   <summary>2025-02-24</summary>
 
 - **Change**: Tested the lab and updated the lab guide.

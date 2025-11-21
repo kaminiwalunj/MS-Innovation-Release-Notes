@@ -19,6 +19,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2025-11-17</summary>
+
+## Release Date: 2025-11-17
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
   <summary>2025-10-19</summary>
 
 ## Release Date: 2025-10-19

@@ -16,6 +16,14 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-11-13</summary>
+
+## Release Date: 2025-11-13
+
+Internal testing is currently in progress, and the final pointers will be updated once the testing is complete.
+
+</details>
 
 <details>
   <summary>2025-11-19</summary>
@@ -83,5 +91,4 @@ Conducted end-to-end validation and prerequisite verification.
 ---
 
 </details>
-
 

@@ -18,13 +18,22 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-17</summary>
+
+## Release Date: 2025-11-17
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
   <summary>2025-10-13</summary>
 
 ## Release Date: 2025-10-13
 
 ### Summary of Changes
 
-- Tested the lab end to end with UI up to date and smooth performance of the lab.
+- Tested the lab end-to-end with UI up to date and smooth performance of the lab.
 
 ## Infrastructure Changes
 
