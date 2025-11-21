@@ -26,6 +26,40 @@ Internal testing is currently in progress, and the final pointers will be update
 </details>
 
 <details>
+  <summary>2025-11-19</summary>
+
+## Release Date: 2025-11-19
+
+### Summary of Changes
+
+Updated the lab by including the latest, clearer UI screenshots to enhance clarity, accuracy, and ensure a seamless learning experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Replaced outdated screenshots with new ones to align with the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-19
+
+### Testing Scope 
+
+Conducted end-to-end validation and prerequisite verification.
+
+---
+
+</details>
+
+
+<details>
   <summary>2025-10-23</summary>
 
 ## Release Date: 2025-10-23
