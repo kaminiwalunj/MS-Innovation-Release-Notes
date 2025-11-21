@@ -18,6 +18,25 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-20</summary>
+
+## Release Date: 2025-11-20
+
+### Summary of Changes
+
+- All assigned UI enhancements have been completed, including the major updates for AI Foundry. The corresponding lab content has also been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-20
+
+### Testing Scope 
+
+- Only UI updates were assigned; therefore, no testing was performed.
+
+</details>
+
+<details>
   <summary>2025-09-10</summary>
 
 ## Release Date: 2025-09-10
@@ -196,5 +215,6 @@ In this section, we will track and list each change introduced in the latest rel
     - Refreshed Azure Cloudshell UI, introducing a modernized interface for better user experience and navigation.
  
        
+
 
 
