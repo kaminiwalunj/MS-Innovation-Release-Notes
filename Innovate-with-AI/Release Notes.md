@@ -21,7 +21,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-The lab has been successfully tested, updated few screenshots with latest ones according to the updates. Lab content along with validations have been reviewed. 
+The lab has been successfully tested, updated few screenshots with latest ones according to the updates, added instructions for better clarity. Lab content along with validations have been reviewed. 
 
 ### Infrastructure Changes
 
@@ -44,7 +44,7 @@ The lab has been successfully tested, updated few screenshots with latest ones a
 
 ### Testing Scope 
 
-Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots.
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
 
 ---
 </details>
