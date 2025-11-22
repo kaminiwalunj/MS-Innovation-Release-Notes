@@ -21,7 +21,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Tested the lab E2E, updated the screenshots with latest ones.
+The lab has been successfully tested, updated few screenshots with latest ones according to the updates. Lab content along with validations have been reviewed. 
 
 ### Infrastructure Changes
 
@@ -35,7 +35,7 @@ Tested the lab E2E, updated the screenshots with latest ones.
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshotswith latest ones.
+    - **Updated UI Screenshots**: Updated few screenshots with latest ones.
     - **Instruction Refinements**: NA
 
 ### Testing Notes
@@ -48,8 +48,6 @@ Conducted end-to-end testing, validated the lab guide steps, enhanced the labgui
 
 ---
 </details>
-
-
 
 
 
