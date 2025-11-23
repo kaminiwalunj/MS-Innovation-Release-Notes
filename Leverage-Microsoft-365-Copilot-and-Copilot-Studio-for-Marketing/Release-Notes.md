@@ -25,7 +25,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes
 
-The lab has been successfully tested. Updated a few screenshots with the latest ones according to the UI updates and added instructions for better clarity. The lab content, along with validations, has been reviewed. 
+The lab has been successfully tested. Updated a few screenshots with the latest ones according to the latest UI and added instructions for better clarity. The lab content, along with validations, has been reviewed. 
 
 ### Infrastructure Changes
 
@@ -39,7 +39,7 @@ The lab has been successfully tested. Updated a few screenshots with the latest 
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated a few screenshots with the latest ones.
+    - **Updated UI Screenshots**: Updated a few screenshots with the latest UI.
     - **Instruction Refinements**: NA
 
 ### Testing Notes
@@ -48,11 +48,11 @@ The lab has been successfully tested. Updated a few screenshots with the latest 
 
 ### Testing Scope 
 
-Conducted end-to-end testing, validated the lab guide steps, enhanced the lab guide with new latest screenshots, and added instructions for better clarity.
+Conducted end-to-end testing, validated the lab guide steps, enhanced the lab guide with the latest screenshots, and added instructions for better clarity.
 
 ---
 </details>
-
+the 
 <details>
   <summary>2025-11-17</summary>
 
