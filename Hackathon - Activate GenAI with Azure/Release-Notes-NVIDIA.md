@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
--  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
+-  Updated post-Ignite content in Microsoft Foundry and the Foundry portal, including revised instructions and new screenshots.
 
 ### Infrastructure Changes
 
