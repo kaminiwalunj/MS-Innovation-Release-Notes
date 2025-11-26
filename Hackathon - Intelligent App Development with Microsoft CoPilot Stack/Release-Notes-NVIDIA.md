@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-25</summary>
+
+## Release Date: 2025-11-25
+
+### Summary of Changes 
+
+-  Updated post-Ignite content in Microsoft Foundry and the Foundry portal, including revised instructions and new screenshots.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new Ui changes in Azure resources.
+- Challenge 3: The YAML file has been updated to use the appropriate NVIDIA image name and tag.
+- Challenge 4: Updated the nvidia_nim_plugin.py with NVIDIA image name.
+
+### Screenshot Update
+
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 2025-11-25
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
