@@ -1,7 +1,7 @@
 
-# Microsoft Defender for Cloud - V1
+# Microsoft Defender for Cloud Security Posture Management
 
-Welcome to the **Microsoft Defender for Cloud - V1** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Defender for Cloud Security Posture Management** release notes. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -15,6 +15,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-11-17</summary>
+
+## Release Date: 2025-11-17
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
+  <summary>2025-10-16</summary>
+
+## Release Date: 2025-10-16
+
+### Summary of Changes 
+
+-  Minor updates have been made, including clearer UI screenshots and refined instructions to improve clarity and accuracy. The validation for the Governance rule has been removed due to an authentication method issue. 
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Included detailed navigation instructions to enable Defender CSPM Plan.  
+
+### Screenshot Update
+
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-10-16
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
 
 <details>
   <summary>2025-09-19</summary>
@@ -47,11 +89,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 -------------
 
-</details>
-
-<details>
-  <summary>2025-09-10</summary>
-Internal testing is currently in progress, and the final pointers will be shared once it is completed.
 </details>
 
 <details>

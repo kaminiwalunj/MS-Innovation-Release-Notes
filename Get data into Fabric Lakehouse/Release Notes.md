@@ -16,6 +16,73 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2025-10-30</summary>
+
+## Release Date: 2025-10-30
+
+### Summary of Changes
+
+Minor instructions and screenshots updates.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots with respective instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-30
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing with successful validation and there are no issues in the lab. Minor updates in screenshot and instructions were made since there were updates in the Fabric portal.
+
+---
+</details>
+
+<details>
+  <summary>2025-10-07</summary>
+
+## Release Date: 2025-10-07
+
+### Summary of Changes
+
+Minor instructions and screenshots updates.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots with respective instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+ Conducted end-to-end lab testing with successful validation and there are no issues in the lab. Minor updates in screenshot and instructions were made.
+
+---
+</details>
+<details>
   <summary>2025-09-17</summary>
 
 ## Release Date: 2025-09-17

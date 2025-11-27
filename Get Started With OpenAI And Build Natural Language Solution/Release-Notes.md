@@ -12,6 +12,58 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 ## Release Notes
+<details>
+  <summary>2025-10-27</summary>
+
+### Summary of Changes
+
+Implemented TAP authentication for the Azure portal, updated Lab 01 content with the supported AI models, and replaced unclear screenshots to align with the new CloudLabs UI.
+
+### Infrastructure Changes
+
+Updated automation to align with TAP implementation.
+
+### Content Changes
+
+- In Lab 01, updates to the AI models as the old models are deprecated based on theMS timeline. These updates have been incorporated to ensure consistency across the lab.
+  
+### Screenshot Updates
+
+ - Minor Updates
+   
+    1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
+    2. Updated unclear images and added new ones to reflect the recent AI model changes.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-24
+  
+### Testing Scope 
+
+-  Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+---
+</details>
+
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
 
 <details>
   <summary>2025-09-10</summary>
@@ -34,7 +86,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 
 <details>
-  <summary>16 July 2025</summary>
+  <summary>2025-07-16</summary>
 
 ### Summary of Changes
 
@@ -67,7 +119,7 @@ NA
 </details>
 
 <details>
-  <summary>09 June 2025</summary>
+  <summary>2025-09-06</summary>
 
 ## Infrastructure Changes
 
@@ -97,7 +149,7 @@ NA
 </details>
 
 <details>
-  <summary>02 May 2025</summary>
+  <summary>2025-05-02</summary>
 
 - **Change**: Updated the lab guide to align with recent UI changes and refined the code for a smoother library installation experience in Lab 2.
 
@@ -119,8 +171,7 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 </details>
 
 <details>
-  <summary>31 December 2024</summary>
-
+  <summary>2024-12-31</summary>
 
 - Major Updates 
 
@@ -137,5 +188,3 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
-
-

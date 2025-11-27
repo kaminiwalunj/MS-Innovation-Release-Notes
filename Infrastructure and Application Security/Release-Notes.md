@@ -16,6 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-06</summary>
+
+## Release Date: 2025-11-06
+
+### Summary of Changes 
+
+- Implemented TAP authentication for the Azure portal, replaced unclear screenshots to align with the new CloudLabs UI.
+
+### Infrastructure Changes
+
+- Updated automation to align with TAP implementation.
+
+### Content Changes
+
+- Tested the labs E2E and made updates that have been incorporated to ensure consistency across the lab.
+
+### Screenshot Update
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-11-05
+
+### Testing Scope 
+
+- Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+</details>
+
+<details>
   <summary>2025-09-10</summary>
 
 ## Release Date: 2025-09-10
@@ -72,5 +103,8 @@ NA
 - **Resolved Issues**: NA
 ---
 </details>
+
+
+
 
 

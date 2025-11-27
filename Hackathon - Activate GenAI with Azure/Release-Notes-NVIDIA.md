@@ -18,7 +18,115 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-<summary>2025-08-13</summary>
+  <summary>2025-11-24</summary>
+
+## Release Date: 2025-11-24
+
+### Summary of Changes 
+
+-  Updated post-Ignite content in Microsoft Foundry and the Foundry portal, including revised instructions and new screenshots.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new Ui changes in Azure resources
+
+### Screenshot Update
+
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 2025-11-24
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+<details>
+  <summary>2025-10-28</summary>
+
+## Release Date: 2025-10-28
+
+### Summary of Changes 
+
+-  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- There was an issue in Challenge 4 hence made the changes in lab guide according to it.
+
+### Screenshot Update
+
+- Screenshots have been updated to provide clearer instructions and enhance the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-10-28
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+<summary>29 September 2025</summary>
+ 
+## Release Date : 2025-09-29
+ 
+## Summary of Changes
+ 
+Instructions in Solution guide and Challenge guide have been updated as per new naming conventions for Llama models. Lab guide has been updated as per new Ui changes to Azure resources
+ 
+## Infrastructure Changes
+ 
+N/A
+ 
+## Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new Ui changes in Azure resources
+
+## Screenshot Updates
+ 
+N/A
+ 
+## Testing Scope
+ 
+End to End testing with Successful validations is completed
+ 
+</details>
+
+<details>
+<summary>13 August 2025</summary>
  
 ## Release Date : 2025-08-13
  
@@ -102,7 +210,7 @@ NA
 </details>
 
 <details>
-  <summary>19th June 2025</summary>
+  <summary>19 June 2025</summary>
 
 ## Infrastructure Changes
 

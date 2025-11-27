@@ -16,6 +16,133 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-17</summary>
+
+## Release Date: 2025-11-17
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
+  <summary>2025-10-27</summary>
+
+## Release Date: 2025-10-27
+
+### Summary of Changes
+
+Implemented minor updates such as improved UI screenshots and revised instructions to ensure greater clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Revised and updated several screenshots to align with the recent updates.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-27
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab and revised the guide to incorporate the most recent UI updates.
+
+---
+</details>
+
+<details>
+  <summary>2025-10-16</summary>
+
+## Release Date: 2025-10-16
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content has been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+**Minor Updates**: 
+  **Updated**: A Few screenshots were updated.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-10-16
+
+### Testing Scope 
+
+- Performed end to end lab testing,with no issues. We are good with the lab.
+
+---
+</details>
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-10-07</summary>
+
+## Release Date: 2025-10-07
+
+### Summary of Changes
+
+- Minor updates in the lab guide were made.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+**Minor Updates**: 
+  **Updated**: A Few screenshots were updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-16
+
+### Testing Scope 
+
+- End-to-end lab testing was performed with successful validation. Minor changes were made in lab guide.
+
+</details>
+
+<details>
   <summary>2025-09-16</summary>
 
 ## Release Date : 2025-09-16

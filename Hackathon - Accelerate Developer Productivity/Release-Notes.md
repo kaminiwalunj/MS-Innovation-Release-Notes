@@ -16,6 +16,60 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>30 Sep 2025</summary>
+
+## Infrastructure Changes
+
+1. Updated the VM SKU to Standard_D2s_v3 to improve performance.
+
+## Content Changes
+
+- **Change**:
+
+  1. Updated the App Service Plan SKU from B1 to P1V3
+    
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated to reflect the new UI changes and revised instructions.
+    2. Added notes wherever necessary for better clarity.
+
+</details>
+
+<details>
+  <summary>28 Aug 2025</summary>
+
+## Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy. 
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+
+   - Challenge 01: Accessing GitHub is updated, the Entire lab is testing out in the **Organization**.
+   - Challenge 02: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
+   - Challenge 03: **Dependabot Security Update** for **nanoid** is now generalized to handle any **Dependabot alerts**, reducing implementation time.
+   
+## Screenshot Updates
+
+- **Minor updates:**
+  
+  - **Updated UI Screenshots:** Screenshots have been updated as per the new UI changes.
+  - **Instruction Refinements:** Instructions have been updated for improved clarity, with additional pointers added to enhance readability.
+
+## Testing Notes  
+
+- Testing Date: 2025-07-28 
+
+</details>
+
+<details>
   <summary>20 May 2025</summary>
 
 ## Infrastructure Changes

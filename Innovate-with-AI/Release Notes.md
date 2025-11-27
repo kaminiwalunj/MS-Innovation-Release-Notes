@@ -17,6 +17,94 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+## Release Date : 2025-11-22
+
+### Summary of Changes
+
+The lab has been successfully tested, updated few screenshots with latest ones according to the updates, added instructions for better clarity. Lab content along with validations have been reviewed. 
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated few screenshots with latest ones.
+    - **Instruction Refinements**: NA
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-22
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
+
+---
+</details>
+
+
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-09-24</summary>
+
+## Release Date: 2025-09-24
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+
+### Infrastructure Changes
+
+Installed Python 3.12 through the Logon Task script and updated summarization.py to use the stable SDK.
+
+### Content Changes
+
+Included commands that upgrade the Azure AI Text Analytics Python SDK to the latest version using Python 3.12 and explicitly executed the script with Python 3.12 to ensure it doesn’t run in the older Python 3.6 environment.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-24
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites.
+
+---
+</details>
+
+
 <details>
   <summary>2025-09-10</summary>
 

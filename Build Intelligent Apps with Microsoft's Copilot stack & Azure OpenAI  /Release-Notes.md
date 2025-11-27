@@ -18,6 +18,88 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-11</summary>
+
+## Release Date: 2025-11-11
+
+### Summary of Changes 
+
+Updated the lab by adding the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Tested the labs E2E and made updates that have been incorporated to ensure consistency across the lab.
+
+### Screenshot Update
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-11
+
+### Testing Scope 
+
+- Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+</details>
+
+<details>
+  <summary>2025-10-31</summary>
+
+### Summary of Changes
+
+- The lab has been successfully tested end-to-end, and both the lab content and validation steps have been reviewed and updated accordingly.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+-  Performed end-to-end lab testing with all validations successful. Updated the lab guide for better clarity, and replaced the MFA steps with Temporary Access Pass (TAP) login for Azure access going forward.
+  
+### Screenshot Updates
+
+ - Minor Updates
+
+    1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
+    2. Updated some of the images which were not clear and new images based on the AI model changes. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-30
+
+### Testing Scope 
+
+-  Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+  
+</details>
+
+<details>
+  <summary>2025-10-10</summary>
+
+## Release Date: 2025-10-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-10-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-09-18</summary>
 
 ## Release Date: 2025-09-18
@@ -177,6 +259,10 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
+
+
+
 
 
 
