@@ -18,11 +18,21 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-11-17</summary>
+  <summary>2025-11-24</summary>
 
-## Release Date: 2025-11-17
+## Release Date: 2025-11-24
 
-The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-24
+
+### Testing Scope 
+
+- Performed end-to-end lab testing and updated the lab guide for better clarity.
 
 </details>
 
@@ -57,7 +67,6 @@ N/A
 
 ---
 </details>
-
 
 <details>
   <summary>2025-10-10</summary>
@@ -364,6 +373,7 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
 
 
 
