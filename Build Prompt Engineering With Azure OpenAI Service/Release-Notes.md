@@ -32,7 +32,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope 
 
-- Only UI updates were assigned; therefore, no testing was performed.
+NA
 
 </details>
 
@@ -215,6 +215,7 @@ In this section, we will track and list each change introduced in the latest rel
     - Refreshed Azure Cloudshell UI, introducing a modernized interface for better user experience and navigation.
  
        
+
 
 
 
