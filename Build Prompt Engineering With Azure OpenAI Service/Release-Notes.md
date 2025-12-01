@@ -24,7 +24,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- All assigned UI enhancements have been completed, including the major updates for AI Foundry. The corresponding lab content has also been reviewed and updated.
+- UI enhancements have been made, including major updates to AI Foundry. The corresponding lab content has also been reviewed and updated.
+
+### Screenshot Updates
+
+- **Major and Minor Updates**:
+  - **UI Screenshot Refresh**: Updated all relevant screenshots to reflect the latest changes, including updates related to AI models and enhancements introduced in AI Foundry.
+  - **Instruction Refinements**: Refined instructional steps in all sections impacted by the AI model and AI Foundry updates to ensure clarity and accuracy.
 
 ### Testing Notes
 
@@ -32,7 +38,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope 
 
-NA
+All UI updates, along with the associated AI Foundry changes, have been validated and aligned within the lab to ensure a smooth and consistent experience.
 
 </details>
 
@@ -215,6 +221,7 @@ In this section, we will track and list each change introduced in the latest rel
     - Refreshed Azure Cloudshell UI, introducing a modernized interface for better user experience and navigation.
  
        
+
 
 
 
