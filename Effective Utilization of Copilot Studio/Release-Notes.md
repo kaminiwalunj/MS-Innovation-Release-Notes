@@ -18,6 +18,40 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2025-12-01</summary>
+
+## Release Date: 2025-12-01
+
+### Summary of Changes
+
+This update includes minor improvements such as enhanced UI screenshots and revised instructions for better clarity and precision.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-12-01
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. The lab guide was subsequently updated to enhance clarity and usability.
+
+---
+</details>
+
+<details>
   <summary>2025-11-17</summary>
 
 ## Release Date: 2025-11-17
@@ -60,3 +94,4 @@ Conducted end-to-end validation and prerequisite verification.
 ---
 
 </details>
+
