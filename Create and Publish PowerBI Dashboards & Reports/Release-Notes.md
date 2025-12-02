@@ -15,9 +15,27 @@ This repository contains detailed notes about the latest updates and modificatio
 
 `Email Support: cloudlabs-support@spektrasystems.com`
 
-## Release Notes
-
 # Release Notes
+
+<details>
+  <summary>2025-11-27</summary>
+
+## Release Date: 2025-11-27
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-27
+
+### Testing Scope 
+
+- Performed end to end lab testing and updated lab guide for better clarity and newer UI updates.
+
+</details>
+
 <details>
   <summary>2025-11-10</summary>
 
