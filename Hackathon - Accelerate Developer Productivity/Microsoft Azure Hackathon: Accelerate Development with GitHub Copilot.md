@@ -16,7 +16,7 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
-  <summary>2025-11-21</summary>
+  <summary>21 Nov 2025</summary>
 
 ## Release Date: 2025-11-21
 
