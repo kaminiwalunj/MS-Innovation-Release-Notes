@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-10</summary>
+
+## Release Date: 2025-12-10
+
+### Summary of Changes
+
+- Updated the lab with the latest and clearer UI screenshots to improve accuracy and provide a smoother learning experience.
+- A user reported that in **Lab 1 > Task 2 > Step 7**, we previously created an Azure OpenAI resource to host an embeddings model. This step is no longer required because AI Search now supports using model deployments directly from an AI Project. The lab guide has been updated accordingly and the step has been removed.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: All outdated screenshots have been replaced to reflect the current interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-10
+
+### Testing Scope
+
+Completed full end-to-end testing and verified all prerequisites.
+
+---
+
+</details>
+
+
+<details>
   <summary>2025-11-17</summary>
 
 ## Release Date: 2025-11-17
