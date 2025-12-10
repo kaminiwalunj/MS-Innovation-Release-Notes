@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-10</summary>
+
+## Release Date: 2025-12-10
+
+### Summary of Changes
+
+- Implemented UI updates for Microsoft Foundry and Copilot Studio, including refreshed screenshots and improved instructional guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-12-09
+
+### Testing Scope 
+
+- Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+---
+</details>
+
+<details>
   <summary>2025-11-13</summary>
 
 ## Release Date: 2025-11-13
@@ -46,6 +78,8 @@ N/A
 
 ---
 </details>
+
+
 
 
 
