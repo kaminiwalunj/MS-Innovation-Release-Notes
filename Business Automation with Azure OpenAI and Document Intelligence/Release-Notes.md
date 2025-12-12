@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-10</summary>
+ 
+## Release Date: 2025-12-10
+ 
+### Summary of Changes
+ 
+-  Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+ 
+### Infrastructure Changes
+ 
+- NA
+ 
+### Content Changes
+ 
+- Updated the Azure OpenAI model used in the lab from gpt-35-turbo to gpt-4.1-mini.
+ 
+### Screenshot Update
+ 
+- Updated several screenshots to enhance clarity in the instructions and improve the overall experience.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2025-12-10
+ 
+### Testing Scope
+ 
+- Validation included infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+ 
+-------------
+ 
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
@@ -180,7 +213,15 @@ NA
 ---
 </details>
 
-### 31 December 2024
+
+<details>
+  <summary>2024-12-31</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
 
 - Major Updates 
 
@@ -190,6 +231,18 @@ NA
 
   - Updated all references from **Azure OpenAI Studio** to the newly rebranded **Azure AI Foundry Portal**.
   - Updated **Cognitive Search** to the new **AI Search**, aligning with the latest platform changes.
+
+
+## Screenshot Updates
+
+- **Change**: Screenshots are upto date.
+
+## Testing Notes
+
+- **Testing Date**: 2024-12-31
+
+---
+</details>
 
 
   
