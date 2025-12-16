@@ -51,10 +51,6 @@ Conducted end-to-end testing, validated the lab guide steps, enhanced the labgui
 </details>
 
 <details>
-  <summary>2025-11-10</summary>
-
-
-<details>
   <summary>2025-10-28</summary>
 
 ## Release Date: 2025-10-28
