@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-19</summary>
+
+## Release Date: 2025-12-19
+
+### Summary of Changes
+
+- Updated the lab with the latest and clearer UI screenshots to improve accuracy and provide a smoother learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Updated a few of the screenshots reflecting the new UI experience. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-19
+
+### Testing Scope
+
+Completed full end-to-end testing and verified all prerequisites.
+
+---
+
+</details>
+
+
+<details>
   <summary>2025-12-10</summary>
 
 ## Release Date: 2025-12-10
