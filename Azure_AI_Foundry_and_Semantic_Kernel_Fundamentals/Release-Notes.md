@@ -1,6 +1,6 @@
-# AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals
+# AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals
 
-Welcome to the **AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -31,7 +31,7 @@ N/A
 
 ### Content Changes
 
-- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal. 
+- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal.
 
 ### Screenshot Updates
 
