@@ -1,7 +1,6 @@
+# Lunch and Learn: Build Custom Copilot Application using Microsoft Foundry
 
-# Lunch and Learn: Build Custom Copilot Application using Azure AI Foundry
-
-Welcome to the **Lunch and Learn: Build Custom Copilot Application using Azure AI Foundry** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Lunch and Learn: Build Custom Copilot Application using Microsoft Foundry** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,10 +13,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
+
+<details>
+  <summary>2025-12-22</summary>
+
+## Release Date: 2025-12-22
+
+### Summary of Changes
+
+Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per the new UI. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-22
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+</details>
 
 <details>
   <summary>2025-12-01</summary>

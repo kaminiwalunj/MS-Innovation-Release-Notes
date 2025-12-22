@@ -1,6 +1,6 @@
-# AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals
+# AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals
 
-Welcome to the **AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -15,6 +15,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-12-19</summary>
+
+## Release Date: 2025-12-19
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per the new UI. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-19
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+---
+</details>
 
 <details>
   <summary>2025-11-19</summary>
