@@ -18,6 +18,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2025-12-05</summary>
+ 
+## Release Date: 2025-12-05
+ 
+### Summary of Changes
+ 
+-  Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+ 
+### Infrastructure Changes
+ 
+- NA
+ 
+### Content Changes
+ 
+- Integrating with Azure DevOps lab  content has been updated to configure Azure Boards directly, as Azure Board access through the GitHub Marketplace was not working.
+ 
+### Screenshot Update
+ 
+- Updated several screenshots to enhance clarity in the instructions and improve the overall experience.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2025-12-05
+ 
+### Testing Scope
+ 
+- Validation included infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+ 
+-------------
+ 
+</details>
+
+<details>
   <summary>2025-10-17</summary>
  
 ## Release Date: 2025-10-16

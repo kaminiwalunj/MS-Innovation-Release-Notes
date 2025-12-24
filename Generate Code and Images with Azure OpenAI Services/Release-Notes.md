@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-25</summary>
+
+## Release Date: 2025-11-25
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Replaced gpt-4o-mini model with gpt-4.1-mini. Updated the screenshots and instructions to reflect the changes in the Microsoft Foundry portal. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per the new UI. 
+      
+### Testing Notes
+
+- **Testing Date**: 2025-11-24
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+---
+</details>
+
+
+<details>
   <summary>2025-11-03</summary>
 
 ### Summary of Changes

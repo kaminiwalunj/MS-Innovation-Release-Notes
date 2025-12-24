@@ -16,6 +16,30 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>21 Nov 2025</summary>
+
+## Release Date: 2025-11-21
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+   1. Screenshots have been updated to reflect the new UI changes and revised instructions.
+   2. Added notes wherever necessary for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-21
+    
+</details>
+
+<details>
   <summary>30 Sep 2025</summary>
 
 ## Infrastructure Changes

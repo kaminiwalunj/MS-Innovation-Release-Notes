@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2025-11-11</summary>
+
+## Release Date: 2025-11-11
+
+### Summary of Changes 
+
+Updated the lab by adding the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Tested the labs E2E and made updates that have been incorporated to ensure consistency across the lab.
+
+### Screenshot Update
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-11
+
+### Testing Scope 
+
+- Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+</details>
+
 <details>
   <summary>2025-10-31</summary>
 
@@ -227,6 +259,7 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
 
 
 
