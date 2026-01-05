@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content has been reviewed and updated for December-2025 branch.
+- The lab has been successfully tested, and the lab content has been reviewed and updated.
 
 ### Testing Notes
 
@@ -392,6 +392,7 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
 
 
 
