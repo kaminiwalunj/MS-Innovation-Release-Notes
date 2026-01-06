@@ -18,6 +18,40 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-01-06</summary>
+
+## Release Date: 2026-01-06
+
+### Summary of Changes
+
+Screenshots and instructions updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Fixed the issue with the workflow file in Lab 1 Task 5. As Kubeval is deprecated, have replaced it with kubconform. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated clear screenshots. 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-06
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated screenshots and instructions. 
+---
+</details>
+
+
+<details>
   <summary>2025-11-27</summary>
 
 ## Release Date: 2025-11-27
