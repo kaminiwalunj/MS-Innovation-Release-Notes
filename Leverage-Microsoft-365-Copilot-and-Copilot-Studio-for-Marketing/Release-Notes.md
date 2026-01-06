@@ -19,6 +19,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-01-05</summary>
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
   <summary>2025-11-23</summary>
   
 ## Release Date: 2025-11-23
@@ -52,7 +59,7 @@ Conducted end-to-end testing, validated the lab guide steps, enhanced the lab gu
 
 ---
 </details>
-the 
+
 <details>
   <summary>2025-11-17</summary>
 
@@ -97,11 +104,9 @@ End-to-end lab testing has been completed successfully. Updates to the lab guide
 
 </details>
 
-**This is a newly onboarded lab.**
-
 <details>
   
-  <summary>04 June 2025</summary>
+  <summary>2025-06-04</summary>
 
 ## Infrastructure Changes
 
