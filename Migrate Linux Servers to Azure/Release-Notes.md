@@ -36,7 +36,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Updated UI Screenshots**: Replaced outdated screenshots with new ones to align with the latest user interface.
+N/A
 
 ### Testing Notes
 
