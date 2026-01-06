@@ -99,7 +99,7 @@ End-to-end lab testing has been completed successfully. Updates to the lab guide
 
 <details>
   
-  <summary>04 June 2025</summary>
+  <summary>2025-06-04</summary>
 
 ## Infrastructure Changes
 
