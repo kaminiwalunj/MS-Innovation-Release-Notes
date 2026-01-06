@@ -52,7 +52,7 @@ Conducted end-to-end testing, validated the lab guide steps, enhanced the lab gu
 
 ---
 </details>
-the 
+
 <details>
   <summary>2025-11-17</summary>
 
@@ -96,8 +96,6 @@ End-to-end lab testing has been completed successfully. Updates to the lab guide
 ---
 
 </details>
-
-**This is a newly onboarded lab.**
 
 <details>
   
