@@ -19,6 +19,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+ <summary>2025-12-18</summary>
+
+## Release Date: 2025-12-18
+
+### Summary of Changes
+
+The lab has been successfully tested. Updated screenshots with the latest ones according to the latest UI changes and added instructions for better clarity. The lab content, along with validations, has been reviewed.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+Updated the content as per the latest Azure AI Foundry to Microsoft Foundry changes.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated a few screenshots with the latest UI.
+    - **Instruction Refinements**: Updated instructions in the labs 2, 3 & 4 as per the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-18
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the lab guide with the latest screenshots, and updated instructions for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2025-12-11</summary>
 
 ## Release Date: 2025-12-11
