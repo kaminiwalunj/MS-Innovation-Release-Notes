@@ -22,6 +22,40 @@ In this section, we will track and list each change introduced in the latest rel
 ### Release Date:
 
 <details>
+  <summary>2026-01-07</summary>
+
+## Release Date: 2026-01-07
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the instructions and content for the lab as per the latest UI in the Microsoft Fabric portal.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots as per the latest UI in the Microsoft Fabric portal.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-07
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the latest UI.
+
+---
+</details>
+
+<details>
   <summary>2025-12-01</summary>
 
 ## Release Date: 2025-12-01
