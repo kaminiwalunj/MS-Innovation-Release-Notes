@@ -1,6 +1,6 @@
-# Hands-on with Azure AI Foundry and Agent frameworks
+# Hands-on with Microsoft Foundry and Agent frameworks
 
-Welcome to the **Hands-on with Azure AI Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Hands-on with Microsoft Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -110,6 +110,7 @@ N/A
 
 ---
 </details>
+
 
 
 
