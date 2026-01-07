@@ -17,6 +17,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-31</summary>
+
+## Release Date: 2025-12-31
+
+### Summary of Changes
+
+- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-31
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully.
+
+---
+</details>
+
+<details>
   <summary>2025-12-12</summary>
 
 ## Release Date: 2025-12-12
