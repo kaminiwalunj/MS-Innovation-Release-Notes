@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-06</summary>
+
+## Release Date: 2026-01-06
+
+### Summary of Changes
+
+Updated clearer UI screenshots and instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the instructions as per the new UI updates in the Foundry portal.
+  
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-06
+
+### Testing Scope 
+
+- Updated screenshots updated as per the new content for clarity, and the instructions enhanced. 
+
+---
+</details>
+
+<details>
   <summary>2025-11-20</summary>
 
 ## Release Date: 2025-11-20
