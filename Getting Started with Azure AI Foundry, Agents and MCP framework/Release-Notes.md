@@ -1,6 +1,6 @@
-# Hands-on with Azure AI Foundry and Agent frameworks
+# Getting Started with Microsoft Foundry, Agents and MCP framework
 
-Welcome to the **Hands-on with Azure AI Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Getting Started with Microsoft Foundry, Agents and MCP framework** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -48,7 +48,7 @@ N/A
 </details>
 
 <details>
-  <summary>2026-01-06</summary>
+  <summary>2026-12-10</summary>
 
 ## Release Date: 2025-12-10
 
@@ -110,6 +110,9 @@ N/A
 
 ---
 </details>
+
+
+
 
 
 
