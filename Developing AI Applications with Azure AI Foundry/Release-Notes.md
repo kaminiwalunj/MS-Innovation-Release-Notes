@@ -46,7 +46,7 @@ N/A
 
 ### Testing Scope 
 
-- Updated screenshots updated as per the new content for clarity, and the instructions enhanced. 
+- Updated screenshots as per the new content for clarity, and the instructions enhanced. 
 
 ---
 </details>
