@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-01-08</summary>
+
+## Release Date: 2026-01-08
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content, along with validation, has been reviewed and updated.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Ex 2 - added steps to enable SAMI on VM and add role assignment as it is required now to run online migration. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated a few of the screenshots as per new content.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-07
+
+### Testing Scope 
+
+ Conducted end-to-end testing, updated the custom policy, and verified it.
+
+---
+</details>
+
 <details>
   <summary>2025-09-19</summary>
 
