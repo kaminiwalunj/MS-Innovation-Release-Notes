@@ -16,6 +16,37 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2025-12-30</summary>
+
+## Release Date: 2025-12-30
+
+### Summary of Changes
+
+- Performed end to end lab testing, and all validations were successful. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+      
+### Testing Notes
+
+- **Testing Date**: 2025-12-30
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-12-10</summary>
 
 ## Release Date: 2025-12-10
