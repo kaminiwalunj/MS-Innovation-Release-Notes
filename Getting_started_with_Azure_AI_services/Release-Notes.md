@@ -16,6 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-30</summary>
+
+## Release Date: 2025-12-30
+
+### Summary of Changes
+
+This update includes minor enhancements, including improved screenshots and refined instructions to provide greater clarity and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated inject keys and validation keys on the lab guide
+
+### Screenshot Updates
+
+ A few screenshots have been changed in accordance with the text, and the region in existing images has been blurred and replaced.
+### Testing Notes
+
+- **Testing Date**: 2025-12-30
+
+### Testing Scope 
+
+- End-to-end lab testing has been completed with all validations passing successfully, and the lab guide has been updated to improve clarity.
+
+---
+</details>
+
+<details>
   <summary>2025-12-08</summary>
 
 ## Release Date: 2025-12-08

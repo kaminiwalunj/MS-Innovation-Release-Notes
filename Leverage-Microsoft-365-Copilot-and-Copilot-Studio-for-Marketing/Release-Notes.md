@@ -88,6 +88,42 @@ N/A
 </details>
 
 <details>
+  <summary>2026-01-02</summary>
+  
+## Release Date: 2026-01-02
+
+### Summary of Changes
+
+Minor updates of screenshots and instructions
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    -Updated a architecture screenshot.
+    -Added a note in the instruction for better understanding
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-02
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, Updated the lab guide for better clarity
+---
+</details>
+
+</details>
+
+<details>
   <summary>2025-11-23</summary>
   
 ## Release Date: 2025-11-23
