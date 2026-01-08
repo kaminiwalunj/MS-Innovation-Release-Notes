@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Screenshot updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+Updated UI screenshots and instructions to improve clarity and accuracy.
 
 ### Infrastructure Changes
 
@@ -82,3 +82,4 @@ N/A
 
 ---
 </details>
+
