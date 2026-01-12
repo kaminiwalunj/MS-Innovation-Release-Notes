@@ -17,6 +17,40 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ## Release Notes
 
 <details>
+  <summary>2026-01-09</summary>
+
+## Release Date: 2026-01-09
+
+### Summary of Changes
+
+ - The lab has been successfully tested, and the lab content has been reviewed and validated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Screenshots are upto date.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-09
+
+### Testing Scope 
+
+Performed end-to-end testing successfully, everything is upto date and validated the lab guide steps,
+
+---
+</details>
+
+
+
+<details>
   <summary>2025-12-19</summary>
 
 ## Release Date: 2025-12-19
