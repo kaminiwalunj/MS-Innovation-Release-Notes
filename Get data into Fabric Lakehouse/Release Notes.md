@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-01-13</summary>
+
+## Release Date: 2026-01-13
+
+### Summary of Changes
+
+Major update to reflect updated Fabric portal interface. UI screenshots refreshed for better alignment with the latest layout. Incorporated functional and instructional changes for better experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Major content flow change in Exercise 2, as there are changes in Microsoft Fabric Portal hence updated the instructions according to the flow of deployment.
+
+### Screenshot Updates
+
+- **Major updates**: 
+
+    - **Updated Screenshots**: Updated few screenshots with respective instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-13
+
+### Testing Scope 
+
+ - Validated the updated Fabric portal UI, reviewed instructional clarity, and refreshed screenshots to ensure accuracy and alignment with the latest navigation changes.
+
+---
+</details>
+
+<details>
   <summary>2025-10-30</summary>
 
 ## Release Date: 2025-10-30
