@@ -36,7 +36,7 @@ Major content flow change in Exercise 2, as there are changes in Microsoft Fabri
 
 - **Major updates**: 
 
-    - **Updated Screenshots**: Updated few screenshots with respective instructions.
+    - **Updated Screenshots**: Updated screenshots with respective instructions.
       
 ### Testing Notes
 
