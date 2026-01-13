@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-13</summary>
+
+## Release Date: 2026-01-13
+
+### Summary of Changes
+
+Content updated, and updated the screenshots and instructions. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated Lab 5 to use AMA data connectors for Syslog, as Legacy agent connectors are deprecated in Azure. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Instruction Refinements**: Fixed rendering issues and added clear instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-13
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated the content as per the UI updates. 
+
+---
+</details>
+
+
+<details>
   <summary>2025-10-28</summary>
 
 ## Release Date: 2025-10-28
