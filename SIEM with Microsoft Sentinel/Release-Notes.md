@@ -49,8 +49,9 @@ Minor updates have been made, including clearer UI screenshots, refined instruct
 
 Conducted end-to-end architecture validation, cost estimation updates, prerequisite and license verification, and optimizations to reduce provisioning time.
 
-</details>
 ---
+
+</details>
 </details>
 
 
