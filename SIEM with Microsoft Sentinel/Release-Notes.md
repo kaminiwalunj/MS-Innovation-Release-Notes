@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
- <details>
+<details>
   <summary>2025-08-19</summary>
 
 ## Release Date : 2025-08-19
@@ -49,6 +49,7 @@ Minor updates have been made, including clearer UI screenshots, refined instruct
 
 Conducted end-to-end architecture validation, cost estimation updates, prerequisite and license verification, and optimizations to reduce provisioning time.
 
+</details>
 ---
 </details>
 
