@@ -18,6 +18,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-01-14</summary>
+
+## Release Date : 2026-01-14
+
+### Summary of Changes
+
+Multiple screenshots have been updated to reflect the latest Cloudlabs UI and Defender portal.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots with new UI updates with latest defender portal.
+    - **Instruction Refinements**: Refined instructions for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-13
+
+### Testing Scope 
+
+Performed end-to-end lab testing with successful validation, major lab guide updates to reflect latest UI changes,
+Conducted end-to-end architecture validation, cost estimation updates, prerequisite and license verification, and optimizations to reduce provisioning time.
+
+---
+
+</details>
+
+<details>
   <summary>2025-08-19</summary>
 
 ## Release Date : 2025-08-19
