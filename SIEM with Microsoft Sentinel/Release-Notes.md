@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Multiple screenshots have been updated to reflect the latest Cloudlabs UI and Defender portal.
+Multiple screenshots have been updated with refined instruction to reflect the latest Cloudlabs UI and Defender portal.
 
 ### Infrastructure Changes
 
