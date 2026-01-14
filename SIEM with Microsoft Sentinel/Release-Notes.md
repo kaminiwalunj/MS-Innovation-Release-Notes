@@ -47,8 +47,7 @@ Multiple screenshots have been updated with refined instruction to reflect the l
 
 ### Testing Scope 
 
-Performed end-to-end lab testing with successful validation, major lab guide updates to reflect latest UI changes,
-Conducted end-to-end architecture validation, cost estimation updates, prerequisite and license verification, and optimizations to reduce provisioning time.
+Performed end-to-end lab testing with successful validation, major lab guide updates to reflect latest UI changes for better clarity.
 
 ---
 
