@@ -1,6 +1,6 @@
-# Real-time Analytics with Synapse
+# SQL Datawarehouse with Synapse
 
-Welcome to the **Real-time Analytics with Synapse** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **SQL Datawarehouse with Synapse** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-01-09</summary>
+  <summary>2026-01-13</summary>
 
-## Release Date: 2026-01-09
+## Release Date: 2026-01-13
 
 ### Summary of Changes
 
@@ -38,7 +38,7 @@ N/A
       
 ### Testing Notes
 
-- **Testing Date**: 2026-01-09
+- **Testing Date**: 2026-01-13
 
 ### Testing Scope 
 
@@ -46,32 +46,6 @@ N/A
 
 </details>
 
-<details>
-  <summary>2025-11-13</summary>
-The internal testing is currently in progress, and the final pointers will be updated once the testing is completed.
-
-</details>
-
-<details>
-  <summary>2025-02-24</summary>
-
-- **Change**: Tested the lab and updated the lab guide.
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-
-NA
-
-## Screenshot Updates
-
-Updated the scrrenshot for the UI changes.
-
-## Testing Notes
-
-- **Testing Date**: 2025-02-24
-- **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process..
+during the process..
 
 ---
