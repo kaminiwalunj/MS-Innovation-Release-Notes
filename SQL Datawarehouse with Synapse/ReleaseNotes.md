@@ -46,6 +46,4 @@ N/A
 
 </details>
 
-during the process..
-
 ---
