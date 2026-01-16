@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-This update includes minor improvements such as enhanced UI screenshots and revised instructions for better clarity and precision.
+N/A
 
 ### Infrastructure Changes
 
@@ -36,7 +36,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+    - **Updated UI Screenshots**: N/A
     
 ### Testing Notes
 
