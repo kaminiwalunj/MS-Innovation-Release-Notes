@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-16</summary>
+
+## Release Date: 2026-01-16
+
+### Summary of Changes
+
+Added clear screenshots and enhanced instructions.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: A few of the images were not clear, hence replaced them with clearer ones. 
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-15
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+---
+</details>
+
+<details>
   <summary>2025-12-31</summary>
 
 ## Release Date: 2025-12-31
@@ -193,5 +226,6 @@ Validations are updated and good.
 
 ---
 </details>
+
 
 
