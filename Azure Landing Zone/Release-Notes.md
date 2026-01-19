@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
+<details>
+  <summary>2026-01-16</summary>
+
+## Release Date: 2026-01-16
+
+### Summary of Changes
+
+Updates applied to address multiple issues encountered while performing the lab using CLI-based instructions. Problems were identified in command-line steps added in lab files. All issues have been resolved, and instructions have been updated for clarity and correctness.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **CLI Instruction Fixes**:  
+  - Updated command syntax to align with current CLI versions and behavior.
+- **Lab File Updates**:  
+  - Resolved configuration and dependency issues within lab files.
+- **Instruction Improvements**:  
+  - Refined step-by-step guidance to reduce ambiguity and improve usability.
+
+### Screenshot Updates
+
+Replaced screenshots to match the latest user interface.
+
+### Testing Scope
+
+- Performed full validation of all lab tasks using the updated CLI instructions and revised lab files.
+- Verified that all steps, prompts, and validation checks work as expected with the updated workflow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-16  
+- Verified end-to-end lab execution using updated CLI instructions in lab files.
+---
+</details>
+
 
 <details>
   <summary>2025-11-23</summary>
