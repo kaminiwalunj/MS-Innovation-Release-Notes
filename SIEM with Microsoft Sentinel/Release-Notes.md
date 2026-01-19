@@ -47,7 +47,7 @@ Minor lab guide updates have been made for better clarity. Lab 02 Task 04 has be
 
 ### Testing Scope 
 
-Performed lab testing with successful validation, minor lab guide updates were made for better clarity.
+Performed lab testing with successful validation, minor lab guide updates were made for better clarity. Lab 02 Task 04 has been made as ready-only.
 
 ---
 
