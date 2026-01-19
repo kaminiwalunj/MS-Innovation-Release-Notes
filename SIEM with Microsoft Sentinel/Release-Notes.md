@@ -18,6 +18,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-01-19</summary>
+
+## Release Date : 2026-01-19
+
+### Summary of Changes
+
+Minor lab guide updates have been made for better clarity. Lab 02 Task 04 has been made as ready-only.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Few minor screenshot updates.
+    - **Instruction Refinements**: Refined instructions for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-13
+
+### Testing Scope 
+
+Performed lab testing with successful validation, minor lab guide updates were made for better clarity.
+
+---
+
+</details>
+
+<details>
   <summary>2025-08-19</summary>
 
 ## Release Date : 2025-08-19
