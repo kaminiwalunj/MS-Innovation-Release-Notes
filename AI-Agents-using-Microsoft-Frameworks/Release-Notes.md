@@ -16,7 +16,49 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
-  <summary>2025-12-22</summary>
+  <summary>2026-01-14</summary>
+
+## Release Date : 2026-01-14
+
+### Summary of Changes
+
+Updated pyproject.toml file to pin the Agent Framework version and align it with the OpenAI SDK. Removed semantic-kernel==1.35.0, which was not required for this lab and caused conflicts within the OpenAI client stack. The updates reflect the latest changes from the Microsoft repository.
+- Added an __init__.py file to tell Python that a directory should be treated as a package. Without __init__.py, Python may not recognize the folder as an importable package.
+
+The lab has been successfully tested.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: NA
+    - **Instruction Refinements**: NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-14
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
+
+---
+</details>
+
+
+
+
+
+<details>
+  <summary>2026-01-14</summary>
 
 ## Release Date: 2025-12-22
 
