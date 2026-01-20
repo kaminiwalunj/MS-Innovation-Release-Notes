@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-19</summary>
+
+## Release Date: 2026-01-19
+
+### Summary of Changes
+
+Updates have been made to the lab, including UI changes, refreshed screenshots, and refined instructions to improve clarity, accuracy, and alignment with the latest platform experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Updated Provisioning Flow**: Removed the creation of Hub; the lab now follows a Foundry-centric design with required supporting Azure services.
+
+### Screenshot Updates
+
+- **Updated Screenshots**: Updated screenshots and instructions to align with the new content flow, UI changes, and the latest portal experience.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-19
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated all lab guide steps, refreshed the lab guide with the latest screenshots, and enhanced instructions for better clarity and usability.
+
+---
+</details>
+
+<details>
   <summary>2025-12-31</summary>
 
 ## Release Date: 2025-12-31

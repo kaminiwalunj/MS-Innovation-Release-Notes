@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-20</summary>
+
+## Release Date: 2026-01-20
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and validated.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-20
+
+### Testing Scope 
+
+- Performed end-to-end lab testing and updated the lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-12-26</summary>
+
+## Release Date: 2025-12-26
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-26
+
+### Testing Scope 
+
+- Performed end-to-end lab testing and updated the lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-12-29</summary>
 
 ## Release Date: 2025-12-29
