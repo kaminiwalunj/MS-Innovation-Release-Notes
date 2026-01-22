@@ -22,11 +22,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Updated lab instructions and screenshots to reference the older Foundry portal, as security alerts are not displayed correctly in the new Foundry.
+- Updated lab instructions and screenshots to reference the Classic Foundry portal, as security alerts are not displayed correctly in the New Foundry. And, updated the deployment model to gpt-4.1-mini due to the deprecation of gpt-4o-mini.
 
 ### Infrastructure Changes
 
-N/A
+- Updated the deployment model from gpt-4o-mini to **gpt-4.1-mini**.
 
 ### Content Changes
 
@@ -34,7 +34,7 @@ N/A
 
 ### Screenshot Updates
 
-- Revised and updated screenshots and instructions to align with old foundry UI. As in Task 3: Security alerts were not appearing in Microsoft Defender for Cloud with the new Foundry portal.
+- Revised and updated screenshots and instructions to align with classic foundry UI. As in Task 3: Security alerts were not appearing in Microsoft Defender for Cloud with the New Foundry portal.
       
 ### Testing Notes
 
