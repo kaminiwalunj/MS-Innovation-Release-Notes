@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Updated lab instructions and screenshots to reference the Classic Foundry portal, as security alerts are not displayed correctly in the New Foundry. And, updated the deployment model to gpt-4.1-mini due to the deprecation of gpt-4o-mini.
+- Updated lab instructions and screenshots to reference the Classic Foundry portal, as security alerts are not displayed correctly in the New Foundry. Updated the deployment model to gpt-4.1-mini due to the deprecation of gpt-4o-mini.
 
 ### Infrastructure Changes
 
@@ -78,4 +78,5 @@ N/A
 - Lab content, code functionality, UI alignment, and clarity of revised screenshots.
 
 ---
+
 </details>
