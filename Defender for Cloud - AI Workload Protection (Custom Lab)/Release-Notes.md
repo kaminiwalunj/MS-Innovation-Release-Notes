@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-22</summary>
+
+## Release Date: 2026-01-22
+
+### Summary of Changes
+
+- Updated lab instructions and screenshots to reference the older Foundry portal, as security alerts are not displayed correctly in the new Foundry.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Revised and updated screenshots and instructions to align with old foundry UI. As in Task 3: Security alerts were not appearing in Microsoft Defender for Cloud with the new Foundry portal.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-22
+
+### Testing Scope 
+
+- Lab content, code functionality, UI alignment, and clarity of revised screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-01-06</summary>
 
 ## Release Date: 2026-01-06
