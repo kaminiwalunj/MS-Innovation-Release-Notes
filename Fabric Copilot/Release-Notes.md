@@ -14,6 +14,36 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+<details>
+  <summary>2026-01-19</summary>
+
+## Release Date: 2026-01-19
+
+### Summary of Changes
+
+- Performed end to end lab testing, and all validations were successful. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-19
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
+
+</details>
 
 <details>
   <summary>2025-12-30</summary>
@@ -78,9 +108,9 @@ N/A
 </details>
 
 <details>
-  <summary>2025-11-23</summary>
+  <summary>2025-11-19</summary>
 
-## Release Date: 2025-11-23
+## Release Date: 2025-11-19
 
 ### Summary of Changes
 
@@ -100,7 +130,7 @@ N/A
       
 ### Testing Notes
 
-- **Testing Date**: 2025-11-23
+- **Testing Date**: 2025-11-19
 
 ### Testing Scope 
 

@@ -20,8 +20,40 @@ In this section, we will track and list each change introduced in the latest rel
 **This is a newly onboarded lab.**
 
 <details>
-  
-  <summary>14 June 2025</summary>
+  <summary>2026-01-21</summary>
+
+## Release Date : 2026-01-21
+
+### Summary of Changes
+
+Updated the guide with clearer and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the guide with clearer instructions.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-21
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, and screenshots.
+
+---
+</details>
+
+<details>
+
+  <summary>2025-06-14</summary>
 
 ## Infrastructure Changes
 
