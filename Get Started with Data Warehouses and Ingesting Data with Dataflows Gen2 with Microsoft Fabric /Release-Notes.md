@@ -22,11 +22,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-The lab has been successfully tested. Updated screenshots with the latest ones according to the UI updates. Lab content has been reviewed. 
+The lab has been successfully tested. Updated screenshots with the latest ones according to the UI updates. The VM SKU has been updated to D2s_v3 and the Public IP SKU has been updated to Standard (ARM).
 
 ### Infrastructure Changes
 
-  N/A
+- Updated the virtual machine SKU to **Standard_D2s_v3**.
+- Updated the Public IP SKU to **Standard (ARM)**.
 
 ### Content Changes
 
