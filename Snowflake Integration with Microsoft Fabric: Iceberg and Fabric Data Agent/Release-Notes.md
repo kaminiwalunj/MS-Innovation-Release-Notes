@@ -17,7 +17,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
- <details>
+<details>
+  <summary>2026-01-13</summary>
+
+## Release Date: 2026-01-13
+
+### Summary of Changes
+
+Need to Provide RBAC Application Developer role on Tenant to the user explicitly. Updated screenshots and instruction.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: N/A.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-13
+
+### Testing Scope 
+
+Conducted end-to-end validation and prerequisite verification.
+</details>
+
+<details>
   <summary>2025-10-29</summary>
 
 ### Summary of Changes
@@ -44,6 +74,8 @@ N/A
 
 Conducted end-to-end validation and prerequisite verification.
 </details>
+
+
 
 
 
