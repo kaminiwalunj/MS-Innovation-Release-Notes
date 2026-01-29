@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-NA
+No change Required in Lab.
 
 ### Infrastructure Changes
 
@@ -38,7 +38,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated Screenshots**: NA
+    - **Updated Screenshots**: All screenshots are updated as per the latest UI and instructions.
 
 ### Testing Notes
 
@@ -408,6 +408,7 @@ NA
 
 ---
 </details>
+
 
 
 
