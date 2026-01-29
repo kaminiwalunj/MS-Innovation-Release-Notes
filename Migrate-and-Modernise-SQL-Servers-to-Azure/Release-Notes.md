@@ -15,6 +15,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-29</summary>
+
+### Release Date: 2025-09-08
+  
+- **Testing Date**: 2026-01-28
+
+## Infrastructure Changes
+
+ - NA
+
+## Content Changes
+
+  - **Azure Migrate** service UI has completely rolled out to new UI and navigation steps are changed. Checked all the labs and updated the instructions as per the new UI along with updated screenshots for better clarity and precision.
+
+## Screenshot Updates
+
+   - **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+
+## Validation
+
+   NA
+
+## Testing Notes
+
+- Completed end-to-end lab testing with all validations passing successfully. The lab guide was subsequently updated to enhance clarity and usability.
+
+---
+</details>
+
+<details>
   <summary>2025-09-08</summary>
 
 ### Release Date: 2025-09-08
