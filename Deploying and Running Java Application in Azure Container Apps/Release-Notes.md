@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-18-30</summary>
+  <summary>2026-01-30</summary>
 
-## Release Date : 2026-18-30
+## Release Date : 2026-01-30
 
 ### Summary of Changes
 
@@ -38,7 +38,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Notes
 
-- **Testing Date**: 2026-18-30
+- **Testing Date**: 2026-10-30
 
 ### Testing Scope 
 
