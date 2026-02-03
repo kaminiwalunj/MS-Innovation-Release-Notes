@@ -18,6 +18,70 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-21</summary>
+
+  ## Release Date: 2026-01-21
+
+### Summary of Changes 
+
+-  The content has been refreshed with Microsoft Foundry, and the instructions have been updated to utilize the latest Foundry portal.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Instructions have been updated to utilize the latest Foundry portal features and workflows.
+- Content has been refreshed to align with Microsoft Foundry best practices.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-01-21
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+<details>
+  <summary>2025-12-22</summary>
+
+## Release Date: 2025-12-22
+
+### Summary of Changes 
+
+-  Covers lab stability, performance optimizations, and deployment workflow improvements
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- **Challenge 1**: Azure AI Foundry portal navigation refinements
+- **Challenge 2**: Multi-service account setup guidance improvements
+- **Challenge 3**: Docker troubleshooting enhancements and Meta Llama model reference updates
+
+### Screenshot Update
+
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 2025-12-22
+
+### Testing Scope 
+
+- End-to-end testing across all challenges
+- Azure AI Foundry integration validation
+- Docker and container registry functionality verification
+
+</details>
+
+
+<details>
   <summary>2025-11-24</summary>
 
 ## Release Date: 2025-11-24
@@ -49,6 +113,7 @@ N/A
 </details>
 
 <details>
+  
   <summary>2025-10-28</summary>
 
 ## Release Date: 2025-10-28
