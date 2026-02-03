@@ -39,8 +39,8 @@ Minor updates of screenshots and instructions
 
 - **Minor updates**: 
 
-    -Updated a architecture screenshot.
-    -Improved instruction for better understanding
+    - Updated architecture screenshot.
+    - Improved instruction for better understanding
 
 ### Testing Notes
 
