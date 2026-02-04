@@ -16,6 +16,7 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
 <details>
   <summary>2026-02-03</summary>
 
@@ -23,7 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Minor enhancements were applied, such as incorporating the latest UI screenshots and refining instructions for better clarity and accuracy. 
+Some minor updates were introduced to reflect the latest UI screenshots and to make the instructions easier to understand.
 
 ### Infrastructure Changes
 
@@ -37,7 +38,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated the screenshots to align with the latest VS Code GitHub Copilot user interface.
+    - **Updated UI Screenshots**: The screenshots have been updated to align with the latest Copilot Studio user interface.
 
 ### Testing Notes
 
@@ -45,7 +46,7 @@ N/A
 
 ### Testing Scope 
 
-- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+- Successful end-to-end lab testing was completed, and the lab guide was updated to reflect the latest UI changes and improve overall clarity.
 
 ---
 </details>
