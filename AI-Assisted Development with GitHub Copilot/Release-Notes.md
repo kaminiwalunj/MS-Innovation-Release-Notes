@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-No Changes in the content and screenshots. 
+Performed end-to-end lab testing and validations, with no major content and screenshots update.
 
 ### Infrastructure Changes
 
@@ -30,11 +30,15 @@ N/A
 
 ### Content Changes
 
-N/A 
+Updated content for better clarity.
 
 ### Screenshot Updates
 
-N/A
+Screenshots were good as per the latest UI.
+
+## Validations
+
+Validations are good.
 
 ### Testing Notes
 
@@ -290,6 +294,7 @@ Validations are updated and good.
 
 ---
 </details>
+
 
 
 
