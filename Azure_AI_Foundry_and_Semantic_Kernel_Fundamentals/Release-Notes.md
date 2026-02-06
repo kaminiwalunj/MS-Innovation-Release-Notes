@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-06</summary>
+
+## Release Date: 2026-02-06
+
+### Summary of Changes
+
+Made updates by adding clearer, updated UI screenshots and enhanced instructions for clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 2: Updated injected keys for the resource group in Task 1 and Task 2.
+- Exercise 4: Updated instructions for Task 2 (C#) for better clarity.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI in the following steps:
+- Exercise 1 – Task 2, Step 9
+- Exercise 2 – Task 2 (Python), Step 10
+- Exercise 3 – Task 3 (C#), Step 12
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-06
+
+### Testing Scope 
+
+  Performed complete testing of the lab, with successful validations and updated screenshots and steps for clarity. 
+
+---
+</details>
+
+<details>
   <summary>2026-01-22</summary>
 
 ## Release Date: 2026-01-22
