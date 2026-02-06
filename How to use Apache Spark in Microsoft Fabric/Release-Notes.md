@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>04-February-2026</summary>
+
+## Release Date : 04-February-2026
+
+### Summary of Changes
+
+Added additional steps to align with the latest lab workflow and updated the guide with screenshots reflecting the current UI. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Added notes to Exercise 1 and Exercise 2 to provide clearer instructions.
+- Updated Exercise 3 – Task 1 step 11 -20 with new instructions aligned to the latest pipeline creation and data ingestion workflow.
+- Revised Exercise 3 – Task 3 instructions to better match the current lab flow.
+
+### Screenshot Updates
+
+Screenshots were updated to reflect the latest UI in the following steps:
+- Exercise 1 – Task 2 – Step 4
+- Exercise 2 – Task 3 – Step 4
+- Exercise 3 – Task 1, with additional images covering the updated pipeline creation flow.
+- Exercise 3 – Task 3, updated few screenshots aligned to the latest UI.
+### Testing Notes
+
+- **Testing Date**: 2026-02-04
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
+
+<details>
   <summary>22-August-2025</summary>
 
 ## Release Date : 22-August-2025
