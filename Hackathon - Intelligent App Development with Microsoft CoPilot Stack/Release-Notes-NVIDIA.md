@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
-  <summary>26-January-2026</summary>
+  <summary>31-January-2026</summary>
   
-## Release Date: 26-January-2026
+## Release Date: 31-January-2026
 
 ### Summary of Changes 
 -  The content has been refreshed with Microsoft Foundry, and the instructions have been updated to utilize the latest Foundry portal features and workflows.
@@ -39,7 +39,7 @@ N/A
   
 ### Testing Notes
 
-- **Testing Date**: 26-January-2026
+- **Testing Date**: 31-January-2026
 
 ### Testing Scope 
 
