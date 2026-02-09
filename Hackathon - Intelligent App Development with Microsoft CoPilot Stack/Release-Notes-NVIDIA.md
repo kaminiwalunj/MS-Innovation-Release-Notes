@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 -  The content has been refreshed with Microsoft Foundry, and the instructions have been updated to utilize the latest Foundry portal features and workflows.
-- 
+  
 ### Infrastructure Changes
 - NA
   
