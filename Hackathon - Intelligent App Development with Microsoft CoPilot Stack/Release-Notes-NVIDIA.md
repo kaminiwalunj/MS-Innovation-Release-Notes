@@ -29,7 +29,7 @@ This Page contains detailed notes about the latest updates and modifications mad
   
 ### Content Changes
 
-- Instructions have been updated across all challenges to utilize the latest Azure AI Foundry portal features
+- Instructions have been updated across all challenges to utilize the latest Microsoft Foundry portal features
 - Content has been refreshed to align with Microsoft Foundry and Copilot Stack best practices
 - Enhanced Semantic Kernel integration guidance with updated examples and code snippets
 - Updated NVIDIA NIM plugin configuration instructions for better clarity
@@ -58,11 +58,11 @@ N/A
 
 ### Summary of Changes 
 
--  Enhanced lab stability and performance optimizations. Updated Azure AI Foundry integration instructions and refined Copilot Stack deployment workflows for better user experience. Improvements across multiple challenges for NVIDIA NIM integration and Semantic Kernel implementation.
+-  Enhanced lab stability and performance optimizations. Updated Microsoft Foundry integration instructions and refined Copilot Stack deployment workflows for better user experience. Improvements across multiple challenges for NVIDIA NIM integration and Semantic Kernel implementation.
 
 ### Infrastructure Changes
 
-- Optimized Azure AI Foundry resource allocation settings to improve deployment performance
+- Optimized Microsoft Foundry resource allocation settings to improve deployment performance
 - Updated environment configurations for better compatibility with latest Semantic Kernel and NVIDIA NIM services
 - Enhanced VM and container configurations for improved Chat Copilot App performance
 
@@ -85,11 +85,6 @@ N/A
     - Updated nvidia_nim_plugin.py with correct NVIDIA image references
     - Enhanced plugin integration documentation
     - Clarified environment variable configuration steps
-
-- **Challenge 8 & 9**: 
-    - Refined Miyagi Stack exploration instructions
-    - Updated notebook examples for better clarity
-    - Ensured Semantic Kernel version compatibility (8.0.0) across all use cases
 
 ### Screenshot Update
 
