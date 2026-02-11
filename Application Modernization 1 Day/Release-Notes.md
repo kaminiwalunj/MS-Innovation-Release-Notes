@@ -16,6 +16,77 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  
+  <summary>2026-01-31</summary>
+
+## Release Date: 2026-01-31
+
+### Summary of Changes 
+
+-  Updated Azure AI Search integration and enhanced Prompt Flow configuration for improved RAG implementation.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Challenge 5: Updated Azure AI Search index creation with new semantic ranking options.
+- Challenge 6: Enhanced Prompt Flow deployment instructions with updated connection configurations.
+- Challenge 7: Revised chatbot container deployment commands to include latest environment variables.
+- Updated all Azure OpenAI service screenshots to reflect new Azure AI Foundry portal interface.
+
+### Screenshot Update
+
+- Refreshed Azure AI Search configuration screenshots.
+- Updated Prompt Flow connection setup images.
+- Added new Azure AI Foundry portal navigation screenshots.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-01-31
+
+### Testing Scope 
+
+- Comprehensive testing of Azure AI Search indexing, Prompt Flow connections, and end-to-end chatbot functionality with latest Azure AI Foundry updates.
+  
+</details>
+
+<details>
+  <summary>2025-12-22</summary>
+
+## Release Date: 2025-12-22
+
+### Summary of Changes 
+
+-  Updated Azure Container Apps deployment instructions and enhanced PostgreSQL configuration steps.
+
+### Infrastructure Changes
+
+- Updated container registry authentication methods to support latest Azure CLI commands.
+
+### Content Changes
+
+- Challenge 3: Enhanced PostgreSQL deployment instructions with additional connection string validation steps.
+- Challenge 4: Updated Container Apps environment configuration to reflect new Azure portal UI changes.
+- Updated screenshots for Azure Container Apps deployment workflow.
+
+### Screenshot Update
+
+- Updated Azure Container Apps creation screenshots.
+- Refreshed PostgreSQL connection configuration images.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-12-22
+
+### Testing Scope 
+
+- End-to-end testing performed on all container deployment challenges. Validated PostgreSQL connectivity and Azure Container Apps environment setup.
+  
+</details>
+
+<details>
   <summary>2025-11-20</summary>
 
 ## Release Date: 2025-11-20
