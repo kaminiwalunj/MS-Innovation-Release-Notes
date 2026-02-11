@@ -35,7 +35,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Update
 
-- Minor screenshots updated.
+-  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
   
 ### Testing Notes
 
@@ -43,7 +43,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope 
 
-- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
 
 -------------
 
