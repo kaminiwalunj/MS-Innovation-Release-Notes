@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
+
+<details>
+  <summary>2026-02-08</summary>
+
+## Release Date: 2026-02-03
+
+### Summary of Changes
+
+The UI updates with latest Copilot Studio has been accomodated and other enhancements such as incorporating the latest UI screenshots and refining instructions for better clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots to align with the latest Copilot Studio interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-08
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+
 <details>
   <summary>2026-02-03</summary>
 
