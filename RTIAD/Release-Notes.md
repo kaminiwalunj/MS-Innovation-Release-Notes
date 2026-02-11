@@ -35,7 +35,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Update
 
-- Minor screenshot updates.
+- Minor screenshots updated.
   
 ### Testing Notes
 
