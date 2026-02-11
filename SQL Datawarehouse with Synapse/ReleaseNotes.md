@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-11</summary>
+
+## Release Date: 2026-02-11
+
+### Summary of Changes
+
+Updated steps for clarity and added notes in a few steps, updated the architecture diagram to align with the lab exercises and tasks. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+Getting Started page:
+- Updated the architecture diagram.
+- Added a note to close extension installation in the MS Edge browser.
+
+Ex 1:
+- Added numbering in Step 22 image.
+- Updated a few steps for clarity and added a note in a few steps as required.
+
+### Screenshot Updates
+
+- **Minor updates**: One screenshot updated in Ex 1 to showcase numbering in the image. 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-11
+
+### Testing Scope 
+
+- Performed the lab end-to-end, validated lab flow continuity, and content accuracy. 
+
+</details>
+
+<details>
   <summary>2026-01-15</summary>
 
 ## Release Date: 2026-01-13
