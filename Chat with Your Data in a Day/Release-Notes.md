@@ -14,6 +14,39 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+<details>
+  <summary>2026-02-13</summary>
+
+## Release Date: 2026-02-13
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, ensure better alignment with the latest interface changes, and enhance the overall user experience for learners.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the content to ensure smoother rendering across all sections. Inject keys were added wherever required to maintain seamless flow and avoid UI conflicts. Issues related to data agent response were resolved in last exercise, and the prompt formatting for Copilot was reviewed and corrected to ensure accurate and consistent results.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-13  
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
 
 <details>
   <summary>2025-12-23</summary>
