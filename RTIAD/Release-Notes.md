@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-10</summary>
+
+## Release Date: 2026-02-10
+
+### Summary of Changes 
+
+-  Updated the lab guide for improved clarity and accuracy, enhancing the overall user experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+-  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-02-10
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+-------------
+
+</details>
+
+<details>
   <summary>2026-01-08</summary>
 
 ## Release Date: 2026-01-08
