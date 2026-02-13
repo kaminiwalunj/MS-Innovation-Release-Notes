@@ -18,6 +18,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-02-12</summary>
+
+## Release Date: 2026-02-12
+
+### Summary of Changes
+
+Made updates by adding clearer, updated UI screenshots and enhanced instructions for clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Lab 01: Added instructions for Task 3 and Task 4 for better clarity.
+- Lab 02: Added instructions for Task 1, Task 3.1, Task3.2, and Task 3.4 for better clarity.
+- Lab 03: Added instructions for Task 1 and Task 4 for better clarity.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI in the following steps:
+- Updated the Screenshorts for the Getting Started page with the latest UI
+- Lab 01  – Task 1 - Steps 1,3
+- Lab 01  – Task 2 - Steps 1,5
+- Lab 01  – Task 3 - Step 1
+- Lab 01  – Task 4 - Steps 5,13,14
+- Lab 02  – Task 1 - Steps 1,2,
+- Lab 02  – Task 3 -Task 3.1 - Step 2
+- Lab 02  – Task 3 -Task 3.2 - Step 5
+- Lab 02  – Task 3 -Task 3.3 - Step 3
+- Lab 02  – Task 3 -Task 3.4 - Step 5,12
+- Lab 03  – Task 1 - Steps 5,7,8
+- Lab 03  – Task 2 - Steps 1,7,8
+- Lab 03  – Task 3 - Steps 1,3,4
+- Lab 03  – Task 4 - Steps 3,6
+- Lab 04  – Task 2 - Add an Example Query - step 1
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-12
+
+### Testing Scope 
+
+  Performed complete testing of the lab and updated screenshots and steps for clarity. 
+
+---
+</details>
+
+<details>
   <summary>2026-01-13</summary>
 
 ## Release Date: 2026-01-13
@@ -74,6 +123,8 @@ N/A
 
 Conducted end-to-end validation and prerequisite verification.
 </details>
+
+
 
 
 
