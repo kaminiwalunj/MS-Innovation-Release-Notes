@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-02-13</summary>
+
+## Release Date: 2026-02-13
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. instructions were refined to enhance clarity, ensure alignment with the latest interface changes, and improve the overall learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+The content was updated to ensure smoother rendering throughout the guide. Inject keys were added wherever necessary to maintain consistent flow. Additionally, sections related to lakehouse creation and table creation were updated to match the latest UI and functionality.
+
+### Screenshot Updates
+
+- **Minor updates**: Several screenshots were refreshed to reflect the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-12  
+  All updates were validated on the same day through a detailed review of the revised content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Conducted complete end-to-end lab testing. Verified all instructions, user interactions, and flows with the latest UI.  
+- Updated the lab guide content and screenshots wherever needed to ensure full compatibility with current platform behavior.
+
+</details>
 
 <details>
   <summary>2026-01-20</summary>
@@ -449,6 +481,7 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
+
 
 
 
