@@ -61,7 +61,7 @@ Screenshots have been updated to reflect the latest UI in the following steps:
 
 ### Testing Scope 
 
-  Performed complete testing of the lab, with successful validations and updated screenshots and steps for clarity. 
+  Performed complete testing of the lab and updated screenshots and steps for clarity. 
 
 ---
 </details>
@@ -123,6 +123,7 @@ N/A
 
 Conducted end-to-end validation and prerequisite verification.
 </details>
+
 
 
 
