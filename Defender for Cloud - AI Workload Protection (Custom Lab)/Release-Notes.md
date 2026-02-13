@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-13</summary>
+
+## Release Date: 2026-02-13
+
+### Summary of Changes
+
+- Minor steps and screenshot updates.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Added one step to close the pop-up window after opening Defender plans in Microsoft Defender for Cloud.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-13
+
+### Testing Scope 
+
+- Successfully tested the lab and updated the steps and screenshot. 
+
+---
+</details>
+
+
+<details>
   <summary>2026-01-22</summary>
 
 ## Release Date: 2026-01-22
@@ -80,3 +113,4 @@ N/A
 ---
 
 </details>
+
