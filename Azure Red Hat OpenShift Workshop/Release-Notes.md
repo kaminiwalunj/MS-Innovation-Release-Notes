@@ -14,6 +14,38 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-02-16</summary>
+
+## Release Date : 2026-02-16
+
+### Summary of Changes
+
+Updated the instructions and screenshots for steps for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updates**: Made updates by adding clearer screenshots and enhanced instructions for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-16
+
+### Testing Scope 
+
+- Performed complete testing of the lab and updated screenshots and steps for clarity.
+
+---
+</details>
+
+<details>
   <summary>2025-05-07</summary>
 
 #### Infrastructure Changes
