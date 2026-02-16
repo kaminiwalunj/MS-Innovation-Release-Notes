@@ -14,6 +14,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-02-16</summary>
+
+## Release Date : 2026-02-16
+
+### Summary of Changes
+
+Updated the instructions and screenshots to reflect the new Azure Migrate UI.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updates**: All instructions and screenshots are updated as per latest Azure Migrate UI. Made updates by adding clearer screenshots and enhanced instructions for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-16
+
+### Testing Scope 
+
+- Performed complete testing of the lab and updated screenshots and steps for clarity.
+
+---
+</details>
+
 <details>
   <summary>2025-09-20</summary>
 
