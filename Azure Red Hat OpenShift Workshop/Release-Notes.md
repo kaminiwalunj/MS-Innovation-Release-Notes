@@ -14,6 +14,40 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-02-16</summary>
+
+## Release Date : 2026-02-16
+
+### Summary of Changes
+
+Removed unstable GitHub webhook steps that were causing failures and improved overall lab clarity.
+Instructions were refined to ensure smooth and consistent lab execution.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In **Lab 1** – **Task 5** and **Task 6**: GitHub webhook configuration sections for **rating-api** and **rating-web** were removed due to repeated 403 errors.
+Core deployment, configuration, and validation steps were clarified and simplified.
+
+### Screenshot Updates
+
+- Webhook-related screenshots were removed to avoid confusion. Existing screenshots were updated to better align with the revised instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-16
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest updates.
+
+---
+</details>
+
+<details>
   <summary>2025-05-07</summary>
 
 #### Infrastructure Changes
