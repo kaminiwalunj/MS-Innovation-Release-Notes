@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-30</summary>
+
+## Release Date: 2026-01-30
+
+### Summary of Changes
+
+Tested the lab end to end with successful validation and minor lab guide updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Minor screenshot updates.
+    - **Instruction Refinements**: Refined instructions to improve understanding and clarity.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-30
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab, and successfully validated. Minor updates were made to the lab guide, and the lab is good.
+
+---
+</details>
+
+<details>
   <summary>2026-01-15</summary>
 
 ## Release Date: 2026-01-15
@@ -343,6 +378,7 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
 

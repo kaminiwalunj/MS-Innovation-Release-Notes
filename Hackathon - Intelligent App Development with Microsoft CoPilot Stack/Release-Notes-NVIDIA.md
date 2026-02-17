@@ -16,6 +16,99 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  
+  <summary>31-January-2026</summary>
+  
+## Release Date: 31-January-2026
+
+### Summary of Changes 
+-  The content has been refreshed with Microsoft Foundry, and the instructions have been updated to utilize the latest Foundry portal features and workflows.
+  
+### Infrastructure Changes
+- NA
+  
+### Content Changes
+
+- Instructions have been updated across all challenges to utilize the latest Microsoft Foundry portal features
+- Content has been refreshed to align with Microsoft Foundry and Copilot Stack best practices
+- Enhanced Semantic Kernel integration guidance with updated examples and code snippets
+- Updated NVIDIA NIM plugin configuration instructions for better clarity
+
+### Screenshot Update
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 31-January-2026
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI
+- Verified Semantic Kernel integration with latest version compatibility
+- Tested Chat Copilot App deployment and NVIDIA NIM plugin functionality
+- Confirmed all Miyagi Stack use cases execute successfully with updated configurations
+
+</details>
+
+<details>
+  
+  <summary> 23-December-2025</summary>
+
+## Release Date: 23-December-2025
+
+### Summary of Changes 
+
+-  Enhanced lab stability and performance optimizations. Updated Microsoft Foundry integration instructions and refined Copilot Stack deployment workflows for better user experience. Improvements across multiple challenges for NVIDIA NIM integration and Semantic Kernel implementation.
+
+### Infrastructure Changes
+
+- Optimized Microsoft Foundry resource allocation settings to improve deployment performance
+- Updated environment configurations for better compatibility with latest Semantic Kernel and NVIDIA NIM services
+- Enhanced VM and container configurations for improved Chat Copilot App performance
+
+### Content Changes
+
+- **Challenge 1**: 
+    - Refined instructions for Microsoft Foundry portal navigation to reflect latest UI updates
+    - Updated model deployment steps with clearer guidance for OpenAI resource creation
+
+- **Challenge 2**: 
+    - Enhanced Semantic Kernel exploration with updated code examples
+    - Clarified SDK integration steps and dependency management
+
+- **Challenge 3**: 
+    - Improved Chat Copilot App local deployment instructions
+    - Updated YAML configuration files with appropriate NVIDIA image names and tags
+    - Added troubleshooting guidance for common deployment issues
+
+- **Challenge 4**: 
+    - Updated nvidia_nim_plugin.py with correct NVIDIA image references
+    - Enhanced plugin integration documentation
+    - Clarified environment variable configuration steps
+
+### Screenshot Update
+
+- Updated screenshots in Challenge 1 to reflect the latest Microsoft Foundry portal interface
+- Refreshed Challenge 3 images showing updated Chat Copilot App deployment steps
+- Added clarifying visuals for NVIDIA NIM plugin configuration in Challenge 4
+  
+### Testing Notes
+
+- **Testing Date**: 23-December-2025
+
+### Testing Scope 
+
+- Conducted comprehensive end-to-end testing across all challenges
+- Validated Azure AI Foundry integration and model deployment workflows
+- Verified Semantic Kernel SDK integration and code execution
+- Tested Chat Copilot App local deployment with updated YAML configurations
+- Confirmed NVIDIA NIM plugin functionality with correct image references
+- Validated Miyagi Stack use cases with Semantic Kernel version 8.0.0
+- Ensured all validation steps execute successfully with updated configurations
+
+</details>
+
+<details>
   <summary>2025-11-25</summary>
 
 ## Release Date: 2025-11-25

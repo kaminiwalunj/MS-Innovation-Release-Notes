@@ -1,6 +1,6 @@
 # AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals
 
-Welcome to the **AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **AI Developer -  Microsoft Foundry and Semantic Kernel Fundamentals** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
@@ -15,6 +15,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-02-06</summary>
+
+## Release Date: 2026-02-06
+
+### Summary of Changes
+
+Made updates by adding clearer, updated UI screenshots and enhanced instructions for clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 2: Added injected keys for the resource group in Task 1 and Task 2.
+- Exercise 4: Added instructions for Task 2 (C#) for better clarity.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI in the following steps:
+- Exercise 1 – Task 2 - Step 9
+- Exercise 2 – Task 2 (Python) - Step 10
+- Exercise 3 – Task 3 (C#) - Step 12
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-06
+
+### Testing Scope 
+
+  Performed complete testing of the lab, with successful validations and updated screenshots and steps for clarity. 
+
+---
+</details>
 
 <details>
   <summary>2026-01-22</summary>

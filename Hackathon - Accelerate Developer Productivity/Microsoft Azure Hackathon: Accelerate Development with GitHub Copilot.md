@@ -16,6 +16,67 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>23 Jan 2026</summary>
+
+  ## Release Date: 2026-01-23
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+   
+   1. GitHub and Azure portal screenshots have been updated to reflect the latest UI changes.
+   2. Added notes wherever necessary for better clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-23
+   
+</details>
+
+<details>
+  <summary>23 Dec 2025</summary>
+
+  ## Release Date: 2025-12-23
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Changes**:
+   - Enhanced GitHub Copilot integration instructions for better user experience
+   - Updated GitHub Advanced Security configuration steps to align with latest features
+   - Refined Dependency Management workflow documentation
+   - Improved Secret Scanning setup and validation procedures
+
+### Screenshot Updates
+   
+   1. Screenshots have been updated across multiple challenges to reflect recent GitHub UI changes
+   2. Azure portal screenshots refreshed to match current interface
+   3. Added clarifying notes for GitHub Actions CI/CD workflowsy.
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-23
+
+- **Testing Scope**: 
+    - Validated all GitHub Copilot features and integrations
+    - Tested GitHub Actions CI/CD pipelines with updated workflows
+    - Verified Advanced Security features including code scanning and secret detection
+    - Confirmed Dependency Management and Dependabot functionality
+    - End-to-end validation of all five core challenges
+    
+</details>
+
+
+<details>
   <summary>21 Nov 2025</summary>
 
 ## Release Date: 2025-11-21

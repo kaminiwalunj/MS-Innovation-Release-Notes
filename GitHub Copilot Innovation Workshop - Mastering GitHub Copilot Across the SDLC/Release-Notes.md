@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-13</summary>
+
+## Release Date: 2026-02-13
+
+### Summary of Changes
+
+Updated the screenshots to reflect the new GitHub Copilot Chat UI. Also updated the customer script to install the latest version of VS Code.
+
+### Infrastructure Changes
+
+ Updated the customer script to install the latest version of VS Code, as the previously installed version had a compatibility issue with the GitHub Copilot Chat extension.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Updated the screenshots to reflect the new GitHub Copilot Chat UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-13
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-01-29</summary>
 
 ## Release Date: 2026-01-29
@@ -117,5 +151,6 @@ N/A
 
 ---
 </details>
+
 
 
