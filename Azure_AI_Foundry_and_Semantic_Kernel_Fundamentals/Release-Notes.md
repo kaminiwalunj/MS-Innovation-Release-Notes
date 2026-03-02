@@ -35,7 +35,7 @@ Minor instructional updates to align the steps with screenshots.
 
 ### Screenshot Updates
 
-- **Minor updates**: Minor screenshot updates to align with Micorsoft Foundry UI.
+- **Minor updates**: Minor screenshot updates to align with Microsoft Foundry UI.
       
 ### Testing Notes
 
