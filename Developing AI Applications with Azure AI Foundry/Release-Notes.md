@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-03-03</summary>
+
+## Release Date: 2026-03-03
+
+### Summary of Changes
+
+Screenshots and instructions have been updated to enhance the clarity of the steps.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+  
+### Screenshot Updates
+
+- The below-mentioned images are updated to match the actual UI.
+  - Lab 3 -- Task 2 Step 4
+  - Lab 4 -- Task 2 -- Step 9, 10,11 and 20
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-02
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. Improved the lab flow for clarity and refreshed the screenshots to match the exact UI in the Microsoft Foundry portal. 
+
+---
+</details>
+
+<details>
   <summary>2026-02-04</summary>
 
 ## Release Date: 2026-02-04
