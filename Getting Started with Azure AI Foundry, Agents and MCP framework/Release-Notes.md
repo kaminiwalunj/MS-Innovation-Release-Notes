@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-03</summary>
+
+## Release Date: 2026-03-03
+
+### Summary of Changes
+
+- Removed the MFA setup steps from the Getting Started page.
+- Fixed the rendering issue in Exercise 1.
+- Updated screenshots for Exercise 7 – Task 1 (Steps 10, 11, and 13) to reflect the latest UI changes in the GitHub Chat interface.
+- For Exercise 7, since Microsoft removed content from the mcsmcp GitHub repository, the content has been moved to an internal repository and the script has been updated accordingly.
+
+### Infrastructure Changes
+
+- For Exercise 7, since Microsoft removed content from the mcsmcp GitHub repository, the content has been moved to an internal repository and the script has been updated accordingly.
+
+### Content Changes
+
+- Removed the MFA setup steps from the Getting Started page.
+- Fixed the rendering issue in Exercise 1.
+
+### Screenshot Updates
+
+- Updated screenshots for Exercise 7 – Task 1 (Steps 10, 11, and 13) to reflect the latest UI changes in the GitHub Chat interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+-Conducted end-to-end lab testing, all validations were successful. Updated the lab guide to improve clarity and enhance the overall user experience.
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-11</summary>
 
 ## Release Date: 2026-02-11
@@ -145,6 +182,7 @@ N/A
 
 ---
 </details>
+
 
 
 
