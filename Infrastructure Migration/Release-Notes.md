@@ -23,20 +23,19 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
-- Successfully tested the first three exercises in HOL 1 to validate the workflow and ensure the steps are functioning as expected as per Pax8
+- Successfully validated the lab workflow to ensure all steps function as expected and align with the intended learning objectives.
 
 ### Infrastructure Changes
 
-- Updated the PowerShell script to incorporate the new VM image along with necessary configuration changes to align with the latest environment requirements.
-- Reviewed and modified the RBAC policy to resolve permission issues that were preventing key generation for Azure Migrate appliances, ensuring the required access is now properly configured.
-- Successfully tested the lab deployment across three regions (West US 2, Central US, and West Europe) to validate that all 7 guest VMs are provisioned correctly and can be migrated to Azure without any issues.
+- Updated the deployment script and VM image, refined RBAC configurations, and validated successful VM provisioning and migration across regions.
+
 ### Content Changes
 
-- Updated the lab guide to use the old UI experience for the first three exercises to ensure consistency with the lab instructions.
+- Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
 
 ### Screenshot Update
 
-- Modified several screenshots in the first three exercises by blurring subscription IDs, resource names, and region details for security and compliance purposes.
+- Revised several screenshots by masking subscription IDs, resource names, and region details to maintain security and compliance standards.
 
 ### Testing Notes
 
