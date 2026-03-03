@@ -32,7 +32,7 @@ Added additional steps to align with the latest lab workflow and updated the gui
 
 ### Screenshot Updates
 
-Screenshots were updated to reflect the latest UI in the following steps:
+Screenshot were updated to reflect the latest UI in the following steps:
 
 - Exercise 1 > Task 2 > Step 1
 
@@ -147,5 +147,6 @@ Performed end to end lab testing, and all validations were successful. Updated l
 ------------
 
 </details>
+
 
 
