@@ -17,9 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-01-23</summary>
+  <summary>2026-03-02</summary>
 
-## Release Date: 2026-01-23
+## Release Date: 2026-03-02
 
 ### Summary of Changes 
 
@@ -29,22 +29,22 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - Updated the PowerShell script to incorporate the new VM image along with necessary configuration changes to align with the latest environment requirements.
 - Reviewed and modified the RBAC policy to resolve permission issues that were preventing key generation for Azure Migrate appliances, ensuring the required access is now properly configured.
-
+- Successfully tested the lab deployment across three regions (West US 2, Central US, and West Europe) to validate that all 7 guest VMs are provisioned correctly and can be migrated to Azure without any issues.
 ### Content Changes
 
-- NA
+- Updated the lab guide to use the old UI experience for the first three exercises to ensure consistency with the lab instructions.
 
 ### Screenshot Update
 
-- NA
+- Modified several screenshots in the first three exercises by blurring subscription IDs, resource names, and region details for security and compliance purposes.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-01-23
+- **Testing Date**: 2026-03-02
 
 ### Testing Scope 
 
-- Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
+- Conducted testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
 
 </details>
 
