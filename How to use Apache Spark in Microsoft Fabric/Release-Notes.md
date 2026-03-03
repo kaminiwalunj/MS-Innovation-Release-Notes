@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>03-March-2026</summary>
+
+## Release Date : 03-March-2026
+
+### Summary of Changes
+
+Added additional steps to align with the latest lab workflow and updated the guide with screenshots reflecting the current UI. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Added notes to Exercise 1 and Exercise 3 to provide clearer instructions.
+
+### Screenshot Updates
+
+Screenshots were updated to reflect the latest UI in the following steps:
+
+- Exercise 1 > Task 2 > Step 1
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
+
+<details>
   <summary>04-February-2026</summary>
 
 ## Release Date : 04-February-2026
@@ -114,4 +147,5 @@ Performed end to end lab testing, and all validations were successful. Updated l
 ------------
 
 </details>
+
 
