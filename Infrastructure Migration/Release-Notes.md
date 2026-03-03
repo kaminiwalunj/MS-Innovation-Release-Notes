@@ -23,11 +23,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
-- Successfully validated the lab workflow to ensure all steps function as expected and align with the intended learning objectives.
+- Successfully validated the lab workflow to ensure all steps function as expected and align with the intended learning objectives, incorporating the updated lab VM image and the latest Azure Migrate UI updates.
 
 ### Infrastructure Changes
 
-- Updated the deployment script and VM image, refined RBAC configurations, and validated successful VM provisioning and migration across regions.
+- Updated the deployment script and VM image, refined RBAC configurations, and validated successful VM provisioning and replication over multiple regions.
 
 ### Content Changes
 
@@ -115,4 +115,5 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
 
 </details>
+
 
