@@ -18,6 +18,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-03-04</summary>
+
+## Release Date: 2026-03-04
+
+### Summary of Changes
+
+Revised lab content across Lab 1 to Lab 4 and for the pre-requisite lab to improve clarity, align with the latest Copilot Studio UI updates, and enhance overall learner experience. Updates include adding Lab Scenario sections, refining navigation instructions, and replacing outdated and blurred screenshots. Lab summaries were also refined to better reflect learning outcomes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Replaced blurred images with clear screenshots.
+- Updated screenshots to reflect minor UI changes in Copilot Studio.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+
+<details>
   <summary>2026-02-08</summary>
 
 ## Release Date: 2026-02-03
