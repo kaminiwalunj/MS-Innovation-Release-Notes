@@ -15,7 +15,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2026-02-04</summary>
+  <summary>2026-03-04</summary>
+  
+## Release Date: 2026-03-04
+
+### Summary of Changes
+
+End-to-end lab testing was performed. No updates to screenshots and made few instructions made in the lab guide.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+I have made a few minor updates to the lab guide. Specifically, I added steps to handle the ‘Private Offers are now here’ pop-up (click Close to dismiss it) and the Microsoft Edge browser prompts such as ‘Start without your data’ and ‘Continue without Google data’. The overall content was good; I only added these details to help users handle the pop-ups that appear during the lab.
+
+### Screenshot Updates
+
+Reviewed and verified all screenshots to ensure they are accurate and consistent with the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-04
+
+### Testing Scope 
+
+Successfully completed end-to-end lab testing and validation. Thoroughly reviewed and validated all lab instructions and screenshots, ensuring they are accurate, up to date, and aligned with the latest UI changes. 
+
+---
+</details>
+
+<details>
+  <summary>2026-03-04</summary>
   
 ## Release Date: 2026-02-04
 
@@ -268,6 +300,7 @@ NA
 
 ---
 </details>
+
 
 
 
