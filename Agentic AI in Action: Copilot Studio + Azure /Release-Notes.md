@@ -20,24 +20,22 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Release Date: 
 
-### Summary of Changes
+### Summary
  > Completed onboarding for the referenced lab. The lab environment, deployment configuration, and content have been reviewed and prepared to support successful lab provisioning and execution.
  
+### Infrastructure
 
-### Infrastructure Changes
+> Configured the necessary Azure resources, including ARM templates, VM configuration, and supporting scripts and licenses required for the lab environment.
 
-> Verified the existing Azure infrastructure components, including ARM templates, VM configuration, and supporting deployment scripts
+### Content 
 
-### Content Changes
+> Integrated the onboarded lab guide with the approved Table of Contents.
+> Configured required tools, dependencies, and services within the lab setup.
 
-> Onboarded and updated the lab guide based on the provided documentation. 
-> The content flow was revised, and necessary instructional updates were implemented to ensure alignment with the lab environment and deployment process.
-
-### Screenshot Updates
-
-> Added screenshots where required to reflect the onboarding environment and deployment flow.
+### Validation
+Verified successful deployment of the lab environment and confirmed that the lab setup aligns with the provided instructions.
 
 ### Testing Scope 
-> Validated the lab deployment and confirmed that the environment provisions successfully and aligns with the updated lab instructions.
+> Validated the lab deployment and confirmed that the environment provisions successfully and aligns with the lab instructions.
 ---
 </details>
