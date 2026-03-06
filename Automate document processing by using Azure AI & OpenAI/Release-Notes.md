@@ -16,7 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-06</summary>
+
+## Release Date : 2026-03-06
+
+### Summary of Changes
+
+The lab has been successfully tested. Some screenshots were updated where the existing images were outdated and not clearly visible to users.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced outdated and low-visibility screenshots to improve clarity. Added new screenshots in Lab 01 – Task 1 to enhance user guidance.
+    - **Instruction Refinements**: NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-06
+
+### Testing Scope 
+
+Conducted end-to-end testing of the lab environment and validated all lab guide steps. The lab guide was enhanced with updated screenshots and minor improvements to ensure better clarity and user experience.
+
+---
+</details>
+
+
+<details>
   <summary>2025-11-28</summary>
+
 
 ## Release Date : 2025-11-28
 
@@ -321,6 +358,7 @@ NA
 - **Testing Date**: 2025-03-18
 
 </details>
+
 
 
 
