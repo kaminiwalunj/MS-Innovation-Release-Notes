@@ -16,17 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-06</summary>
+
+## Release Date: 2026-03-06
+
+### Summary of Changes
+
+Updated the screenshots to reflect the new GitHub Copilot Chat UI.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+Updated the recent UI changes in Lab 07 along with new screenshots reflecting the changes.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Along with Lab 07 updated the screenshots wherever necessary from Getting Started page to Lab 06 so that it look more clearer in the lab guide.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+<details>
   <summary>2026-02-13</summary>
 
 ## Release Date: 2026-02-13
 
 ### Summary of Changes
 
-Updated the screenshots to reflect the new GitHub Copilot Chat UI. Also updated the customer script to install the latest version of VS Code.
+Updated the screenshots to reflect the new GitHub Copilot Chat UI. Also updated the custom script to install the latest version of VS Code.
 
 ### Infrastructure Changes
 
- Updated the customer script to install the latest version of VS Code, as the previously installed version had a compatibility issue with the GitHub Copilot Chat extension.
+ Updated the custom script to install the latest version of VS Code, as the previously installed version had a compatibility issue with the GitHub Copilot Chat extension.
 
 ### Content Changes
 
