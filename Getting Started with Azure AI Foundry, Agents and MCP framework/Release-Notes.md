@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-03</summary>
+
+## Release Date: 2026-03-03
+
+### Summary of Changes
+
+- Removed the MFA setup steps from the Getting Started page.
+- Fixed the rendering issue in Exercise 1.
+- Updated screenshots for Exercise 7 – Task 1 (Steps 10, 11, and 13) to reflect the latest UI changes in the GitHub Chat interface.
+- Validation for GitHub repository cloning has been implemented in the script to ensure the repository is cloned correctly, along with the creation of a virtual environment and installation of the required packages for smooth and reliable execution.
+
+### Infrastructure Changes
+
+- Validation for GitHub repository cloning has been implemented in the script to ensure the repository is cloned correctly, along with the creation of a virtual environment and installation of the required packages for smooth and reliable execution.
+
+### Content Changes
+
+- Removed the MFA setup steps from the Getting Started page.
+- Fixed the rendering issue in Exercise 1.
+
+### Screenshot Updates
+
+- Updated screenshots for Exercise 7 – Task 1 (Steps 10, 11, and 13) to reflect the latest UI changes in the GitHub Chat interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+-Conducted end-to-end lab testing, all validations were successful. Updated the lab guide to improve clarity and enhance the overall user experience.
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-11</summary>
 
 ## Release Date: 2026-02-11
@@ -145,6 +182,8 @@ N/A
 
 ---
 </details>
+
+
 
 
 
