@@ -16,31 +16,28 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
-  <summary></summary>
+  <summary>2026-02-10</summary>
 
 ## Release Date: 
 
 ### Summary of Changes
-
+ > Completed onboarding for the referenced lab. The lab environment, deployment configuration, and content have been reviewed and prepared to support successful lab provisioning and execution.
  
 
 ### Infrastructure Changes
 
-
+> Verified the existing Azure infrastructure components, including ARM templates, VM configuration, and supporting deployment scripts
 
 ### Content Changes
 
-
+> Onboarded and updated the lab guide based on the provided documentation. 
+> The content flow was revised, and necessary instructional updates were implemented to ensure alignment with the lab environment and deployment process.
 
 ### Screenshot Updates
 
-
-      
-### Testing Notes
-
-
+> Added screenshots where required to reflect the onboarding environment and deployment flow.
 
 ### Testing Scope 
-
+> Validated the lab deployment and confirmed that the environment provisions successfully and aligns with the updated lab instructions.
 ---
 </details>
