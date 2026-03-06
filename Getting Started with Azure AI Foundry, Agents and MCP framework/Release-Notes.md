@@ -25,11 +25,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Removed the MFA setup steps from the Getting Started page.
 - Fixed the rendering issue in Exercise 1.
 - Updated screenshots for Exercise 7 – Task 1 (Steps 10, 11, and 13) to reflect the latest UI changes in the GitHub Chat interface.
-- For Exercise 7, since Microsoft removed content from the mcsmcp GitHub repository, the content has been moved to an internal repository and the script has been updated accordingly.
+- Validation for GitHub repository cloning has been implemented in the script to ensure the repository is cloned correctly, along with the creation of a virtual environment and installation of the required packages for smooth and reliable execution.
 
 ### Infrastructure Changes
 
-- For Exercise 7, since Microsoft removed content from the mcsmcp GitHub repository, the content has been moved to an internal repository and the script has been updated accordingly.
+- Validation for GitHub repository cloning has been implemented in the script to ensure the repository is cloned correctly, along with the creation of a virtual environment and installation of the required packages for smooth and reliable execution.
 
 ### Content Changes
 
@@ -182,6 +182,7 @@ N/A
 
 ---
 </details>
+
 
 
 
