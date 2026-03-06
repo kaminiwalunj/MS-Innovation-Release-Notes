@@ -16,30 +16,31 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
-  <summary>2026-02-20</summary>
+  <summary></summary>
 
-## Release Date: 2026-02-20
+## Release Date: 
 
 ### Summary of Changes
 
-Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+ 
 
 ### Infrastructure Changes
 
-N/A
+
 
 ### Content Changes
 
-Updated the instructions and content for the lab as per the latest UI.
+
 
 ### Screenshot Updates
 
-- **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated the blurred screenshots to align with testing checklist.
       
 ### Testing Notes
 
-- **Testing Date**: 2026-02-20
+
 
 ### Testing Scope 
+
+---
+</details>
