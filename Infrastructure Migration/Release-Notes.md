@@ -17,6 +17,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-02</summary>
+
+## Release Date: 2026-03-02
+
+### Summary of Changes 
+
+- Successfully validated the lab workflow to ensure all steps function as expected and align with the intended learning objectives, incorporating the updated lab VM image and the latest Azure Migrate UI updates.
+
+### Infrastructure Changes
+
+- Updated the deployment script and VM image, refined RBAC configurations, and validated successful VM provisioning and replication over multiple regions.
+
+### Content Changes
+
+- Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
+
+### Screenshot Update
+
+- Revised several screenshots by masking subscription IDs, resource names, and region details to maintain security and compliance standards.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-02
+
+### Testing Scope 
+
+- Conducted testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
+
+</details>
+
+<details>
   <summary>2026-01-02</summary>
 
 ## Release Date: 2065-01-02
@@ -84,4 +115,5 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
 
 </details>
+
 

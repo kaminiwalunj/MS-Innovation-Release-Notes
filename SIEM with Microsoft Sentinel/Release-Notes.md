@@ -16,7 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-03-01</summary>
 
+## Release Date: 2026-03-01
+
+### Summary of Changes
+
+Screenshots and instructions have been updated to enhance the clarity of the steps.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+  
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-01
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. Improved the lab flow for clarity and refreshed the screenshots to match the exact UI in the Microsoft Foundry portal. 
+
+---
+</details>
 <details>
   <summary>2026-01-19</summary>
 

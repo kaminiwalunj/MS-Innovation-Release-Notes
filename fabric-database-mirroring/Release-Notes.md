@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-06</summary>
+
+## Release Date: 2026-03-06
+
+### Summary of Changes
+
+Resolved deployment and configuration issues impacting Fabric mirroring of SQL Managed Instance and PostgreSQL in Lab 3 and Lab 6, respectively. Minor updates were also made by adding clearer, up-to-date UI screenshots.
+
+### Infrastructure Changes
+
+- Lab 3 Task 2 issue fix: 
+  - Updated the API version used for the deployment of the SQL MI instance. The previous API version caused failures while retrieving DMV information during the Fabric mirroring. Updating the API version fixed the issue. 
+
+- Lab 6 Task 1 issue fix:
+  - Enabling the Fabric mirroring for PostgreSQL was failing. PostgreSQL was deployed on the Burstible SKU Tier, which is no longer supported for Fabric mirroring. Hence, we updated the template to deploy PostgreSQL with the General Purpose tier, which resolved the issue. 
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+Updated few of the screenshots to reflect the latest UI and improve clarity.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-24
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+
+<details>
   <summary>2026-01-24</summary>
 
 ## Release Date: 2026-01-24

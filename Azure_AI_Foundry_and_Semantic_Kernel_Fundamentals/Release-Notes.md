@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-02</summary>
+
+## Release Date: 2026-03-02
+
+### Summary of Changes
+
+Accommodated minor UI updates and refined instructions to improve understanding and clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Minor instructional updates to align the steps with screenshots.
+
+### Screenshot Updates
+
+- **Minor updates**: Minor screenshot updates to align with Microsoft Foundry UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-02
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab with all validations successfull, updated the lab guide with clear instructions.
+
+
+---
+</details>
+
+<details>
   <summary>2026-02-06</summary>
 
 ## Release Date: 2026-02-06
