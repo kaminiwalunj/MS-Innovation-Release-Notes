@@ -117,3 +117,36 @@ NA
 - **Testing Date**: 2025-05-14
   
 </details>
+
+<details>
+  <summary>2026-03-10</summary>
+
+## Release Date: 2026-03-10
+
+### Summary of Changes
+
+Resolved script issue related to Microsoft Graph which leads to join the domain to the host pool. Minor updates were also made by adding clearer, up-to-date UI screenshots.
+
+### Infrastructure Changes
+
+- Script Issue
+  - Resolved the script issue related to Microsoft Graph login that was causing password reset failures for the user. Due to this issue, we were previously unable to join the domain to the host pool. The problem has now been fixed.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+Updated few of the screenshots and Instructions to improve clarity.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-10
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
