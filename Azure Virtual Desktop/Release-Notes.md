@@ -129,8 +129,11 @@ Resolved script issue related to Microsoft Graph which leads to join the domain 
 
 ### Infrastructure Changes
 
-- Script Issue
+- Script Issue:
   - Resolved the script issue related to Microsoft Graph login that was causing password reset failures for the user. Due to this issue, we were previously unable to join the domain to the host pool. The problem has now been fixed.
+ 
+- Lab 10 Exercise 1 issue fix:
+  - In Lab 10, an additional step has been introduced to ensure the Microsoft Teams application is updated on the session desktop. To ensures that the latest version of Teams is installed on the session host environment.
 
 ### Content Changes
 
