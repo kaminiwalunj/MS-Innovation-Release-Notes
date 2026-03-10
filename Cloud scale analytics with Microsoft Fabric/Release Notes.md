@@ -42,8 +42,8 @@ Updated the instructions and content for the lab as per the latest UI in the Mic
 - **Minor updates**: 
 
     - **Updated UI Screenshots**: Updated the screenshots as per the latest UI in the Microsoft Fabric portal. updated screenshots for these steps:
-    - Exercise 1: Task 2 step 2 , Task 4 step10 , Task 5 step 5, Task 8 step 8
-    - Exercise 3: Task 2 step 1      
+      - Exercise 1: Task 2 Step 2, Task 4 Step 10, Task 5 Step 5, Task 8 Step 8.
+      - Exercise 3: Task 2 Step 1.
 
 ### Testing Notes
 
