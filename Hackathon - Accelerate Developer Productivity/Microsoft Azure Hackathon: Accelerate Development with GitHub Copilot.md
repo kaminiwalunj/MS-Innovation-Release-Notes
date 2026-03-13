@@ -27,7 +27,7 @@ NA
 ### Content Changes
 
 1. Improve the overall quality of the guide by correcting formatting issues and fixing/aligning image references so the step-by-step instructions read more clearly and consistently.
-2. Added Troubleshooting steps for each challanges 
+2. Added Troubleshooting steps for each challenges 
 
 ### Screenshot Updates
    
