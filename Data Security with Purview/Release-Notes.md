@@ -22,11 +22,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Updated the lab guide with and Fixed the image rendering issue in Lab 6, Step 11. Corrected the note in Lab 7, Task 1.2, Step 8 by updating the reference from Step 14 to Step 4.
-
+Updated the lab guide to improve accuracy and usability. Fixed the image rendering issue in Lab 6, Step 11, and corrected the note in Lab 7, Task 1.2, Step 8 by updating the reference from Step 14 to Step 4.
 ### Infrastructure Changes
 
-- Updated the Public IP SKU from Dynamic to Standard Static.
+- Updated the Public IP SKU from Dynamic to Standard Static and updated the VM SKU.
 
 ### Content Changes
 
@@ -36,7 +35,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: NA.
+    - **Updated UI Screenshots**: No new UI screenshots added.
       
 ### Testing Notes
 
