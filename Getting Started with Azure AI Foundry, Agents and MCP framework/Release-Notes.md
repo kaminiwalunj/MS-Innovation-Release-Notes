@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-19</summary>
+
+## Release Date: 2026-03-19
+
+### Summary of Changes
+
+- Minor refinements were made across multiple exercises to improve navigation clarity, enhance step-by-step guidance, and ensure better alignment with the latest UI and workflow.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated navigation steps to access Microsoft Foundry from the Azure portal home page
+- Added clarity for copying and using the Project connection string for downstream tasks.
+- Improved folder selection guidance for opening the correct lab directory in VS Code.
+- Refined notebook execution instructions to ensure users can correctly locate and run cells.
+- Updated environment configuration steps, including SERVERLESS_MODEL_NAME changes and reversion guidance.
+- Added prerequisite step to install a specific Semantic Kernel version for compatibility.
+- Improved MCP server access steps, including URL formatting and browser navigation.
+- Minor updates to GitHub/Copilot sign-in guidance for enabling AI features.
+
+### Screenshot Updates
+
+- Refreshed and aligned screenshots across exercises to match updated instructions and UI changes.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-19
+
+### Testing Scope 
+
+- End-to-end validation of updated navigation, configuration steps, notebook execution, and MCP server setup to ensure consistency and usability across all exercises.
+
+---
+</details>
+
+<details>
   <summary>2026-03-03</summary>
 
 ## Release Date: 2026-03-03
