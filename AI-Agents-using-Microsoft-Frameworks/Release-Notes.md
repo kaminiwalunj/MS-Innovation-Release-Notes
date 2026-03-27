@@ -16,6 +16,44 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-03-23</summary>
+
+## Release Date: 2026-03-23
+ 
+### Summary of Changes
+
+- Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Minor updates**: 
+
+    -Updated few instructions to align with latest flow of the lab 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots to align with latest UI of Azure portal and Foundry
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-23
+
+### Testing Scope 
+
+- Completed end to end testing and validated all the steps
+
+- Reviewed the lab guide and rendering as well and also reviewed Rbac and custom policy on template level
+
+---
+</details>
+
+<details>
   <summary>2026-02-26</summary>
 
 ## Release Date: 2026-02-26
