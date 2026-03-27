@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-26</summary>
+
+### Release Date: 2026-03-26
+
+## Summary of Changes
+
+Updated the documentation with latest screenshots and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
+
+## Infrastructure Changes
+
+NA 
+
+## Content Changes
+ 
+- **Lab 1 - Task 1- Step 12/13**: Within the New Foundry portal location/terminology of the API key has changed, and the location of the Project Endpoint has changed. Updated instructions to close the pop-up once transformed to New Foundry UI.
+
+- **Lab 3 - Task 1- Step 10**: Updated screenshot and instruction as per the latest UI of AI search service
+
+## Screenshot Updates
+
+- **Lab 1 - Task 2- Step 1/7/10**: There are other custom blades added to the Model overview page, hence updated screenshot.
+ 
+- **Lab 2 - Task 2- Step 2**: Updated the screenshot to align with standards.
+
+- **Lab 3 - Task 1- Step 22**: The location of the **Add Connection** button is located down UI has changed hence update the screenshot.
+
+## Validation
+
+  - All Validation Succeeded.
+
+## Testing Scope
+
+ - Executed thorough end-to-end validation of the lab environment, systematically verifying lab validations.
+
+</details>
+
+<details>
   <summary>2026-02-27</summary>
 
 ### Release Date: 2026-02-27
