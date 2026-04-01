@@ -18,8 +18,6 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 <details>
   <summary>2026-04-01 - Onboarding</summary>
 
-## Release Date: 
-
 ### Summary
 - Successfully onboarded the GitHub Copilot: Zero to Agents lab. The lab environment, Copilot configurations, and end-to-end lab workflow have been validated. 
  
