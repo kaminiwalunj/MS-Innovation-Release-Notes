@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-Minor update to reflect updated Azure portal interface— UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
+Minor update to reflect updated Azure portal interface - UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
 
 ## Infrastructure Changes
 
