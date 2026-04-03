@@ -18,9 +18,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-04-02</summary>
+  <summary>2026-04-03</summary>
 
-## Release Date : 2026-04-02
+## Release Date : 2026-04-03
 
 ### Summary of Changes
 
@@ -28,11 +28,11 @@ Updated the guide with minor UI updates and refined instructions for improved cl
 
 ### Infrastructure Changes
 
-N/A
+- Replaced the DALL·E model with gpt-image-1.5 due to deprecation and updated the lab flow accordingly. 
 
 ### Content Changes
 
-N/A 
+- Updated the lab content to reflect the gpt-image-1.5 model.
 
 ### Screenshot Updates
 
@@ -42,7 +42,7 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-04-02
+- **Testing Date**: 2026-04-03
 
 ### Testing Scope 
 
