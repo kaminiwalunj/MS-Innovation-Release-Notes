@@ -16,6 +16,47 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-03-30</summary>
+
+## Release Date: 2026-03-30
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* **Lab01 – Task 2 – Step 14:** Updated the file name and path, and added a screenshot to show where to open the file.
+* **Lab01 – Task 2 – Step 12:** Changed “Fabric capacity” to “Fabric.”
+* **Lab04 – Before Task 1:** Added a step for the new popup after workspace selection, telling users to click **Got it**.
+* **Lab04 – Task 1 – Step 1:** Updated where to find the Copilot toggle, added a new screenshot, and included steps to click the three dots and select Copilot.
+* **Lab05 – Task 1 – Step 3:** Updated the screenshot for the new Data Agent UI and fixed step numbering.
+* **Lab05 – Spotlight (Replacing Data Source) – Step 1:** Updated from three options to four, with a new screenshot and instructions.
+* **Lab05 – Task 5 – Step 4:** Changed “New shortcut” to **New table shortcut** in the Lakehouse menu.
+* **Lab05 – Task 7 – Step 5:** Updated sharing option from “Create and send link” to **Grant People Access**.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-30
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+
+<details>
   <summary>2026-03-19</summary>
 
 ## Release Date: 2026-03-19

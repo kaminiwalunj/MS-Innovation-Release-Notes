@@ -16,6 +16,39 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-03-29</summary>
+
+## Release Date: 2026-03-29
+
+### Summary of Changes
+
+- Implemented minor updates to enhance the clarity, accuracy, and overall usability of the lab instructions.
+- 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Updated the screenshot for Exercise 2 – Task 2, Step 2 to reflect the UI change for the "Open notebook" option.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-29
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing. The lab guide has also been updated to improve clarity and align with the latest Fabric UI changes.
+
+---
+</details>
+
+
+<details>
   <summary>2026-03-12</summary>
 
 ## Release Date: 2026-03-12

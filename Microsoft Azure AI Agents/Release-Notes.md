@@ -4,7 +4,7 @@ Welcome to the **Microsoft Azure AI Agents** Readme.md. In this page, we will do
 
 ## Overview
 
-This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This **page contains** detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
@@ -22,11 +22,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-Updated the documentation with latest screenshots and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
+Updated the documentation with latest screenshots in _Microsoft Foundry_ and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
 
 ## Infrastructure Changes
 
-NA 
+N/A 
 
 ## Content Changes
  
@@ -63,7 +63,7 @@ Updated the documentation with latest screenshots and optimized the instructions
 
 ## Infrastructure Changes
 
-NA 
+N/A 
 
 ## Content Changes
  
@@ -100,7 +100,7 @@ N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -342,11 +342,11 @@ N/A
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -374,11 +374,11 @@ NA
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -425,7 +425,7 @@ NA
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
@@ -433,7 +433,7 @@ Incorporated two additional notes into the lab guide based on feedback, ensuring
   
 ### Screenshot Updates
 
-NA
+N/A
 
 ### Testing Notes
 
@@ -457,7 +457,7 @@ Completed end-to-end testing incorporating updated UI changes, enhanced lab guid
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
@@ -492,7 +492,7 @@ NA
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
@@ -515,7 +515,7 @@ The lab has been thoroughly tested with all updated screenshots and content revi
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
@@ -538,7 +538,7 @@ The lab has been tested with all the updated screenshots and content changes, an
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
