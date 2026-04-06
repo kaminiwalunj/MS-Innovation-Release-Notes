@@ -24,11 +24,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Accommodated minor updates and refined instructions to improve understanding and clarity.
+Accommodated minor updates, refined instructions for better clarity, and updated the OS disk SKU.
 
 ### Infrastructure Changes
 
-N/A
+Updated the OS disk SKU from Standard HDD to Standard SSD.
 
 ### Content Changes
 
