@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues and enhanced the instructions wherever needed.   
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues.   
 
 ### Infrastructure Changes
 
@@ -30,7 +30,7 @@ N/A
 
 ### Content Changes
 
-Updated the instructions and content for the lab as per the latest UI.
+- No Content changes and instructions updates done.
 
 ### Screenshot Updates
 
