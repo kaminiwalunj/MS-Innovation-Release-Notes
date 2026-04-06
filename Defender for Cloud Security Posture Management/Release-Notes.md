@@ -15,6 +15,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-04-03</summary>
+
+## Release Date: 2026-04-03
+
+### Summary of Changes 
+
+-  Minor updates have been made, including UI updates, refreshed screenshots, and refined instructions to improve clarity and accuracy.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated the lab guide with refined instructions to improve clarity and accuracy.
+
+### Screenshot Update
+
+- Updated the screenshot for Attack Path Analysis to reflect only the settings for READ-ONLY task.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-03
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
+
 <details>
   <summary>2026-03-06</summary>
 
