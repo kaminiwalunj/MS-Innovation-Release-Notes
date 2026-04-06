@@ -34,9 +34,7 @@ Updated the instructions and content for the lab as per the latest UI.
 
 ### Screenshot Updates
 
-- **Minor updates**: 
-
-    - **Updated UI Screenshots**: Updated the screenshots as per the latest UI.
+- No Screenshot updates done as there were no UI updates
       
 ### Testing Notes
 
