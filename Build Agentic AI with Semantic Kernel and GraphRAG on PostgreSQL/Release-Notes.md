@@ -24,15 +24,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Accommodated minor updates, refined instructions for better clarity, and updated the OS disk SKU.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
 
 ### Infrastructure Changes
 
-Updated the OS disk SKU from Standard HDD to Standard SSD.
+N/A
 
 ### Content Changes
 
-Minor instructional updates to improve understanding and clarity.
+Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
 
 ### Screenshot Updates
 
@@ -40,13 +40,13 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-04-06
+- **Testing Date**: 2026-04-06  
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
 
 ### Testing Scope 
 
- Performed end-to-end testing of the lab with all validations successfull, updated the lab guide with clear instructions.
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
 
----
 </details>
 
 <details>
