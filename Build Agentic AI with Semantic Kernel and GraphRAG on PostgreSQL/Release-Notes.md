@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-04-06</summary>
+
+## Release Date: 2026-04-06
+
+### Summary of Changes
+
+Accommodated minor updates, refined instructions for better clarity, and updated the OS disk SKU.
+
+### Infrastructure Changes
+
+Updated the OS disk SKU from Standard HDD to Standard SSD.
+
+### Content Changes
+
+Minor instructional updates to improve understanding and clarity.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-06
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab with all validations successfull, updated the lab guide with clear instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-03-03</summary>
 
 ## Release Date: 2026-03-03
