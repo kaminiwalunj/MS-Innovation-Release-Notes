@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-07</summary>
+
+## Release Date: 2026-04-07
+
+### Summary of Changes
+
+Enhanced the overall lab experience by improving instructions, adding missing overviews, refining task flows, and aligning content with the latest Microsoft portal UI. Updates also include authentication improvements and fixes to validation steps.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added zoom in/out instructions on the Getting Started page.
+- Improved instructions across Labs 01–05 for better clarity.
+- Added missing task overviews in Labs 02, 03, and 04.
+- Included MFA steps for user login in Lab 02.
+- Updated the flow for collecting Entra ID audit and sign-in logs in Lab 04.
+- Fixed validation issue in Lab 01 (Task 4) and Lab 05.
+
+### Screenshot Updates
+
+- Update multiple screenshots for clarity and understanding aligned with the latest Microsoft portal UI. 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-07
+
+### Testing Scope 
+
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+
+---
+</details>
+
+<details>
   <summary>2026-03-10</summary>
 
 ## Release Date: 2026-03-10
