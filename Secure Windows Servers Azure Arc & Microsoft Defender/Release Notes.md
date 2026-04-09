@@ -17,11 +17,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2026-04-08</summary>
 
-## Release Date: 2026-02-18
+## Release Date: 2026-04-08
 
 ### Summary of Changes
 
-Fixed rendering and did minor instruction updatesfor better clarity.  
+Fixed rendering and did minor instruction updates for better clarity.  
 
 ### Infrastructure Changes
 
@@ -43,7 +43,7 @@ Updated few instructions to have better understanding.
 
 ### Testing Scope 
 
-- Performed end to end lab testing, and all validations were successful.
+- Performed end-to-end lab testing, and all validations were successful.
 
 ---
 </details>
