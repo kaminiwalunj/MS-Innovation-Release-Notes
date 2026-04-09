@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. This includes model upgrades across all challenges, along with corresponding updates to ensure compatibility with GPT-5 models. The Python notebooks and web application code were updated to align with the latest model requirements.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. In addition, GPT model upgrades were applied across all challenges, along with corresponding updates to ensure compatibility with GPT-5 models. The Python notebooks and web application code were also updated to align with the latest model requirements.
 
 ### Infrastructure Changes
 
