@@ -26,19 +26,19 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Infrastructure Changes
 
-N/A
+Updated UI and flow for the Azure search service
 
 ### Content Changes
 
-- **Minor updates**: 
+- **Major updates**: 
 
-    -Updated few instructions to align with latest flow of the lab 
+    - Updated instructions to align with latest flow of the lab.
 
 ### Screenshot Updates
 
-- **Minor updates**: 
+- **Major updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshots to align with latest UI of Azure portal and Foundry
+    - **Updated UI Screenshots**: Updated screenshots to align with latest UI of Azure portal and Open AI. 
       
 ### Testing Notes
 
@@ -46,9 +46,7 @@ N/A
 
 ### Testing Scope 
 
-- Completed end to end testing and validated all the steps
-
-- Reviewed the lab guide and rendering as well and also reviewed Rbac and custom policy on template level
+- Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide.
 
 ---
 
