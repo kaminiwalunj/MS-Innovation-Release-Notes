@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-08</summary>
+
+## Release Date: 2026-04-08
+
+### Summary of Changes 
+
+The lab has been tested, and minor updates have been made to the instructions to provide clearer steps and better alignment within the integrated environment.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- NA
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-08
+
+### Testing Scope 
+
+- Validation was conducted across RBAC permission updates, lab flow continuity, content accuracy, and ensuring screenshots are aligned with the latest UI.
+
+---
+</details>
+
+
+<details>
   <summary>2026-03-13</summary>
 
 ## Release Date: 2026-03-13

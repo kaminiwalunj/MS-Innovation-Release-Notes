@@ -14,6 +14,40 @@ This Page contains detailed notes about the latest updates and modifications mad
  `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-04-10</summary>
+
+## Release Date: 2026-04-10
+
+### Summary of Changes
+
+Enhanced the overall lab experience by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for better clarity and usability. Additionally, replaced the deprecated GPT-4.1 Mini model with GPT-5 Mini to ensure continued compatibility and alignment with upcoming model support changes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved and clarified instructions in Lab 1 and Lab 3 to make the steps easier to follow for users.
+- Added detailed guidance for model replacement to support the transition from GPT-4.1 Mini to GPT-5 Mini.
+- Refined instructional content to reduce ambiguity and improve the overall learning experience.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and model configuration:
+- Updated the Lab 01 page screenshots to showcase the new model (GPT-5 Mini) and current interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-10
+
+### Testing Scope 
+
+Performed end-to-end validation of all labs to ensure accuracy and usability. Verified updated instructions, confirmed correct model replacement in Azure AI Foundry, and tested deployment workflows using the latest model configuration. Also ensured that all updated screenshots align with the current UI and documented steps.
+
+---
+</details>
 
 <details>
   <summary>2026-01-06</summary>
