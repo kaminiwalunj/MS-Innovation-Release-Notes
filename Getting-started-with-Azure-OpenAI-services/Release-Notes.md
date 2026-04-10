@@ -1,6 +1,6 @@
-# Getting started with Azure OpenAI services
+# Get Started with Azure OpenAI Service
 
-Welcome to the **Getting started with Azure AI services** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started with Azure OpenAI Service** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-04-10</summary>
+
+## Release Date: 2026-04-10
+
+### Summary of Changes
+
+Minor update to reflect updated Azure OpenAI portal interface UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the gpt-4o-mini model deployment from Standard deployment type to Global Standard deployment type.
+
+### Screenshot Updates
+
+- Minor screenshot updates to reflect the latest UI changes while deploying the gpt-4o-mini model.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-10
+
+### Testing Scope 
+
+- Tested lab end-to-end, ensuring all procedural steps, prompts, and validation checks perform accurately and as designed.
+
+---
+</details>
 
 <details>
   <summary>2026-02-26</summary>
@@ -45,6 +77,7 @@ N/A
 - Tested lab end-to-end, ensuring all procedural steps, prompts, and validation checks perform accurately and as designed.
 
 ---
+
 </details>
 
 <details>
