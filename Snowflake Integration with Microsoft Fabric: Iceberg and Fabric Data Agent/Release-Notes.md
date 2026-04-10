@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-04-09</summary>
+
+## Release Date: 2026-04-09
+
+### Summary of Changes
+
+Enhanced the lab content by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for better clarity. Added guidance to help users troubleshoot common errors encountered while loading data into the Lakehouse. Also introduced instructions on how to set up and use the Snowflake trial environment effectively.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved and clarified instructions across Lab 1, Lab 2, Lab 3, Lab 4, and Lab 5 to enhance readability and ease of execution.
+- Updated content to align with the latest UI changes across the platform.
+- Added troubleshooting notes to assist users in resolving errors during data loading in the Lakehouse.
+- Included additional guidance in Lab 5 (Task 3) for working with the Cortex Agent.
+- Added instructions for setting up and using the Snowflake trial environment.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and improve user understanding:
+- Updated screenshots in Lab 5 to align with the latest Cortex Search UI changes in Snowflake.
+- Added new screenshots in Lab 2 to provide a more guided and user-friendly experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-12
+
+### Testing Scope 
+
+Performed end-to-end testing of all labs to validate updated instructions and ensure a smooth user experience. Verified data loading workflows in the Lakehouse, tested troubleshooting steps, and confirmed accuracy of the Snowflake-related tasks, including Cortex Agent functionality. Ensured all screenshots are consistent with the latest UI and documented steps.
+
+---
+</details>
 
 <details>
   <summary>2026-02-12</summary>
