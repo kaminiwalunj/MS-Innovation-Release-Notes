@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-09</summary>
+
+## Release Date: 2026-04-09
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. In addition, GPT model upgrades were applied across all challenges, along with corresponding updates to ensure compatibility with GPT-5 models. The Python notebooks and web application code were also updated to align with the latest model requirements.
+
+### Infrastructure Changes
+
+- Updated the VM SKU from **Standard B2ms** to **Standard D2Sv3**.
+
+### Content Changes
+
+* **Challenge 01:** Updated the gpt model from **gpt-4o** to **gpt-5.1**.
+* **Challenge 02:** Updated the gpt model from **gpt-4.1-mini** to **gpt-5-mini**, and updated the Python notebooks to ensure compatibility with GPT-5 models.
+* **Challenge 03:** Updated the gpt model from **gpt-4.1-mini** to **gpt-5-mini**, and updated the web application code to ensure compatibility with GPT-5 models.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-09
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
