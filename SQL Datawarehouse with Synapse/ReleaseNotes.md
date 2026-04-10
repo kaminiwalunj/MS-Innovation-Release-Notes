@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-10</summary>
+
+## Release Date: 2026-04-10
+
+### Summary of Changes
+
+Updated minor instruction in Exc1>Task2>Step33 for better clarity. and also fixed the rendering issue in Exc-2 Objectives. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+Ex 1:
+- Updated minor instruction in Exc1>Task2>Step33 for better clarity. and also fixed the rendering issue in Exc-2 Objectives.
+
+### Screenshot Updates
+
+NA
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-10
+
+### Testing Scope 
+
+- Performed the lab end-to-end, validated lab flow continuity, and content accuracy and updated the cost sheet as per the agreed format.
+
+</details>
+
+<details>
   <summary>2026-02-11</summary>
 
 ## Release Date: 2026-02-11
