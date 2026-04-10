@@ -43,7 +43,7 @@ NA
 
 ### Testing Scope 
 
-- Performed the lab end-to-end, validated lab flow continuity, and content accuracy and updated the cost sheet as per the agreed format.
+- Performed the lab end-to-end, validated lab flow continuity, and content accuracy and updated the cost sheet as per CL standards.
 
 </details>
 
