@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-13</summary>
+
+## Release Date: 2026-04-13
+
+### Summary of Changes
+
+The lab was successfully tested, and the content along with validations has been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 1 Task 2 Steps 5 to 7: Updated the instructions to use the **gpt-4.1** model.
+
+### Screenshot Updates
+
+- Exercise 1 – Task 2 Steps 5 to 7: Updated screenshots to align with the usage of the **gpt-4.1** model.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-13
+
+### Testing Scope 
+
+Conducted end-to-end testing of the lab and updated the guide to reflect the latest changes.
+
+---
+</details>
+
+<details>
   <summary>2026-02-24</summary>
 
 ## Release Date: 2026-02-24
