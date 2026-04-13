@@ -18,7 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
-  <summary>2026-02-24</summary>
+  <summary>2026-04-13</summary>
+
+## Release Date: 2026-04-13
+
+### Summary of Changes
+
+The lab was successfully tested, and the content along with validations has been reviewed and updated.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-13
+
+### Testing Scope 
+
+Performed end-to-end testing of the lab, and all validations completed successfully without any issues.
+
+---
+</details>
+
+
+<details>
+  <summary>2026-04-13</summary>
 
 ## Release Date: 2026-02-24
 
